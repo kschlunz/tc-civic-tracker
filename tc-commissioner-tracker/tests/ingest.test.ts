@@ -176,3 +176,28 @@ test("a failure keeps the meetings already done and stops before later ones", as
   const report = buildReport(run, plan, "m");
   assert.match(report, /This run stopped early.*2026-03-23 failed.*not processed: 2026-03-23, 2026-04-13.*"since" set to 2026-03-23/);
 });
+
+test("a report too long for a pull request description is shortened, keeping what needs checking", async () => {
+  const meetings: StoredMeeting[] = [];
+  const dates = Array.from({ length: 12 }, (_, i) => `2026-03-${String(i + 10).padStart(2, "0")}`);
+  const long = "The board discussed the matter at length. ".repeat(40);
+  const { llm } = fakeLlm({
+    extract: dates.map(() => extraction({ tldr: long })),
+    review: dates.map(() => ({ issues: [{ severity: "warning" as const, where: "tldr", problem: "Worth a look. ".repeat(60), evidence: "" }] })),
+  });
+  const plan = planIngest(dates.map((d) => listed(d)), meetings, options({ limit: 50 }), "2026-06-01");
+  const run = await runIngest({ plan, meetings, roster: ROSTER, options: options({ limit: 50 }), llm, model: "m", downloadPdf: async () => PDF, save: () => {} });
+
+  const full = buildReport(run, plan, "m");
+  assert.match(full, /The board discussed the matter at length/);
+
+  const short = buildReport(run, plan, "m", 12_000);
+  assert.ok(short.length <= 12_000);
+  assert.match(short, /Shortened to fit/);
+  assert.doesNotMatch(short, /The board discussed the matter at length/);
+  for (const d of dates) assert.match(short, new RegExp(`## ${d}`));
+  assert.match(short, /against: mccall/);
+  assert.match(short, /Check — tldr: Worth a look\./);
+
+  assert.ok(buildReport(run, plan, "m", 2_000).length <= 2_000);
+});
