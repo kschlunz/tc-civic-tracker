@@ -1,0 +1,270 @@
+{
+  "id": "2026-02-23",
+  "date": "2026-02-23",
+  "type": "regular",
+  "title": "Commissioners' Meeting 02/23/26",
+  "time": "6:00 PM",
+  "duration": "2 hours 2 minutes",
+  "audienceSize": 30,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved a Board of Education request to move $114,897.70 of unused school capital money to outfit the remodeled Old Gym for spectators. It also approved using $14,000 from the Sheriff's Office Tuition Assistance Reserve to upfit an undercover narcotics vehicle. The first half of department presentations for the FY 2027 budget took place, including an update on the $9.9 million Phase 7 landfill cell, with the rest scheduled for March 9. The County Manager and Chair said $700,000 already allocated for the Azalea/Rhododendron sewer project has not been rescinded.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the January 2026 Discovery, Release and Monthly Settlement Report (releases of $3,828.17 and refunds of $2,047.96), proclamations for Social Work Month and National Athletic Training Month in March 2026, and a resolution donating a surplus Sheriff's Office Meggitt FATS 100 LE firearms simulator to Blue Ridge Community College at no cost. The simulator can no longer be supported because the manufacturer is out of business.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved Board of Education request to reallocate $114,897.70 in Education Capital Fund money to outfit the Old Gym",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board of Education approved the request on February 16, 2026. It moves $105,000 from an uncompleted FY 2021 Brevard Elementary air handler project and $9,897.70 left in a FY 2024 systemwide capital repairs line. The money will pay for retractable bleachers, electronic scoreboards and wall mats in the remodeled Old Gym. The County Manager said County and school staff have been reviewing the Education Capital Fund together to find completed or inactive projects.",
+      "discussion": "The Board discussed making sure previously funded projects are completed as intended and that funds do not sit unused, as had happened in the past. Members noted the improved working relationship with the School System. Commissioners expressed appreciation for improving the Old Gym rather than building new, and it was noted the facility will soon begin hosting events.",
+      "page": 25
+    },
+    {
+      "description": "Approved $14,000 from Sheriff's Office Tuition Assistance Reserve to upfit an undercover narcotics vehicle",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Tuition Assistance Reserve was established in 2016, is funded by jail commissary proceeds, and was expected to exceed $90,000 at the close of FY 2025, while FY 2026 tuition requests are minimal. The current vehicle upfit budget does not cover the cost this fiscal year, so the budget amendment moves reserve money to complete the upfit.",
+      "discussion": "The Board discussed recruitment and retention challenges, noting the tuition assistance program is a valuable incentive but participation is limited. Staff stressed continued investment in pay and workforce development. Discussion also covered vehicle procurement timelines, upfit delays and vendor performance, and staff confirmed remaining reserve funds will carry forward.",
+      "page": 25
+    },
+    {
+      "description": "Adjourned the meeting at 8:02 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn after all business was concluded.",
+      "discussion": "",
+      "page": 26
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Responded to public concerns about the Azalea Avenue project, stating that funding has already been allocated to support the City of Brevard's project and that there has been no shift in priorities.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Encouraged the public to rely on accurate and credible sources of information about County projects.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Was noted as the commissioner who will present the National Athletic Training Month proclamation at an event in Hendersonville on March 6.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Congratulated the US Hockey Team on its Olympic gold medal and recognized her great-niece as the first female wrestler to win a state championship for Brevard.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Expressed appreciation for staff and the quality of the departmental presentations.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Emphasized the importance of public input in shaping services and budget priorities while balancing service levels against tax rates.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Expressed condolences to the Stroup family on the loss of a community member.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Highlighted long-term planning for capital projects, noting that prior public safety infrastructure investments have let the County generate additional revenue and better meet service needs, with similar considerations for future facility planning.",
+          "categories": [
+            "infrastructure",
+            "safety",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "David Morrow",
+      "summary": "Announced that the Veterans History Museum of the Carolinas will open for its 2026 season on March 3 with updated exhibits and regular public hours."
+    },
+    {
+      "speaker": "Destini Pettit",
+      "summary": "Asked the County to restore funding for Styrofoam recycling, citing the earlier partnership with Feed Me Foam LLC. She suggested reinstating that partnership or buying a County-owned densifier to save landfill capacity."
+    },
+    {
+      "speaker": "Jeanne Lytle",
+      "summary": "Raised concern about a possible shift away from planned sewer expansion in the Azalea Avenue and Rhododendron neighborhoods, citing septic failures, health and groundwater risks, and possible loss of affordable housing. She urged the Board to prioritize the project and use available state funding with the City."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Encouraged commissioners to remain mindful of their oath of office and the U.S. and North Carolina Constitutions. He offered to help elected officials strengthen their understanding of constitutional governance."
+    },
+    {
+      "speaker": "Anna Ferguson",
+      "summary": "Identified herself as a candidate for NC House District 119 and expressed appreciation for the County's professionalism, planning and service delivery, saying it sets a high standard in the region."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-02-23-fu-1",
+      "dateRaised": "2026-02-23",
+      "owner": "staff",
+      "description": "Complete studies evaluating long-term solid waste disposal options and funding strategies over a 20–25-year horizon, including transfer stations, incineration or continued landfilling, and impacts on service levels or fees.",
+      "status": "open",
+      "categories": [
+        "environment",
+        "fiscal",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2026-02-23"
+    },
+    {
+      "id": "2026-02-23-fu-2",
+      "dateRaised": "2026-02-23",
+      "owner": "Scott Justus",
+      "description": "Research models from surrounding governments and present recommendations to Administration and the Board on updating fire code inspection agreements with the City of Brevard and Town of Rosman to comply with NCGS 160D.",
+      "status": "open",
+      "categories": [
+        "safety",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-02-23"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-02-23%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-02-23%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5744122",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T19:30:24.779Z",
+    "warnings": [
+      "Check — commissionerActivity[mccall].topics[2]: This is a note in the minutes about the chair's role in presenting a consent-agenda proclamation. It is not a point, question or position McCall raised in the meeting, so it may not belong under commissioner activity. (minutes: \"Chairwoman McCall will present the proclamation at an event in Hendersonville on March 6.\" (p. 3))",
+      "Check — tldr: The $700,000 figure and the statement about rescinding come from the County Manager only. The Chair said funding had been allocated and that priorities had not shifted; she gave no figure and said nothing about rescinding. Attributing the figure and the rescinding point to both overstates what the Chair said. (minutes: \"the Manager clarified that $700,000 has already been allocated ... no discussion of rescinding those funds\" (p. 25); \"Chairwoman McCall ... clarifying that funding has already been allocated ... no shift in priorities has occurred\" (p. 26))",
+      "Check — newFollowUps[0]: The new solid waste studies item may overlap the open follow-up 2026-02-09-fu-2 (Solid Waste rate study on a fee-based model). The minutes do not clearly identify these studies as the same rate study, so a reviewer should decide whether to keep them separate or link them, and whether fu-2 needs an update. (minutes: \"Upcoming studies will evaluate solid waste disposal options and funding strategies ... impacts on service levels or fees.\" (p. 24))"
+    ]
+  }
+}
