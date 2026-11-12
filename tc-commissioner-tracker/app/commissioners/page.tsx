@@ -32,6 +32,8 @@ function getRoleBadge(role: string) {
       return { label: "Chairperson", bg: "bg-secondary-fixed", text: "text-on-secondary-fixed" };
     case "Vice-Chair":
       return { label: "Vice-Chair", bg: "bg-tertiary-fixed-dim/30", text: "text-on-tertiary-container" };
+    case "Former Commissioner":
+      return { label: "Former member", bg: "bg-surface-container-high", text: "text-on-surface-variant" };
     default:
       return { label: "Member", bg: "bg-surface-container", text: "text-on-surface-variant" };
   }
@@ -71,7 +73,7 @@ export default function CommissionersList() {
             The Board of Commissioners
           </h1>
           <p className="font-body text-lg text-on-surface-variant max-w-xl">
-            Current Board of Commissioners — click for full activity profile. Tracking meetings, active topics, and legislative motions.
+            Click a commissioner for their full activity profile. Tracking meetings, active topics, and legislative motions.
           </p>
         </div>
       </div>
@@ -81,7 +83,6 @@ export default function CommissionersList() {
         {COMMISSIONERS.map((commissioner) => {
           const stats = getStats(commissioner.id, meetings);
           const badge = getRoleBadge(commissioner.role);
-          const notRunning = commissioner.id === "dalton" || commissioner.id === "mckelvey";
 
           return (
             <Link
@@ -96,9 +97,9 @@ export default function CommissionersList() {
                     <span className={`font-label text-[10px] uppercase tracking-widest ${badge.text} ${badge.bg} px-2 py-0.5 rounded`}>
                       {badge.label}
                     </span>
-                    {notRunning && (
+                    {commissioner.note && (
                       <span className="font-label text-[10px] uppercase tracking-widest text-error bg-error/10 px-2 py-0.5 rounded">
-                        Not running &apos;26
+                        {commissioner.note}
                       </span>
                     )}
                   </div>

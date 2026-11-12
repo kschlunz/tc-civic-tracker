@@ -36,7 +36,6 @@ function getCategoryCounts(commissionerId: string, meetings: Meeting[]) {
 
 export default function TopicRadarChart({ commissionerId, meetings, color, mini = false }: TopicRadarChartProps) {
   const data = getCategoryCounts(commissionerId, meetings);
-  const maxValue = Math.max(...data.map((d) => d.value), 1);
 
   return (
     <div style={{ width: mini ? 200 : 350, height: mini ? 200 : 300 }}>

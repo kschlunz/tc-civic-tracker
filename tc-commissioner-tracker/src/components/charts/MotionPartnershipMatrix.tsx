@@ -29,7 +29,7 @@ export default function MotionPartnershipMatrix({ meetings }: MotionPartnershipM
 
   for (const meeting of meetings) {
     for (const vote of meeting.keyVotes) {
-      if (vote.mover === "consent agenda") continue;
+      if (vote.consent || !vote.mover || !vote.seconder) continue;
       if (matrix[vote.mover] && matrix[vote.mover][vote.seconder] !== undefined) {
         matrix[vote.mover][vote.seconder]++;
       }

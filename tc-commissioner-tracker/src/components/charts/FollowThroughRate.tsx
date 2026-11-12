@@ -5,23 +5,12 @@ import type { FollowUpItem } from "@/lib/types";
 
 interface FollowThroughRateProps {
   followUps: FollowUpItem[];
-  statusOverrides: Record<string, string>;
 }
 
-function getEffectiveStatus(item: FollowUpItem, overrides: Record<string, string>): string {
-  return overrides[item.id] || item.status;
-}
-
-export default function FollowThroughRate({ followUps, statusOverrides }: FollowThroughRateProps) {
+export default function FollowThroughRate({ followUps }: FollowThroughRateProps) {
   const total = followUps.length;
-  const resolved = followUps.filter((f) => {
-    const s = getEffectiveStatus(f, statusOverrides);
-    return s === "resolved";
-  }).length;
-  const open = followUps.filter((f) => {
-    const s = getEffectiveStatus(f, statusOverrides);
-    return s === "open" || s === "in_progress";
-  }).length;
+  const resolved = followUps.filter((f) => f.status === "resolved").length;
+  const open = followUps.filter((f) => f.status === "open" || f.status === "in_progress").length;
   const dropped = total - resolved - open;
 
   const rate = total > 0 ? Math.round((resolved / total) * 100) : 0;

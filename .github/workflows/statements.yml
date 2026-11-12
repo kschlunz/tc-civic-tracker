@@ -1,0 +1,75 @@
+name: Find public statements
+
+# Once a week, searches local news for coverage of commissioners and opens a
+# pull request with anything new. Needs the same setup as "Ingest minutes".
+
+on:
+  schedule:
+    - cron: "41 12 * * 3" # Wednesday morning Eastern
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Search from this date (YYYY-MM-DD). Blank = two weeks before the newest recorded item."
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: statements
+  cancel-in-progress: false
+
+jobs:
+  statements:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: tc-commissioner-tracker
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if a statements pull request is still waiting for review
+        id: pending
+        run: |
+          open=$(gh pr list --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("statements/"))] | length')
+          echo "open=$open" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v4
+        if: steps.pending.outputs.open == '0'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tc-commissioner-tracker/package-lock.json
+
+      - run: npm ci
+        if: steps.pending.outputs.open == '0'
+
+      - name: Search for coverage
+        if: steps.pending.outputs.open == '0'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRACKER_MODEL: ${{ vars.TRACKER_MODEL }}
+          INPUT_SINCE: ${{ inputs.since }}
+        run: |
+          args=()
+          if [ -n "$INPUT_SINCE" ]; then args+=(--since "$INPUT_SINCE"); fi
+          npm run statements -- "${args[@]}"
+
+      - name: Open a pull request
+        if: steps.pending.outputs.open == '0' && hashFiles('tc-commissioner-tracker/statements-report.md') != ''
+        run: |
+          npm run data
+          branch="statements/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add src/data/statements.json
+          git commit -m "Add public statements from recent news coverage"
+          git push origin "$branch"
+          gh pr create --base "${GITHUB_REF_NAME}" --head "$branch" \
+            --title "New public statements from news coverage" \
+            --body-file statements-report.md

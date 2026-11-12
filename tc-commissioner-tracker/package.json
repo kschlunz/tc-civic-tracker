@@ -3,29 +3,42 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "data": "tsx scripts/build-data.ts",
+    "predev": "npm run data",
     "dev": "next dev",
+    "prebuild": "npm run data",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "prelint": "npm run data",
+    "lint": "eslint",
+    "pretypecheck": "npm run data",
+    "typecheck": "tsc --noEmit",
+    "pretest": "npm run data",
+    "test": "tsx --test --test-reporter=spec tests/*.test.ts",
+    "ingest": "tsx scripts/ingest.ts",
+    "statements": "tsx scripts/statements.ts",
+    "digest": "tsx scripts/digest.ts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.80.0",
-    "@supabase/supabase-js": "^2.99.3",
     "next": "16.2.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "recharts": "^3.8.0"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^1.8.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "dotenv": "^17.3.1",
     "eslint": "^9",
     "eslint-config-next": "16.2.0",
     "tailwindcss": "^4",
     "tsx": "^4.21.0",
-    "typescript": "^5"
+    "typescript": "^5",
+    "zod": "^4.6.7"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }

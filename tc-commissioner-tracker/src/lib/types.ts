@@ -1,9 +1,50 @@
+import type { z } from "zod";
+import type {
+  CommissionerSchema,
+  ElectionSchema,
+  FollowUpSchema,
+  KeyVoteSchema,
+  MeetingTopicSchema,
+  PublicCommentSchema,
+  PublicStatementSchema,
+  StoredMeetingSchema,
+  VoteBreakdownSchema,
+} from "./schema";
+
+export type MeetingTopic = z.infer<typeof MeetingTopicSchema>;
+export type VoteBreakdown = z.infer<typeof VoteBreakdownSchema>;
+export type KeyVote = z.infer<typeof KeyVoteSchema>;
+export type PublicComment = z.infer<typeof PublicCommentSchema>;
+export type FollowUpItem = z.infer<typeof FollowUpSchema>;
+export type StoredMeeting = z.infer<typeof StoredMeetingSchema>;
+export type CommissionerRecord = z.infer<typeof CommissionerSchema>;
+export type Election = z.infer<typeof ElectionSchema>;
+export type StoredStatement = z.infer<typeof PublicStatementSchema>;
+
+export interface CommissionerActivity {
+  topics: MeetingTopic[];
+  externalRoles: string[];
+  /** Derived from the meeting's votes when the data is loaded. */
+  motionsMade: number;
+  motionsSeconded: number;
+}
+
+/** A meeting as the app sees it: the stored record plus derived motion counts. */
+export interface Meeting extends Omit<StoredMeeting, "commissionerActivity"> {
+  commissionerActivity: Record<string, CommissionerActivity>;
+}
+
+/** A commissioner as the app sees it, with role and status worked out for today. */
 export interface Commissioner {
   id: string;
   name: string;
+  /** Current leadership role, "Commissioner", or "Former Commissioner". */
   role: string;
   since: string;
   color: string;
+  /** True while a term is running. */
+  current: boolean;
+  note?: string;
 }
 
 export interface Category {
@@ -13,78 +54,4 @@ export interface Category {
   color: string;
 }
 
-export interface MeetingTopic {
-  text: string;
-  categories: string[];
-}
-
-export interface CommissionerActivity {
-  topics: MeetingTopic[];
-  motionsMade: number;
-  motionsSeconded: number;
-  externalRoles: string[];
-}
-
-export interface KeyVote {
-  description: string;
-  result: string;
-  mover: string;
-  seconder: string;
-  background?: string;
-  discussion?: string;
-}
-
-export interface PublicComment {
-  speaker: string;
-  summary: string;
-}
-
-export interface FollowUpItem {
-  id: string;
-  dateRaised: string;
-  /** Commissioner ID, staff name (e.g. "Jaime Laughter"), or "staff" as fallback */
-  owner: string;
-  description: string;
-  status: "open" | "in_progress" | "resolved" | "dropped";
-  categories: string[];
-  relatedMeetingId: string;
-  /** Most recent meeting where this item was referenced */
-  lastReferencedMeetingId?: string;
-  resolvedDate?: string;
-  resolvedMeetingId?: string;
-  resolution?: string;
-}
-
-export interface Meeting {
-  id: string;
-  date: string;
-  type: string;
-  time: string;
-  attendees: string[];
-  audienceSize: number;
-  duration: string;
-  tldr: string;
-  keyVotes: KeyVote[];
-  commissionerActivity: Record<string, CommissionerActivity>;
-  publicComments: PublicComment[];
-  followUps?: FollowUpItem[];
-  /** Link to the original minutes PDF on the county website */
-  sourceUrl?: string;
-  /** Link to the agenda PDF */
-  agendaUrl?: string;
-}
-
-/** Generate the county minutes PDF URL from a meeting date and type */
-export function getSourceUrl(date: string, type: string): string {
-  const typeSlug = type === "special" ? "special%20mtg" : "reg%20mtg";
-  return `https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/${date}%20${typeSlug}.pdf`;
-}
-
-export interface PublicStatement {
-  date: string;
-  source: string;
-  type: "news" | "statement";
-  text: string;
-  url?: string;
-  categories: string[];
-}
+export type PublicStatement = Omit<StoredStatement, "commissionerId">;

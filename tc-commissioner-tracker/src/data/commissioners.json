@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mccall",
+    "name": "Teresa McCall",
+    "color": "#2D5A3D",
+    "since": "2020",
+    "terms": [{ "start": "2020-12-07" }],
+    "roles": [{ "role": "Chair", "start": "2025-12-08" }]
+  },
+  {
+    "id": "chapman",
+    "name": "Larry Chapman",
+    "color": "#8B4513",
+    "since": "2010",
+    "terms": [{ "start": "2010-12-06" }],
+    "roles": [{ "role": "Vice-Chair", "start": "2025-12-08" }]
+  },
+  {
+    "id": "chappell",
+    "name": "Jason Chappell",
+    "color": "#1B4F72",
+    "since": "2004",
+    "terms": [{ "start": "2004-12-06" }],
+    "roles": []
+  },
+  {
+    "id": "dalton",
+    "name": "Jake Dalton",
+    "color": "#6B3A5D",
+    "since": "2020",
+    "terms": [{ "start": "2020-12-07", "end": "2026-12-07" }],
+    "roles": [],
+    "note": "Not running '26"
+  },
+  {
+    "id": "mckelvey",
+    "name": "Chase McKelvey",
+    "color": "#4A6741",
+    "since": "2024",
+    "terms": [{ "start": "2024-12-02", "end": "2026-12-07" }],
+    "roles": [],
+    "note": "Not running '26"
+  }
+]

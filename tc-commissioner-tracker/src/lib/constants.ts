@@ -1,12 +1,17 @@
-import { Commissioner, Category } from "./types";
+import type { Commissioner, CommissionerRecord, Category, Election } from "./types";
+import { buildRoster, todayISO } from "./roster";
+import commissionerRecords from "@/data/commissioners.json";
+import electionData from "@/data/election.json";
 
-export const COMMISSIONERS: Commissioner[] = [
-  { id: "mccall", name: "Teresa McCall", role: "Chair", since: "2020", color: "#2D5A3D" },
-  { id: "chapman", name: "Larry Chapman", role: "Vice-Chair", since: "2010", color: "#8B4513" },
-  { id: "chappell", name: "Jason Chappell", role: "Commissioner", since: "2004", color: "#1B4F72" },
-  { id: "dalton", name: "Jake Dalton", role: "Commissioner", since: "2020", color: "#6B3A5D" },
-  { id: "mckelvey", name: "Chase McKelvey", role: "Commissioner", since: "2024", color: "#4A6741" },
-];
+/**
+ * Everyone who appears in the tracked record, sitting members first. Roles and
+ * "current" are worked out for today's date from src/data/commissioners.json,
+ * so a change of board needs a data edit, not a code change.
+ */
+export const COMMISSIONERS: Commissioner[] = buildRoster(commissionerRecords as CommissionerRecord[], todayISO());
+
+/** Sitting commissioners only. */
+export const CURRENT_COMMISSIONERS: Commissioner[] = COMMISSIONERS.filter((c) => c.current);
 
 export const CATEGORIES: Category[] = [
   { id: "fiscal", label: "Fiscal Policy & Revenue", icon: "💰", color: "#D4A843" },
@@ -37,10 +42,4 @@ export const CATEGORY_ICONS: Record<string, string> = {
   community: "diversity_3",
 };
 
-export const ELECTION_INFO = {
-  nextElection: "November 2026",
-  openSeats: 2,
-  note: "Dalton and McKelvey are not running for re-election.",
-  gopNominees: ["Howell", "Sutherland"],
-  demNominees: ["Carson", "O'Neil"],
-};
+export const ELECTION: Election = electionData as Election;

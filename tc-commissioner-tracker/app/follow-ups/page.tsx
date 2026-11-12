@@ -1,11 +1,13 @@
 "use client";
 
-import { Suspense, useState, useMemo } from "react";
+import { Suspense, useMemo } from "react";
 import Link from "next/link";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { COMMISSIONERS, CATEGORIES, CATEGORY_ICONS } from "@/lib/constants";
 import { useMeetings } from "@/lib/meetings-context";
-import { type FollowUpItem, getSourceUrl } from "@/lib/types";
+import type { FollowUpItem } from "@/lib/types";
+import { getFollowUps } from "@/lib/data";
+import { hasCategory } from "@/lib/filters";
 
 const STATUS_CONFIG: Record<FollowUpItem["status"], { label: string; bg: string; text: string; icon: string }> = {
   open: { label: "Open", bg: "bg-error/10", text: "text-error", icon: "radio_button_unchecked" },
@@ -40,67 +42,26 @@ function getDaysColor(days: number, isResolved: boolean) {
   return "text-on-surface-variant";
 }
 
-// Simple admin check — for now, check a localStorage flag.
-// Replace with real auth session check when auth is added.
-function useIsAdmin() {
-  const [isAdmin] = useState(() => {
-    if (typeof window === "undefined") return false;
-    return localStorage.getItem("tc-admin") === "true";
-  });
-  return isAdmin;
-}
-
 function FollowUpsContent() {
   const { meetings } = useMeetings();
   const searchParams = useSearchParams();
   const router = useRouter();
   const pathname = usePathname();
-  const isAdmin = useIsAdmin();
 
   function getMeetingSourceUrl(meetingId: string): string {
     const m = meetings.find((mtg) => mtg.id === meetingId);
-    if (m?.sourceUrl) return m.sourceUrl;
-    if (m) return getSourceUrl(m.date, m.type);
-    return getSourceUrl(meetingId, "regular");
+    return m?.sourceUrl ?? "https://www.transylvaniacounty.org/meetings";
   }
 
-  // Gather all follow-ups and build a "last referenced" lookup
+  // Every follow-up, plus the most recent later meeting that touched each one
   const { allFollowUps, lastReferenced } = useMemo(() => {
-    const items: FollowUpItem[] = [];
+    const items = getFollowUps(meetings);
     const refMap: Record<string, { meetingId: string; date: string }> = {};
-
-    // Sort meetings by date to track references chronologically
-    const sortedMeetings = [...meetings].sort((a, b) => a.date.localeCompare(b.date));
-
-    for (const m of sortedMeetings) {
-      if (m.followUps) {
-        for (const raw of m.followUps) {
-          // Normalize legacy "raisedBy" field to "owner"
-          // eslint-disable-next-line @typescript-eslint/no-explicit-any
-          const fu = { ...raw, owner: raw.owner || (raw as any).raisedBy || "staff" } as FollowUpItem;
-          // If this follow-up's relatedMeetingId matches the current meeting,
-          // it was raised here — collect it
-          if (fu.relatedMeetingId === m.id) {
-            items.push(fu);
-          }
-          // If lastReferencedMeetingId is set in the data, use it
-          if (fu.lastReferencedMeetingId) {
-            refMap[fu.id] = { meetingId: fu.lastReferencedMeetingId, date: m.date };
-          }
-        }
-      }
+    for (const fu of items) {
+      const meetingId = fu.resolvedMeetingId ?? fu.lastReferencedMeetingId;
+      if (meetingId) refMap[fu.id] = { meetingId, date: meetingId };
     }
-
-    // Deduplicate by ID (in case same follow-up appears in multiple meeting files)
-    const deduped = new Map<string, FollowUpItem>();
-    for (const item of items) {
-      deduped.set(item.id, item);
-    }
-
-    return {
-      allFollowUps: Array.from(deduped.values()).sort((a, b) => b.dateRaised.localeCompare(a.dateRaised)),
-      lastReferenced: refMap,
-    };
+    return { allFollowUps: items, lastReferenced: refMap };
   }, [meetings]);
 
   // Filters from URL
@@ -113,33 +74,13 @@ function FollowUpsContent() {
       items = items.filter((f) => f.owner === ownerFilter);
     }
     if (catFilter) {
-      items = items.filter((f) => f.categories.includes(catFilter));
+      items = items.filter((f) => hasCategory(f.categories, catFilter));
     }
     return items;
   }, [allFollowUps, ownerFilter, catFilter]);
 
-  // Status overrides from localStorage
-  const [statusOverrides, setStatusOverrides] = useState<Record<string, FollowUpItem["status"]>>(() => {
-    if (typeof window === "undefined") return {};
-    try {
-      return JSON.parse(localStorage.getItem("tc-followup-status") || "{}");
-    } catch {
-      return {};
-    }
-  });
-
-  function getEffectiveStatus(item: FollowUpItem): FollowUpItem["status"] {
-    return statusOverrides[item.id] || item.status;
-  }
-
-  const openItems = filtered.filter((f) => {
-    const s = getEffectiveStatus(f);
-    return s === "open" || s === "in_progress";
-  });
-  const resolvedItems = filtered.filter((f) => {
-    const s = getEffectiveStatus(f);
-    return s === "resolved" || s === "dropped";
-  });
+  const openItems = filtered.filter((f) => f.status === "open" || f.status === "in_progress");
+  const resolvedItems = filtered.filter((f) => f.status === "resolved" || f.status === "dropped");
 
   function setFilter(key: string, value: string) {
     const params = new URLSearchParams(searchParams.toString());
@@ -150,14 +91,6 @@ function FollowUpsContent() {
     }
     const qs = params.toString();
     router.push(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
-  }
-
-  function updateStatus(itemId: string, newStatus: FollowUpItem["status"]) {
-    const next = { ...statusOverrides, [itemId]: newStatus };
-    setStatusOverrides(next);
-    try {
-      localStorage.setItem("tc-followup-status", JSON.stringify(next));
-    } catch { /* ignore */ }
   }
 
   // Build unique owners for filter dropdown
@@ -233,8 +166,7 @@ function FollowUpsContent() {
         ) : (
           <div className="space-y-4">
             {openItems.map((item) => {
-              const effectiveStatus = getEffectiveStatus(item);
-              const config = STATUS_CONFIG[effectiveStatus];
+              const config = STATUS_CONFIG[item.status];
               const days = daysSince(item.dateRaised);
               const daysColor = getDaysColor(days, false);
               const ownerLink = getOwnerLink(item.owner);
@@ -300,24 +232,10 @@ function FollowUpsContent() {
                       </div>
                     </div>
                   </div>
-                  {/* Status update — admin only */}
-                  {isAdmin ? (
-                    <select
-                      value={effectiveStatus}
-                      onChange={(e) => updateStatus(item.id, e.target.value as FollowUpItem["status"])}
-                      className="bg-surface-container-low border border-outline-variant/30 rounded px-2 py-1.5 text-[10px] font-label font-bold uppercase tracking-tight focus:ring-1 focus:ring-primary outline-none shrink-0"
-                    >
-                      <option value="open">Open</option>
-                      <option value="in_progress">In Progress</option>
-                      <option value="resolved">Resolved</option>
-                      <option value="dropped">Dropped</option>
-                    </select>
-                  ) : (
-                    <span className={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded text-[10px] font-bold uppercase tracking-tight ${config.bg} ${config.text} shrink-0`}>
-                      <span className="material-symbols-outlined text-[14px]">{config.icon}</span>
-                      {config.label}
-                    </span>
-                  )}
+                                    <span className={`inline-flex items-center gap-1 px-2.5 py-1.5 rounded text-[10px] font-bold uppercase tracking-tight ${config.bg} ${config.text} shrink-0`}>
+                    <span className="material-symbols-outlined text-[14px]">{config.icon}</span>
+                    {config.label}
+                  </span>
                 </div>
               );
             })}
@@ -334,8 +252,7 @@ function FollowUpsContent() {
           </h2>
           <div className="space-y-3">
             {resolvedItems.map((item) => {
-              const effectiveStatus = getEffectiveStatus(item);
-              const config = STATUS_CONFIG[effectiveStatus];
+              const config = STATUS_CONFIG[item.status];
               const days = daysSince(item.dateRaised);
               const ownerLink = getOwnerLink(item.owner);
               const ref = lastReferenced[item.id];
@@ -386,23 +303,10 @@ function FollowUpsContent() {
                       )}
                     </div>
                   </div>
-                  {isAdmin ? (
-                    <select
-                      value={effectiveStatus}
-                      onChange={(e) => updateStatus(item.id, e.target.value as FollowUpItem["status"])}
-                      className="bg-surface-container border border-outline-variant/30 rounded px-2 py-1.5 text-[10px] font-label font-bold uppercase tracking-tight focus:ring-1 focus:ring-primary outline-none shrink-0"
-                    >
-                      <option value="open">Open</option>
-                      <option value="in_progress">In Progress</option>
-                      <option value="resolved">Resolved</option>
-                      <option value="dropped">Dropped</option>
-                    </select>
-                  ) : (
-                    <span className={`inline-flex items-center gap-1 px-2 py-1.5 rounded text-[10px] font-bold uppercase ${config.bg} ${config.text} shrink-0`}>
-                      <span className="material-symbols-outlined text-[12px]">{config.icon}</span>
-                      {config.label}
-                    </span>
-                  )}
+                                    <span className={`inline-flex items-center gap-1 px-2 py-1.5 rounded text-[10px] font-bold uppercase ${config.bg} ${config.text} shrink-0`}>
+                    <span className="material-symbols-outlined text-[12px]">{config.icon}</span>
+                    {config.label}
+                  </span>
                 </div>
               );
             })}
