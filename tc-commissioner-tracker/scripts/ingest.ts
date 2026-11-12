@@ -64,12 +64,20 @@ async function main() {
     throw new Error("ANTHROPIC_API_KEY is not set. Add it to .env.local or the environment.");
   }
   const { llm, usage, model } = createClaudeLlm({ model: resolveModel() });
-  const results = await runIngest({ plan, meetings, roster, options, llm, model, downloadPdf, save: saveMeeting, log: console.log });
+  const run = await runIngest({ plan, meetings, roster, options, llm, model, downloadPdf, save: (meeting) => saveMeeting(meeting), log: console.log });
+  const { results, stopped } = run;
 
-  fs.writeFileSync(reportFile, buildReport(results, plan, model));
-  const flagged = results.filter((r) => r.warnings.length > 0).length;
-  console.log(`\nAdded ${results.length} meeting(s); ${flagged} with items to check. Report: ingest-report.md`);
   console.log(`Model usage: ${usage.requests} requests, ${usage.inputTokens} input tokens (+${usage.cachedInputTokens} cached), ${usage.outputTokens} output tokens.`);
+  if (results.length > 0) {
+    fs.writeFileSync(reportFile, buildReport(run, plan, model));
+    const flagged = results.filter((r) => r.warnings.length > 0).length;
+    console.log(`\nAdded ${results.length} meeting(s); ${flagged} with items to check. Report: ingest-report.md`);
+  }
+  if (stopped) {
+    console.error(`\nStopped at ${stopped.date}: ${stopped.error}`);
+    // With nothing saved there is nothing to review, so fail the run. Otherwise the report carries the warning.
+    if (results.length === 0) process.exit(1);
+  }
 }
 
 main().catch((error) => {
