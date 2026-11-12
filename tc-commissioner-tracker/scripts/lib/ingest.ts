@@ -132,10 +132,28 @@ export async function runIngest(input: {
   return { results };
 }
 
-/** Markdown summary for the pull request a reviewer reads. */
-export function buildReport(run: IngestRun, plan: IngestPlan, model: string): string {
+/** GitHub rejects pull request descriptions longer than 65,536 characters. */
+const MAX_REPORT_LENGTH = 60_000;
+
+/**
+ * Markdown summary for the pull request a reviewer reads. A large run (a
+ * rebuild) gets a shorter form so it fits in a pull request description; the
+ * full list of concerns is always stored in each record's `extraction.warnings`.
+ */
+export function buildReport(run: IngestRun, plan: IngestPlan, model: string, maxLength: number = MAX_REPORT_LENGTH): string {
+  const full = renderReport(run, plan, model, false);
+  if (full.length <= maxLength) return full;
+  const compact = renderReport(run, plan, model, true);
+  if (compact.length <= maxLength) return compact;
+  return `${compact.slice(0, maxLength - 80)}\n\n_Summary cut short. See the files in this pull request._\n`;
+}
+
+function renderReport(run: IngestRun, plan: IngestPlan, model: string, compact: boolean): string {
   const { results, stopped } = run;
   const lines: string[] = [];
+  if (compact) {
+    lines.push("_Shortened to fit: meeting summaries and follow-up details are left out here. Each record's full list of concerns is in its `extraction.warnings`._", "");
+  }
   if (stopped) {
     const remaining = plan.toProcess.filter((m) => m.date >= stopped.date).map((m) => m.date);
     lines.push(`> **This run stopped early.** ${stopped.date} failed (${stopped.error}), so it and the meetings after it were not processed: ${remaining.join(", ")}. After merging this, run the ingest workflow again with "Rebuild" ticked and "since" set to ${stopped.date}.`, "");
@@ -146,20 +164,22 @@ export function buildReport(run: IngestRun, plan: IngestPlan, model: string): st
     const split = meeting.keyVotes.filter((v) => v.votes && v.votes.nays.length > 0);
     lines.push(`## ${meeting.date} — ${meeting.title ?? `${meeting.type} meeting`}`, "");
     lines.push(`[Minutes PDF](${meeting.sourceUrl}) · ${meeting.attendees.length} commissioners present · ${meeting.keyVotes.length} votes (${split.length} split) · ${meeting.publicComments.length} public comments · ${meeting.followUps.length} new follow-ups${revised ? " · revised once after review" : ""}`, "");
-    lines.push(meeting.tldr, "");
+    if (!compact) lines.push(meeting.tldr, "");
     if (split.length > 0) {
       lines.push("**Split votes**", "");
       for (const v of split) lines.push(`- ${v.description} — ${v.result}, against: ${v.votes!.nays.join(", ")}${v.page ? ` (p. ${v.page})` : ""}`);
       lines.push("");
     }
-    if (followUpUpdates.length > 0) {
+    if (followUpUpdates.length > 0 && compact) {
+      lines.push(`${followUpUpdates.length} earlier follow-up${followUpUpdates.length === 1 ? "" : "s"} updated.`, "");
+    } else if (followUpUpdates.length > 0) {
       lines.push("**Earlier follow-ups updated**", "");
       for (const u of followUpUpdates) lines.push(`- \`${u.id}\` → ${u.status.replace("_", " ")}: ${u.description} — ${u.resolution}`);
       lines.push("");
     }
     if (warnings.length > 0) {
       lines.push("**To check**", "");
-      for (const w of warnings) lines.push(`- ${w}`);
+      for (const w of warnings) lines.push(`- ${compact && w.length > 300 ? `${w.slice(0, 300)}…` : w}`);
       lines.push("");
     } else {
       lines.push("No concerns raised by the automated review.", "");
