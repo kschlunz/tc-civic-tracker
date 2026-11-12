@@ -1,0 +1,565 @@
+{
+  "id": "2025-03-24",
+  "date": "2025-03-24",
+  "type": "regular",
+  "title": "Commissioners' Meeting 03/24/25",
+  "time": "6:00 PM",
+  "duration": "3 hours 22 minutes",
+  "audienceSize": 40,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The Board voted 4–1, with Commissioner McKelvey opposed, to pursue replacing the county's eight fire service districts with a single countywide service district for fire, EMS and rescue, effective July 1, 2025. A public hearing date is still to be set. The Board reviewed four new courthouse options from Sizemore Architects, with total project costs from $38.2 million to $61.1 million, and Chairman Chappell said the Board will act on the courthouse at its second April meeting. The Board also heard Blue Ridge Community College's FY 2026 budget request and a briefing on Hurricane Helene private property debris removal, and approved a consent agenda that included SRO conference travel, three proclamations and a resolution supporting Senate Bill 248.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda, including $14,000 out-of-state SRO conference travel and a resolution supporting Senate Bill 248",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included: the March 10, 2025 minutes; the February 2025 discovery, release and settlement report ($1,003.76 released, $2,165.17 refunded); and the Sheriff's request to send 10 School Resource Officers to the National SRO Conference in Las Vegas at a total cost of $14,000. It also included proclamations for Child Abuse Prevention Month, National Public Health Week and National Public Safety Telecommunicators Week; a DSS request to overlap an Administrative Assistant II position, funded by lapsed salaries; Resolution #11-2025 supporting Senate Bill 248 on adoptee access to birth records; and designation of Kevin Shook and Cameron Sexton as primary and secondary agents for FEMA Public Assistance for Hurricane Helene.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Pursue a single countywide service district for fire protection, EMS and rescue (Option 3), effective July 1, 2025",
+      "result": "4-1",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall"
+        ],
+        "nays": [
+          "mckelvey"
+        ],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Assistant County Manager David McNeill reported that the county's eight fire service district resolutions, adopted in the 1980s and 1990s, do not explicitly authorize spending district taxes on EMS and rescue, which contracted fire departments now provide. Staff offered three options: update all eight resolutions, add EMS/rescue to the existing resolutions, or create a single countywide district. Notification and mailing costs were estimated at $18,000–$20,000, and legal costs would be incurred under any option.",
+      "discussion": "Commissioners asked about the public hearing timeline, tax and insurance-rating effects, municipal opt-in or opt-out, the Sylvan Valley II and Caesar's Head arrangements, fire chiefs' support, tax bills and reserves. McNeill said all districts except Brevard are at 5.5 cents but only one district raises enough at that rate to cover its budget. Commissioner McCall supported the motion, saying a single district would ensure adequate fire protection regardless of a district's tax base. Commissioner McKelvey said he had heard from three departments opposed and one in support, and wanted to hear from all departments and see updated data from other counties first. The Manager noted that holding a public hearing does not obligate the Board to adopt the proposal.",
+      "page": 26
+    },
+    {
+      "description": "Adjourned the meeting at 9:24 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn after all business was concluded.",
+      "discussion": "",
+      "page": 28
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether the earlier $50 million estimate for a new Blue Ridge Community College campus remained realistic, and noted that other counties had received state funding while Transylvania had not.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether sites had been considered for a new BRCC campus, when a campus decision would become critical, and what would happen to the current property.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked how inmates would be transported between the Public Safety Facility and the new courthouse.",
+          "categories": [
+            "safety",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Expressed concern about avoiding Henderson County's experience of needing courthouse expansion sooner than planned, and asked how confident the team was that the plans would meet future needs.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Suggested the County consider relocating the Tax and Register of Deeds offices into the new courthouse in the future, and the long-term viability of their current building.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether there was a courthouse of comparable size that Commissioners could visit.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Raised the courthouse's aesthetics, saying the building should be a showcase for the county.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about the expected design and construction timeline for the courthouse.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked how much of a tax increase each courthouse option might require.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about the tax implications of a single fire service district and whether insurance ratings would be affected.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether citizens wishing to protest during Congressman Edwards' office hours at Silvermont would need a permit.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Encouraged Commissioners to visit the home purchased by Isaac Homes, planned to serve 15–20 children, and urged those able to consider donating.",
+          "categories": [
+            "community",
+            "health"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked whether the $75,000 facilities assessment was still part of BRCC's budget request, and noted that the $50 million campus estimate excluded land, utilities and site improvements.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Raised concerns that farm and agricultural debris, such as damaged hay and equipment, is ineligible for private property debris removal, and suggested Commissioner Chapman ask about farm restoration funding in Raleigh.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked about the size of the existing courthouse, the courthouse shell space, the Option 1B future addition, and inmate transport practices in other counties.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Cited the county's slow population growth, high median age and low crime rate, and said a courthouse of 45,000–50,000 sq. ft. seemed appropriate.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about the condition and renovation status of the current Tax and Register of Deeds building.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked when courthouse renderings would be available, and suggested the Board decide by its second April meeting to stay on the financing timeline.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about the contingency and FF&E allocations in the courthouse estimates and how soon external requirements and costs could be identified.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stressed weighing taxpayer impact after Hurricane Helene, noting that every courthouse option at least doubles the current 20,000 sq. ft. facility.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said a single fire service district would pool funding to benefit all departments and provide a lifeline to smaller departments; she also asked how Brevard would be handled if it opted out and whether general fund supplements would end.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Reported citizen concerns about Army Corps of Engineers dredging and debris removal on the French Broad River, clarifying that the work is coordinated by NCEM and FEMA, not the County.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Noted that the Manager's FEMA congressional hearing would be recorded for later viewing.",
+          "categories": [
+            "recovery"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Raised concerns about local rainfall and whether the courthouse stormwater basin could manage runoff.",
+          "categories": [
+            "infrastructure",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked about sidewalk obligations for the courthouse under the City of Brevard's Unified Development Ordinance.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said he had requested exploration of alternative construction methods based on the Sylvan Valley Industrial Building, and suggested precast can meet both functional and aesthetic needs.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the courthouse roof would be flat or pitched.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about soil conditions at the courthouse site, citing soil problems at the Sylvan Valley Industrial Building.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the single fire district would include fire, rescue and EMS, whether it would affect Cedar Mountain's contract to serve Caesar's Head, and whether the Chiefs Association supported it.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Cited Rosman, whose budget needs implied a rate closer to 32 cents versus the 5.5-cent fire tax, and the lean budgets of districts such as Balsam Grove.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Raised concerns about declining volunteerism and departments requesting paid staff to meet ISO requirements.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Reported speaking with Mr. Hinkleman of Isaac Homes and noted the organization has secured grants for renovations and opening the facility.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said the next step on a BRCC campus is the Axias facilities study, noting the $75,000 assessment was funded mid-year, and emphasized continued advocacy with General Assembly partners.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Encouraged property owners to apply promptly for private property debris removal assistance.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Requested that the Manager provide a prior document detailing courthouse space needs, and asked about the size of the partial basement.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said demographics and trends should guide courthouse planning and emphasized the County's record of reusing older buildings.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked for precast cost estimates for all four courthouse options and a projection of lifetime maintenance costs comparing construction methods.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Highlighted the importance of contingency funds, citing the unanticipated sidewalk requirement at the Public Safety Facility.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Urged caution in discussing tax rates during the ongoing revaluation, and confirmed the Board will act on the courthouse at its second April meeting.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the fire district public hearing could coincide with the budget hearing, and how a single district would affect tax bills and Sylvan Valley II coverage.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that citizens already pay the same fire tax rate with general fund supplements, and said the existing fire district resolutions are outdated and must be revised.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed condolences to families who recently lost children, thanked Congressman Edwards' staff for help securing a Capitol tour for Brevard Middle School, and voiced support for the Manager's FEMA testimony.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked whether the higher upfront cost of precast construction could be offset by lower lifetime maintenance costs, emphasizing full lifecycle cost.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how tariffs might change the price gap between precast and traditional construction.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how many counties have moved to a single fire district, and whether including EMS and Rescue might require a fire tax rate above 5.5 cents.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Acknowledged concerns from departments with strong tax bases about subsidizing others, contrasted them with North Transylvania's dated equipment, and raised a misconception about shifting paid staff between departments.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Expressed reservations about the single fire district, saying three departments he heard from opposed it and one supported it, and that he wanted input from all departments and updated data from other counties.",
+          "categories": [
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Lisa Rodke",
+      "summary": "Criticized the Board for not supporting the Fairhaven affordable housing project, citing a serious housing shortage. She urged the Board to work with the City of Brevard to secure grant funding rather than reject funding requests."
+    },
+    {
+      "speaker": "Ellen O'Brien",
+      "summary": "A Connestee Falls resident, she spoke in favor of affordable housing, linking the housing crisis to Hurricane Helene's effects on residents with the fewest resources. She urged solutions that help local workers stay in the county."
+    },
+    {
+      "speaker": "Kristi Brown",
+      "summary": "The Clerk of Superior Court distributed docket data and raised concerns about courtroom capacity in the new courthouse plans, noting criminal traffic court days often have 190–200 cases. She acknowledged that the largest courtroom may now hold 120–140 people and encouraged the Board to visit the court system to understand space needs."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-03-24-fu-1",
+      "dateRaised": "2025-03-24",
+      "owner": "staff",
+      "description": "Bring the courthouse option selection and budget range back for Board action at the second April meeting.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-03-24",
+      "lastReferencedMeetingId": "2025-04-28",
+      "resolvedDate": "2025-04-28",
+      "resolvedMeetingId": "2025-04-28",
+      "resolution": "The Board selected courthouse Option 2B (45,000 sq. ft., estimated $38.2 million, designed for a future 45,000 sq. ft. addition) at the April 28 meeting."
+    },
+    {
+      "id": "2025-03-24-fu-2",
+      "dateRaised": "2025-03-24",
+      "owner": "Joel Helms",
+      "description": "Provide a life cycle cost analysis comparing lifetime maintenance costs of traditional and precast construction for the courthouse.",
+      "status": "in_progress",
+      "categories": [
+        "infrastructure",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-03-24",
+      "lastReferencedMeetingId": "2025-04-28",
+      "resolution": "The architectural team evaluated alternative construction methods and recommended traditional construction as the most cost-effective. The minutes do not say whether a life-cycle maintenance cost comparison was provided."
+    },
+    {
+      "id": "2025-03-24-fu-3",
+      "dateRaised": "2025-03-24",
+      "owner": "Jaime Laughter",
+      "description": "Provide the Board with the prior document detailing courthouse space needs, as requested by Chairman Chappell.",
+      "status": "open",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-03-24"
+    },
+    {
+      "id": "2025-03-24-fu-4",
+      "dateRaised": "2025-03-24",
+      "owner": "staff",
+      "description": "Revisit the sidewalk fee-in-lieu agreement with the City of Brevard to determine any new obligations for the courthouse.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-03-24",
+      "lastReferencedMeetingId": "2025-10-13",
+      "resolvedDate": "2025-10-13",
+      "resolvedMeetingId": "2025-10-13",
+      "resolution": "Chairman Chappell said the County should not pay the City's sidewalk payment-in-lieu again because it was paid for the Public Safety Facility. Staff confirmed that documentation supports this."
+    },
+    {
+      "id": "2025-03-24-fu-5",
+      "dateRaised": "2025-03-24",
+      "owner": "staff",
+      "description": "Coordinate with the Manager to set a public hearing date on the single countywide fire service district and handle the required advertising and notices.",
+      "status": "resolved",
+      "categories": [
+        "safety",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-03-24",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolvedDate": "2025-06-23",
+      "resolvedMeetingId": "2025-06-23",
+      "resolution": "The public hearing on the single fire service district was held June 23, after staff reported that all required notices and report availability requirements had been met."
+    },
+    {
+      "id": "2025-03-24-fu-6",
+      "dateRaised": "2025-03-24",
+      "owner": "David McNeill",
+      "description": "Follow up on whether a permit is needed to protest during Congressman Edwards' office hours at Silvermont.",
+      "status": "open",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-03-24"
+    },
+    {
+      "id": "2025-03-24-fu-7",
+      "dateRaised": "2025-03-24",
+      "owner": "Darlene Abbott",
+      "description": "Look into other potential resources for removing storm debris from farms and agricultural land, which is ineligible for the private property debris removal program.",
+      "status": "open",
+      "categories": [
+        "recovery",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-03-24"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-03-24%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-03-24%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5006645",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:33:24.641Z",
+    "warnings": [
+      "Check — commissionerActivity[dalton].topics[4]: The minutes say Dalton asked about soil conditions encountered during construction of the Public Safety Facility. The draft says he asked about soil at the courthouse site. The Manager's answer did address the current site, but Dalton's question was framed around the Public Safety Facility. (minutes: \"Commissioner Dalton asked about soil conditions encountered during the construction of the Public Safety Facility, referencing issues during the construction of the Sylvan Valley Industrial Building\" (p. 21))",
+      "Check — followUpUpdates[2024-12-09-fu-1].resolution: The draft merges two separate statements. In the minutes, McNeill said at least one chief expressed strong support. The Fire Marshal's feedback from the Chiefs Association meeting was a separate point: the consensus was that a single district reflects current practice operationally. The draft attributes the one chief's support to the Fire Marshal's feedback. (minutes: \"Mr. McNeill confirmed that at least one chief expressed strong support. According to feedback from the Fire Marshal after a recent Chiefs Association meeting, the consensus was that this structure reflects current practice operationally\" (p. 24))"
+    ]
+  }
+}

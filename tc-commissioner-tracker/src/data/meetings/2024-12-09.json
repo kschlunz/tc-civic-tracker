@@ -1,0 +1,622 @@
+{
+  "id": "2024-12-09",
+  "date": "2024-12-09",
+  "type": "regular",
+  "title": "Commissioners' Meeting 12/09/24",
+  "time": "4:00 PM",
+  "duration": "2 hours 7 minutes",
+  "audienceSize": 30,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved a performance-based incentive grant of up to $7,149.11 to CW Williams (Project Fuego), which plans a regional first-responder vehicle service facility with 10 new jobs, and approved recruiting a full-time project manager for school capital projects at an annualized cost of $123,104.02. The consent agenda, approved in one vote, adopted the 2025 Reappraisal Schedule of Values, canceled the December 23 meeting and accepted a $25,000 Duke Energy disaster preparedness grant. The Board reappointed or appointed members to the Board of Health and two aging councils. It also heard the Tourism Development Authority's annual report and a Hurricane Helene recovery update, and discussed updating fire service district resolutions to include EMS and rescue without giving direction; staff will return with options after the new year.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda, including the 2025 Reappraisal Schedule of Values and cancellation of the December 23 meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda readopted the Code of Ethics without changes and approved the October 28, November 12 and December 2, 2024 minutes. It approved the October 2024 discovery, release and settlement report and November 2024 refund report, the 2025 Reappraisal Schedule of Values, and closing County offices on the afternoon of December 16 for the employee luncheon. It also canceled the December 23 meeting, received Vaya Health's FY 2025 Q1 fiscal report, approved a Delta Dental Foundation grant application and an Emergency Management Performance Grant application, accepted a $25,000 Duke Energy Foundation disaster preparedness grant, and allowed the America 250 NC Committee to apply for a $10,000 grant.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Reappointed Dawn Kauffman (Nurse) and Dr. Sim Cozart (Dentist) to the Board of Health",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Both members' terms expire December 31, 2024, and both wished to continue serving. Public Health Director Elaine Russell recommended their reappointment. A physician vacancy remains with no eligible applications on file.",
+      "discussion": "",
+      "page": 10
+    },
+    {
+      "description": "Reappointed Robert Stein as Community Member/Senior Tar Heel Alternate Delegate to the Regional Council on Aging",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Mr. Stein was appointed on May 13, 2024 to fill an unexpired term ending December 31, 2024. The Land of Sky Regional Council Area Aging Director recommended reappointing him to a full term.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Appointed Shannon Roberts to the Transylvania County Council on Aging",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "A vacancy arose because a member could no longer attend regularly. The Clerk received one application. The Council on Aging reviewed it, met the applicant and requested the appointment.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Approved performance-based incentive grant to Project Fuego (CW Williams) valued at $7,149.11",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "CW Williams, a Rocky Mount company serving fire, EMS and law enforcement vehicles, plans a regional operations center in an existing 10,000 sq. ft. building. It would invest at least $550,000 and create 10 jobs averaging $57,595. The grant comes from the general fund and is paid only if investment and job thresholds are met and property taxes are paid; a public hearing was held earlier in the meeting.",
+      "discussion": "Commissioners expressed appreciation for the company's planned investment and noted the County grant will help meet State requirements for accepting the Building Reuse Grant. They thanked Economic Alliance Executive Director Burton Hodges.",
+      "page": 12
+    },
+    {
+      "description": "Approved recruitment of a full-time project manager for school capital projects, annualized cost $123,104.02",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board of Commissioners and Board of Education agreed to hire a full-time project manager focused on school renovation projects, reporting to both the school system and the County. The position is paid from the County general fund, not bond funds, with a salary range of $69,243-$107,307. The annualized cost of $123,104.02 is for a candidate with 20 years of experience, and staff aim to select a candidate by the first quarter of 2025.",
+      "discussion": "Commissioner McKelvey asked about salary flexibility; the Manager said salaries are set by formula for internal equity. Commissioner McCall expressed a concern, and it was clarified that the position description will remain as is and not be open for revision.",
+      "page": 16
+    },
+    {
+      "description": "Adjourned the meeting at 6:12 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 17
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether the Project Fuego jobs would be filled locally or transferred from the company's other locations.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Emphasized understanding Hurricane Helene's financial impact on tourism and said it will compel the Board to make challenging decisions in coming months.",
+          "categories": [
+            "recovery",
+            "fiscal",
+            "econ"
+          ]
+        },
+        {
+          "text": "Commended the TCTDA team for promoting the county through its partnership with Market Connections.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked about the status of storm debris removal from the river.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked how the Army Corps of Engineers' debris removal guidelines are being communicated to the public.",
+          "categories": [
+            "recovery",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked how the proposed fire service district changes would affect the Rescue Squad.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Reported that at the City's presentation on aging, many attendees were unaware of the County's transportation services.",
+          "categories": [
+            "health",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Announced that Transylvania County kept its Tier 2 designation for another year, which he said helps in securing grants.",
+          "categories": [
+            "econ",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Transylvania County Tourism Development Authority Board of Directors",
+        "Land of Sky Regional Council (secondary member)",
+        "Land of Sky Rural Planning Organization",
+        "French Broad Metropolitan Planning Organization",
+        "Brevard/Transylvania County Ecusta Trail Advisory Board",
+        "NC Association of County Commissioners District 16 Director",
+        "NCACC Justice and Public Safety Steering Committee"
+      ]
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Commented that the County benefits from having a vehicle upfitting company locally because it must provide emergency services.",
+          "categories": [
+            "econ",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked about the composition of the Long-Term Recovery Group.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Noted that storm debris at the landfill is being separated from regular waste.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked whether a countywide fire service district would affect response districts.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Clarified that the immediate action needed is to add EMS and rescue to the fire district resolution wording.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Suggested the Board weigh eight districts against a single district, noting a single district could create a tax pool for more equitable funding.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that some fire departments face greater financial challenges due to location, and asked whether a single district would help.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said a single district would not stop departments from receiving community donations, and raised concern about reserve funds tied to specific districts.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether a public hearing is required to create a single service district.",
+          "categories": [
+            "governance",
+            "safety"
+          ]
+        },
+        {
+          "text": "Raised a concern about the school project manager position, and it was clarified that the position description will not be revised.",
+          "categories": [
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Board of Health",
+        "Social Services Board",
+        "Vaya Health County Commissioner Advisory Council",
+        "NCACC Tax and Finance Steering Committee"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Expressed gratitude for the extra effort in debris removal to protect the lifespan of the current landfill cell.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Urged prompt authorization of updates adding EMS and rescue to the fire district resolutions, given budget planning for early 2025.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that even updated resolutions would not take effect until July 1, 2025.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed interest in saving costs by joining the assessment mailing, but concluded the Board could not give direction at this meeting.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Agreed that a list of pros and cons and map options for the fire districts would be helpful.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said he nominated Oskar Blues as the County's Employer of the Year for providing water to citizens during the disaster response.",
+          "categories": [
+            "recovery",
+            "econ"
+          ]
+        },
+        {
+          "text": "Praised County staff and said citizens need not worry about the mismanagement reported in other counties.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Work First Planning Committee",
+        "Land of Sky Regional Council (primary member, Executive Committee)",
+        "Foreign Trade Zone Advisory Team"
+      ]
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked about the tax rates under the fire service district resolutions.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said a recent budget review showed one district's rate should have been 28 cents rather than 5.5 cents.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said that maintaining reserves for each district was important.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Wished the Brevard Blue Devils good luck in their upcoming football tournament.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Juvenile Crime Prevention Council",
+        "Personnel Board",
+        "Transylvania Economic Alliance Board of Directors",
+        "NCACC Tax and Finance Steering Committee"
+      ]
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked how other counties structure their fire service districts.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether a single service district would still require general fund supplements.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether fire chiefs had given feedback on the proposal.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Supported the administrative efficiency of a single district but said all options should be considered.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about flexibility in the salary range for the school project manager.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Burton Hodges",
+      "summary": "Speaking as Executive Director of the Transylvania Economic Alliance at the Project Fuego hearing, he said CW Williams plans a regional operations center with 10 net new jobs averaging $57,595 plus $550,000 in improvements. He noted the state awarded a Vacant Building Rehabilitation Grant and that the Alliance will work with Blue Ridge Community College on training."
+    },
+    {
+      "speaker": "Tripp Evans",
+      "summary": "As President of CW Williams, he thanked the Board for considering the incentive grant. He said the company looks forward to investing in the county and that its mission is to serve first responders."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2024-12-09-fu-1",
+      "dateRaised": "2024-12-09",
+      "owner": "Jaime Laughter",
+      "description": "Bring the Board more information on fire service district options after the first of the year, including maps, pros and cons, whether notices can go out with the Tax Office assessment mailing, and input from fire chiefs.",
+      "status": "resolved",
+      "categories": [
+        "safety",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolvedDate": "2025-06-23",
+      "resolvedMeetingId": "2025-06-23",
+      "resolution": "Staff presented the full fire service district information at a public hearing, and the Board voted 3-2 to establish a single fire tax district effective July 1, 2025."
+    },
+    {
+      "id": "2024-12-09-fu-2",
+      "dateRaised": "2024-12-09",
+      "owner": "David McNeill",
+      "description": "Create a timeline for a decision on the fire service district resolutions so statutory deadlines can be met before June 30, 2025.",
+      "status": "resolved",
+      "categories": [
+        "safety",
+        "governance"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolvedDate": "2025-06-23",
+      "resolvedMeetingId": "2025-06-23",
+      "resolution": "Staff reported that all statutory requirements were met. The single fire tax district was adopted on June 23, before the June 30 deadline."
+    },
+    {
+      "id": "2024-12-09-fu-3",
+      "dateRaised": "2024-12-09",
+      "owner": "staff",
+      "description": "Recruit and select a full-time project manager for school capital projects, with a goal of selecting a candidate by the first quarter of 2025.",
+      "status": "resolved",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-05-12",
+      "resolvedDate": "2025-05-12",
+      "resolvedMeetingId": "2025-05-12",
+      "resolution": "The Manager reported that Beecher Allison will begin as the County's new Project Manager on May 18 and will provide monthly updates to both boards."
+    },
+    {
+      "id": "2024-12-09-fu-4",
+      "dateRaised": "2024-12-09",
+      "owner": "staff",
+      "description": "Place the annual review of County Commissioner board and committee appointments on a January agenda for Board action.",
+      "status": "resolved",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-01-27",
+      "resolvedDate": "2025-01-27",
+      "resolvedMeetingId": "2025-01-27",
+      "resolution": "The Board took action on the annual review of commissioner board and committee appointments at this meeting."
+    },
+    {
+      "id": "2024-12-09-fu-5",
+      "dateRaised": "2024-12-09",
+      "owner": "staff",
+      "description": "Establish the joint committee to oversee the school bond projects and fill its positions in January 2025.",
+      "status": "resolved",
+      "categories": [
+        "schools",
+        "governance"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-01-27",
+      "resolvedDate": "2025-01-27",
+      "resolvedMeetingId": "2025-01-27",
+      "resolution": "The Board appointed Chairman Chappell and Commissioner McKelvey to the Joint School Bond Project Committee, joining the Board of Education's appointees named January 21."
+    },
+    {
+      "id": "2024-12-09-fu-6",
+      "dateRaised": "2024-12-09",
+      "owner": "Trisha Hogan",
+      "description": "Invite John Shoemaker and Isaac Allen to a January Board meeting to receive certificates of appreciation for their advisory council service.",
+      "status": "resolved",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-01-27",
+      "resolvedDate": "2025-01-27",
+      "resolvedMeetingId": "2025-01-27",
+      "resolution": "Chairman Chappell presented John Shoemaker with a certificate of appreciation. Isaac Allen had been recognized at the January 13 meeting."
+    },
+    {
+      "id": "2024-12-09-fu-7",
+      "dateRaised": "2024-12-09",
+      "owner": "Jaime Laughter",
+      "description": "Provide regular updates to the Board on Hurricane Helene recovery progress.",
+      "status": "in_progress",
+      "categories": [
+        "recovery"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-10-13",
+      "resolution": "The Manager gave an update covering FEMA assistance, private property and waterway debris removal, mitigation projects, private roads and bridges, and FEMA reimbursements."
+    },
+    {
+      "id": "2024-12-09-fu-8",
+      "dateRaised": "2024-12-09",
+      "owner": "staff",
+      "description": "Seek FEMA reimbursement for storm-related debris disposal costs at the landfill, supported by documentation.",
+      "status": "in_progress",
+      "categories": [
+        "recovery",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2024-12-09",
+      "lastReferencedMeetingId": "2025-01-27",
+      "resolution": "The Finance Director reported that landfill expenses, including $72,000 for grinding storm debris, are being included in the Category B emergency work reimbursement request to FEMA."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2024-12-09%20PH%20%26%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2024-12-09%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/1047558681",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:22:22.808Z",
+    "warnings": [
+      "Check — newFollowUps[1].description: The minutes do not tie McNeill's timeline commitment to a June 30, 2025 deadline. That date appears earlier only as the deadline that would apply if the Board chose to establish eight new service districts, which the Board has not decided. The description should say only that the timeline will ensure statutory deadlines can be met. (minutes: \"Mr. McNeill will create a timeline for a decision to ensure staff has enough time to comply with statutory deadlines.\" (p.15); June 30 appears only under \"If the Board opts to establish eight new service districts... before June 30, 2025\" (p.13))"
+    ]
+  }
+}

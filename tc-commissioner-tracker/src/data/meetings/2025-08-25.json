@@ -1,0 +1,856 @@
+{
+  "id": "2025-08-25",
+  "date": "2025-08-25",
+  "type": "regular",
+  "title": "Commissioners' Meeting 08/25/25",
+  "time": "6:00 PM",
+  "duration": "3 hours 19 minutes",
+  "audienceSize": 50,
+  "attendees": [
+    "dalton",
+    "chappell",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "Much of the meeting focused on resident complaints about sharply higher 2025 tax values for single-wide mobile homes. The Tax Administrator explained the sales-based valuation method, and commissioners urged owners to appeal by the Friday, August 29 deadline; the Chairman directed the County Attorney to ask the state whether the 30-day appeal window could be extended. The Board approved a $115,000 reserve drawdown for Lake Toxaway Fire Rescue, a $20,000 Sheriff's tuition reserve drawdown for vehicle repairs, the FY 2025 fourth-quarter budget amendments and several board appointments, and scheduled a public hearing on an ordinance restricting motorized vehicles such as powered paragliders on County property. Staff also gave updates on Helene recovery, capital and school construction projects, the County's environmental enforcement authority and fourth-quarter finances, and the meeting ended with a closed session on a personnel matter.",
+  "keyVotes": [
+    {
+      "description": "Approved the revised agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The Manager asked to remove the May 12, 2025 sealed closed session minutes from the Consent Agenda. She also asked to add a presentation by the Tax Administrator on mobile home values as Presentations Item A.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the Consent Agenda as modified",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The consent agenda included minutes from June 17, June 23 and July 14, the July 2025 tax discovery, release and settlement report (releases of $1,856.47 and refunds of $1,881.65), and out-of-state travel for Library and CARE Coalition staff. It also covered a DSS closure on September 18 from 1–5 p.m. for a staff retreat, notice of intent to convey medically retired K-9 Rambo to his handler, the FY 2026 annual purchasing resolution (#30-2025) and a resolution declaring September Preparedness Month (#31-2025).",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Appointed Elizabeth Cozart to the Library Board of Trustees",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Betsy Jordan's term expired at the end of June, and she was not eligible for reappointment after two full terms. The Library Board of Trustees recommended Elizabeth Cozart to fill the vacancy.",
+      "discussion": "",
+      "page": 14
+    },
+    {
+      "description": "Waived term limits and reappointed Kathe Harris, Delores Stroup and Al Vissers to the Council on Aging",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The three members' terms expire at the end of August, and there were no other applications on file. Staff recommended waiving term limits and reappointing them.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Appointed Jeff Katzenberger to the North Transylvania Fire Rescue Relief Fund Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Art Rowe, the County's appointee, retired from the Relief Fund Board. The North Transylvania Fire Rescue Board of Directors selected Jeff Katzenberger to replace him and recommended his appointment.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Adopted Resolution #32-2025 updating Review Officers for the City of Brevard",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "City Planner Katherine Buzby changed her name to Katherine Poe, so the list of Review Officers who certify maps and plats for recording needed updating. The motion also instructed the Clerk to record the resolution with the Register of Deeds.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Adopted Resolution #33-2025 removing Darby Terrell as a County Review Officer",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "County Planner Darby Terrell is no longer employed by the County. Her name was removed from the list of Review Officers, and the Clerk was instructed to record the resolution with the Register of Deeds.",
+      "discussion": "",
+      "page": 16
+    },
+    {
+      "description": "Approved Lake Toxaway Fire Rescue drawdown of $115,000 from its reserve fund",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Fire Marshal Scott Justus presented the request: $95,000 to replace a 2017 Ford Interceptor first responder vehicle with an equipped F250, and $20,000 for OSHA-mandated physicals and supplemental testing including cancer screening. The department's usual medical provider is no longer available, and the department has sufficient reserves to cover both items.",
+      "discussion": "After the vote, Commissioner Dalton asked about a single contract for physicals for all fire departments, and Commissioner McCall asked about remaining reserves after the single fire tax district took effect July 1.",
+      "page": 17
+    },
+    {
+      "description": "Approved FY 2025 fourth-quarter budget amendments",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented Budget Amendments 54 through 81, covering grants, reallocations and capital project changes. Examples include the $626,000 Library amphitheater roof project, a $2,477,929 fund balance appropriation for the new landfill cell, and Education Capital Fund changes such as a $652,780 increase to the Rosman support wall project.",
+      "discussion": "",
+      "page": 19
+    },
+    {
+      "description": "Received the FY 2025 fourth-quarter financial report",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Finance Director O'Neal presented unaudited results. The General Fund had $75.35 million in revenue, including $41.8 million in property taxes and about $10 million in sales tax, against $67.2 million in expenditures. The Solid Waste fund showed a loss of $112,981.",
+      "discussion": "Commissioners Dalton and McCall discussed how grant pass-through funds can make budget figures appear higher. Commissioner McKelvey asked about sales tax collections and why the landfill did not show an expected surplus. Chairman Chappell noted an upcoming solid waste study.",
+      "page": 21
+    },
+    {
+      "description": "Scheduled a public hearing on an ordinance regulating motorized vehicles on County-owned property",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The Manager reported complaints from neighbors of the Gallimore Road park about motorized paragliders using the park for takeoffs and landings, including low flying, harassment of cattle and littering. A draft ordinance was in the Board's packet. State law requires a public hearing before adoption, and the earliest possible date is the second meeting in September.",
+      "discussion": "Commissioner McCall supported a hearing and suggested considering permit fees. Commissioner Dalton cited liability risk from injuries and noted the ordinance does not affect private property. Commissioner McKelvey noted an out-of-state business is using County property for profit. Chairman Chappell suggested a broader discussion on the best use of the property.",
+      "page": 21
+    },
+    {
+      "description": "Approved $20,000 from the Sheriff's tuition assistance reserve for unexpected vehicle repairs",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The reserve, established in 2016, is funded by net inmate commissary proceeds, and excess funds may be used for other Sheriff's Office expenses. Sheriff Chuck Owenby requested the money for unexpected vehicle repairs. The fund's FY 2024 ending balance was $96,974.",
+      "discussion": "After the vote, Commissioner Dalton asked about the insurance claim for a Sheriff's vehicle damaged by a runaway 18-wheeler.",
+      "page": 22
+    },
+    {
+      "description": "Entered closed session on a personnel matter",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The closed session was held under N.C.G.S. § 143-318.11(a)(6) to consider a personnel matter, following a 10-minute recess. It began at 9:02 p.m.",
+      "discussion": "",
+      "page": 23
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The Board discussed a confidential personnel matter in closed session.",
+      "discussion": "",
+      "page": 24
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The minutes of the closed session on a personnel matter were sealed.",
+      "discussion": "",
+      "page": 24
+    },
+    {
+      "description": "Adjourned the meeting at 9:19 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "dalton",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "There was no further business.",
+      "discussion": "",
+      "page": 24
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked whether appeals requested before the Friday deadline would still be reviewed if they extended into September.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether there had been successful appeals on single-wide mobile home values.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Pointed out that Henderson and Buncombe Counties did not have revaluations this year, which may explain differences with nearby counties.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the valuation data was based on local sales and stressed that property owners should appeal if they question their values.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether misclassification could be addressed through appeal and said that, since the Board cannot change the law, owners should appeal while the Board continues legislative advocacy.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked staff to confirm with the state whether the 30-day appeal window could be extended.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the County had a final count of properties sold through the Helene buyout program.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether work on the Rosman gym settling is tied to the retaining wall project and whether Axias had previously identified the issue.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Noted that any new development ordinance would apply only to future projects, and that the County cannot impose restrictions beyond what state law allows where the state already regulates.",
+          "categories": [
+            "environment",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about remaining fire district reserves after the single fire tax district took effect July 1.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said many people misinterpret budget increases without understanding grant accounting, pass-throughs and unexpected revenues, which reduce the tax burden on citizens.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported scheduling a public hearing on the motorized vehicle ordinance, questioned County ownership of the Gallimore Road property, and said the County should consider permit fees.",
+          "categories": [
+            "governance",
+            "environment"
+          ]
+        },
+        {
+          "text": "Highlighted Constitution Week and supported ensuring students receive a personal copy of the U.S. Constitution.",
+          "categories": [
+            "schools",
+            "community"
+          ]
+        },
+        {
+          "text": "Said the recent tax increase was necessary to meet County needs such as Sheriff's vehicle replacements, ambulance purchases and landfill management, not to target any individual.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked about differences between commercial and private mobile home valuations.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted insurers treat classic vehicles differently from mobile homes, adding to fairness concerns about valuations.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Cited statutes distinguishing personal and real property, suggested the County may have reclassified certain homes and inflated values, and proposed reverting to last year's values.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the Board of Equalization and Review had adjourned.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the Brevard High School old gym would be ready for basketball season.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether the old Rosman gym was in the project scope, citing concern about settling in the front corner caused by underground drainage.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked what recourse the County has if state or federal agencies fail to enforce regulations, and noted the County may still face liability without enforcement authority.",
+          "categories": [
+            "environment",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about the possibility of a single contract for physicals for all fire departments.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Highlighted how pass-through funds can make budget figures appear higher than they are.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported moving forward with the motorized vehicle ordinance, citing liability from injuries and lawsuits, and noted it does not affect private property.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about the insurance claim for a Sheriff's vehicle damaged by a runaway 18-wheeler.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Reported attending the NCACC Conference with the County Manager and noted none of the County's state representatives were present.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Invited the public to the Lake Toxaway Community Center Heritage Day event.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Noted no nearby counties value mobile homes this way and asked why Transylvania County did.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Shared constituent concerns that sales-based values are hard to apply to depreciating mobile homes, compared it to classic car valuation, and stressed fairness for single-wide owners.",
+          "categories": [
+            "fiscal",
+            "housing"
+          ]
+        },
+        {
+          "text": "Apologized for his strong comments, saying he was reflecting residents' concerns about fairness in classification.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether any buyout properties had been closed out by FEMA and whether owners had withdrawn applications due to delays.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked how soon school construction could start after CMAR contracts are signed.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked about sales tax collections for FY 2025.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Recalled that the landfill was expected to have a surplus and asked why the figures did not reflect it.",
+          "categories": [
+            "fiscal",
+            "environment"
+          ]
+        },
+        {
+          "text": "Supported the motorized vehicle ordinance, noting a business from outside the county and state is using County property for profit.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Asked how property owners should appeal mobile home values.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether intent to sell affects reassessment and whether the County is following state statutes, noting Dillon's Rule requires compliance even if commissioners disagree.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the 30-day appeal window could be extended, directed the County Attorney to send an inquiry, and reiterated the August 29 at 5:00 p.m. deadline.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked when the schedule of values was advertised and presented.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about the timeline for geotechnical results on the Rosman retaining wall and any resulting scope expansion.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Commended Project Manager Beecher Allison, particularly for identifying drainage issues at the Rosman gym, and said the role has proven valuable.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said the County, City of Brevard and Town of Rosman will hold a joint ribbon-cutting when the water interconnection is finished.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Introduced the environmental enforcement presentation, noting citizen questions about local, state and federal responsibilities.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Thanked the Finance Director and staff for managing millions in grant funds.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Reminded the Board that an upcoming solid waste study will provide options for waste operations.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Suggested a broader discussion on the best use of the Gallimore Road property.",
+          "categories": [
+            "environment",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Annette Raines",
+      "summary": "A retired County Tax Administrator, she questioned the method used to value single-wide mobile homes, said some comparable sales are not qualified sales under Department of Revenue guidelines, and urged the Board to review the process."
+    },
+    {
+      "speaker": "Hazel Moody",
+      "summary": "Reported that the assessed value of her 1985 mobile home rose from $1,610 to $26,754, creating hardship for residents on fixed incomes."
+    },
+    {
+      "speaker": "David Whisenant",
+      "summary": "Said his 27-year-old mobile home's value rose from $4,590 to $68,223, including a deck never previously assessed, and asked for a countywide reassessment of single-wide trailers."
+    },
+    {
+      "speaker": "Dean Lytle",
+      "summary": "Announced his candidacy for Brevard City Council and pledged to strengthen City-County cooperation on housing, jobs, youth opportunities and public safety."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Promoted Constitution Day on September 17 and the nation's 250th anniversary, stressing the importance of civic education."
+    },
+    {
+      "speaker": "Alan Mercaldo",
+      "summary": "Supported the proposed ordinance prohibiting ultralight aircraft operation on County property, describing noise, safety and privacy problems, and thanked staff."
+    },
+    {
+      "speaker": "Mike Privette",
+      "summary": "Supported the fire tax increase but opposed the general fund property tax increase, criticized the handling of single-wide mobile home valuations, and urged a legal solution rather than individual appeals."
+    },
+    {
+      "speaker": "Annette Raines",
+      "summary": "Said the Department of Revenue does not review single-wide sales included with real property, and that although 2025 values cannot be changed retroactively, fair market-based methods exist; she suggested looking at nearby counties' methods."
+    },
+    {
+      "speaker": "Alan Mercaldo",
+      "summary": "Thanked the Board for scheduling the public hearing on motorized vehicles and encouraged exploring ways, such as adjusting rates, to help residents affected by property tax issues."
+    },
+    {
+      "speaker": "Mack McNeely",
+      "summary": "Said single-wide and double-wide mobile homes were improperly appraised as personal property using combined land and home sales, producing inflated values, and urged the Board to find solutions."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-08-25-fu-1",
+      "dateRaised": "2025-08-25",
+      "owner": "Bill Bulfer",
+      "description": "Send an inquiry to the state on whether the 30-day appeal window for personal property (mobile home) valuations can be extended.",
+      "status": "open",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-08-25"
+    },
+    {
+      "id": "2025-08-25-fu-2",
+      "dateRaised": "2025-08-25",
+      "owner": "staff",
+      "description": "Hold a public hearing on the draft ordinance regulating motorized vehicles on County-owned property at the next available meeting after required notice (earliest the second meeting in September).",
+      "status": "resolved",
+      "categories": [
+        "governance",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-08-25",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolvedDate": "2025-09-22",
+      "resolvedMeetingId": "2025-09-22",
+      "resolution": "The public hearing was held September 22 and the Board unanimously adopted the ordinance."
+    },
+    {
+      "id": "2025-08-25-fu-3",
+      "dateRaised": "2025-08-25",
+      "owner": "staff",
+      "description": "Bring a resolution conveying medically retired K-9 Rambo to his handler to the September 8 regular meeting.",
+      "status": "resolved",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-08-25",
+      "lastReferencedMeetingId": "2025-09-08",
+      "resolvedDate": "2025-09-08",
+      "resolvedMeetingId": "2025-09-08",
+      "resolution": "The Board approved Resolution #34-2025 on the consent agenda, conveying retired K-9 Rambo to Deputy Kohl Padgett for $1.00."
+    },
+    {
+      "id": "2025-08-25-fu-4",
+      "dateRaised": "2025-08-25",
+      "owner": "staff",
+      "description": "Return to a future agenda the question of how to handle remaining fire district reserves after the single fire tax district took effect July 1.",
+      "status": "open",
+      "categories": [
+        "safety",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-08-25"
+    },
+    {
+      "id": "2025-08-25-fu-5",
+      "dateRaised": "2025-08-25",
+      "owner": "Scott Justus",
+      "description": "Provide more information on a single contract for physicals for all fire departments by early FY 2027 budget discussions.",
+      "status": "open",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-08-25"
+    },
+    {
+      "id": "2025-08-25-fu-6",
+      "dateRaised": "2025-08-25",
+      "owner": "Jaime Laughter",
+      "description": "Discuss potential policy development on incivility toward local government workers with the Board.",
+      "status": "open",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-08-25"
+    },
+    {
+      "id": "2025-08-25-fu-7",
+      "dateRaised": "2025-08-25",
+      "owner": "staff",
+      "description": "Hold a joint ribbon-cutting with the City of Brevard and Town of Rosman when the emergency water interconnection is finished.",
+      "status": "dropped",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-08-25",
+      "lastReferencedMeetingId": "2025-10-13",
+      "resolvedDate": "2025-10-13",
+      "resolvedMeetingId": "2025-10-13",
+      "resolution": "The minutes state that a dedication ceremony is not feasible for safety reasons because of the interconnect's location along a major corridor. The Chairman instead intends to present the resolutions to the mayors."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-08-25%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-08-25%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5327497",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:53:52.895Z",
+    "warnings": [
+      "Check — followUpUpdates[5].resolution (2025-04-28-fu-6): The resolution calls this the 'first' monthly capital update. The minutes do not say it was the first. They say only that the Manager gave a monthly update that will be shared at the second regular meeting of each month. (minutes: \"The County Manager provided the Board with a monthly update on capital projects, which will be shared during the second regular meeting of each month and posted online\" (p. 10))",
+      "Check — followUpUpdates[9].status (2025-04-28-fu-1): The item is marked resolved, but the commitment was to release a revised BHS Scope #1 timeline after NCDPI approved the resubmitted plans. The minutes give a construction timeline in the routine monthly update but say nothing about NCDPI approval or a revised timeline being released. in_progress may fit better; a human should check. (minutes: \"Timeline: Substantial completion expected by the end of October; occupancy by late November.\" (p. 11))"
+    ]
+  }
+}

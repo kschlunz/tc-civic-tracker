@@ -1,0 +1,550 @@
+{
+  "id": "2025-09-08",
+  "date": "2025-09-08",
+  "type": "regular",
+  "title": "Commissioners' Meeting 09/08/25",
+  "time": "4:00 PM",
+  "duration": "1 hour 50 minutes",
+  "audienceSize": 25,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall"
+  ],
+  "tldr": "With Commissioner McKelvey absent, the Board approved applying for FY 2027 state and federal transit grants, including $190,392 for transit administration and $104,000 for elderly and disabled transportation. It also voted to keep the Transylvania Natural Resources Council as an advisory committee that meets only when needed to advise the Planning Board. The Manager presented infrastructure funding requests of $24 million from the Town of Rosman and $7.2 million from the City of Brevard, and the Board plans to decide at its next meeting how to allocate $10 million in state grant funds and $1.8 million in Dogwood funds. The Board also heard a Hurricane Helene recovery update, discussed its meeting schedule without taking action, and approved a consent agenda that included the Constitution Week proclamation and the transfer of retired K-9 Rambo to his handler.",
+  "keyVotes": [
+    {
+      "description": "Approved the agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda, including the Constitution Week proclamation and the transfer of retired K-9 Rambo to his handler for $1",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "The consent agenda included a proclamation declaring September 17–23 Constitution Week, requested by the Waightstill Avery Chapter of the NSDAR. It also included a resolution conveying medically retired Sheriff K-9 Rambo to his handler, Deputy Kohl Padgett, for $1.00, and a notice of intent to donate surplus Library picnic tables to Connestee Fire Rescue. The Board also accepted the FY 2025 Planning Board annual report and Vaya Health's FY 2025 Q4 fiscal monitoring report.",
+      "discussion": "Commissioner Dalton read the Constitution Week proclamation aloud.",
+      "page": 3
+    },
+    {
+      "description": "Approved applying for FY 2027 Public Transportation Program funding ($190,392 Section 5311 administrative and $104,000 Section 5310 operating) and adopted the Resolution Designee Certification",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "Planning and Community Development Director Jeffrey Adams presented the grant applications at a public hearing, where there were no public comments. The Section 5311 request of $190,392 requires a County match of $28,559 (15%), the Section 5310 request of $104,000 requires a $52,000 match, and no vehicle capital funding was requested. The Manager recapped the information under New Business.",
+      "discussion": "Chairman Chappell said the program provides a strong return on local matching dollars and benefits many residents. Commissioner McCall asked how citizens can request transportation services; the Manager said requests may be made through the County website or the Planning and Community Development office. Commissioner Chapman asked when the County would be notified of approval; the Manager said announcements are typically made mid-year before the budget process.",
+      "page": 15
+    },
+    {
+      "description": "Adopted Option 3 to continue the Transylvania Natural Resources Council as a citizen advisory committee that meets only as needed to advise the Planning Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "Chairman Chappell suggested reviewing the TNRC's role because members' terms expire in September and two members, including the chair, are leaving. The Manager presented three options: remove the TNRC as a County committee, continue quarterly meetings with policy recommendations only on request, or continue it as a committee that meets only as needed to advise the Planning Board. Options 2 and 3 require bylaw revisions.",
+      "discussion": "Chairman Chappell said committees should serve meaningful purposes and stay aligned with Board priorities, and he preferred that the TNRC work under the Planning Board. Commissioner Chapman said TNRC presentations are informative but rarely produce actionable items, and he recommended the Board periodically review committee minutes. Commissioner McCall asked whether the options would affect membership; the Manager said the bylaws could be changed. McCall supported reviewing the role statement and confirmed that the Planning Board would notify the TNRC when its input is needed.",
+      "page": 18
+    },
+    {
+      "description": "Adjourned the meeting at 5:50 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 21
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether property owners deemed ineligible for Helene debris removal would receive official letters explaining the denial.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether it might be time to discuss forming a countywide water and sewer authority, since most requests involved municipal water and sewer projects.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about water and sewer system capacity in Brevard and Rosman and how it might affect future growth.",
+          "categories": [
+            "infrastructure",
+            "econ"
+          ]
+        },
+        {
+          "text": "Said TNRC meetings include informative presentations but rarely have actionable items, and that it is unclear how much of the information reaches the public.",
+          "categories": [
+            "governance",
+            "environment"
+          ]
+        },
+        {
+          "text": "Recommended that the Board review committee minutes periodically and acknowledged the Board could give committees clearer direction.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether staff had received feedback from TNRC members about potential changes.",
+          "categories": [
+            "governance",
+            "environment"
+          ]
+        },
+        {
+          "text": "Requested a discussion of the Board's meeting schedule and asked whether a reduced schedule might relieve staff.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked when the County would be notified of approval of the transit grant applications.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Expressed interest in serving on the NCACC Justice & Public Safety Steering Committee.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Encouraged citizens to review the NCACC County Map Book online to see how the county compares with others.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Described being recognized as being from Brevard during travels in Ireland and encouraged citizens to promote the community when traveling.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "NCACC Board of Directors"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Thanked staff for navigating coordination among FEMA, NCEM and other agencies, noting that local governments must notify residents but cannot approve or deny debris applications.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Requested a simple spreadsheet for the next meeting showing available County revenue sources, their spending restrictions and deadlines.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked the Manager to include the Rosman revenue-sharing proposal and any watershed information in her follow-up materials.",
+          "categories": [
+            "infrastructure",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked the Manager to resend invitations to Brevard and Rosman for the next meeting and said the Board should plan to act on time-sensitive funding matters then.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the transit grant program provides a strong return on local matching dollars and benefits many residents.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said committees should serve meaningful purposes and stay aligned with Board priorities, citing volunteer fatigue, and preferred the TNRC become a subcommittee of the Planning Board.",
+          "categories": [
+            "governance",
+            "environment"
+          ]
+        },
+        {
+          "text": "Suggested developing a shared drive where committees can store their minutes.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Expressed concern that moving to one meeting per month would create long meetings and delay time-sensitive items.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Reflected on the September 11 anniversary and President George W. Bush's address that evening.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "NACo Rural Advocacy Committee"
+      ]
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Read the Constitution Week proclamation aloud.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Asked whether Rosman's request for generators at well sites could qualify for Hurricane Helene resiliency grants.",
+          "categories": [
+            "infrastructure",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked about the planned leachate pretreatment at the landfill.",
+          "categories": [
+            "infrastructure",
+            "environment"
+          ]
+        },
+        {
+          "text": "Expressed interest in serving on the NCACC Tax & Finance Steering Committee.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Commented on the large crowd at Rosman's football game and the team's first win of the season.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked whether the debris removal eligibility figures included properties within municipal limits.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Recalled the U.S. 64 extension revenue-sharing agreement that Rosman declined and asked whether it would have generated enough to address Rosman's current needs.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about the Wilson Road project and whether there was a cost to the City to move forward.",
+          "categories": [
+            "infrastructure",
+            "housing"
+          ]
+        },
+        {
+          "text": "Asked when the City was last asked to provide its capital improvement plan.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Noted that Rosman requested $24 million beyond its $10 million state allocation and Brevard $7.2 million beyond its $13 million.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the Board should know how both municipalities intend to use their state allocations before approving additional County funding.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the Azalea and Rhododendron extension area is within city limits and questioned whether helping one area with septic failures would set a precedent.",
+          "categories": [
+            "infrastructure",
+            "housing"
+          ]
+        },
+        {
+          "text": "Asked for examples of agreements that keep the County involved after project completion.",
+          "categories": [
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said the Board should know what the City and Town have done within their own budgets to address infrastructure needs.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed interest in serving on the NCACC Tax & Finance Steering Committee, with General Government as a second choice.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked how citizens can request County transportation services.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the TNRC options would affect its membership or appointment process.",
+          "categories": [
+            "governance",
+            "environment"
+          ]
+        },
+        {
+          "text": "Supported reviewing the TNRC's role statement, noting some past recommendations were unexpected, and suggested reviewing the roles, missions and membership of other committees.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Supported the Board having access to committee minutes.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Said the Board must meet more than once a month given the courthouse and other capital projects, and recommended reconsidering the 4:00 p.m. meeting time.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Requested hard copies of the NCACC County Map Book for Commissioners.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Apologized for missing some events while recovering from recent surgery and thanked people for the invitations.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Hannah Bowers",
+      "summary": "Presented her research on how property tax assessments affect long-term homeowners whose properties have not sold in years, comparing median tax bill increases across parts of the county. Using examples, she estimated Commissioners' tax bills if their homes were inherited properties in the Rosenwald neighborhood, and asked the Board to keep this in mind when reviewing assessment practices."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Spoke about Constitution Day on September 17 and the nation's approaching 250th anniversary, highlighting the founding documents and their moral and religious influences. He encouraged everyone to reread the Declaration of Independence."
+    },
+    {
+      "speaker": "Nancy Anderson",
+      "summary": "Asked how much of the county's property tax revenue comes from nonresidents, and requested a list of vendors involved in the $2.3 million Rosman football project."
+    },
+    {
+      "speaker": "Sharon Powell",
+      "summary": "As Regent of the Waightstill Avery Daughters of the American Revolution, requested a copy of the Constitution Week proclamation for the chapter's ceremony at the Courthouse Gazebo."
+    },
+    {
+      "speaker": "Connor Brown",
+      "summary": "Introduced himself as the new representative for Congressman Chuck Edwards' office and described assistance available with federal agencies such as FEMA during Helene recovery. He also noted that Service Academy applications are open until October 17."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-09-08-fu-1",
+      "dateRaised": "2025-09-08",
+      "owner": "Jaime Laughter",
+      "description": "Provide examples from across the state of agreements that keep the County involved after water/sewer project completion (from revenue-sharing to joint authorities), along with the prior Rosman revenue-sharing proposal and watershed information.",
+      "status": "in_progress",
+      "categories": [
+        "infrastructure",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-09-08",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "The Manager reviewed UNC School of Government regional system models, the prior Rosman revenue-sharing proposal and the Sylvan Valley Industrial Building reinvestment model as partnership options."
+    },
+    {
+      "id": "2025-09-08-fu-2",
+      "dateRaised": "2025-09-08",
+      "owner": "Jaime Laughter",
+      "description": "Request information from the City of Brevard and Town of Rosman on actions taken within their own budgets to address infrastructure needs, and updates on their use of their 2023 state allocations.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-09-08",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolvedDate": "2025-09-22",
+      "resolvedMeetingId": "2025-09-22",
+      "resolution": "The Manager sent follow-up correspondence, received updates from Brevard and expenditure information from Rosman, and summarized how each plans to use its 2023 State allocation."
+    },
+    {
+      "id": "2025-09-08-fu-3",
+      "dateRaised": "2025-09-08",
+      "owner": "Jaime Laughter",
+      "description": "Resend invitations to Brevard and Rosman to attend the next meeting, at which the Board plans to act on allocating $10 million in state infrastructure grant funds and $1.8 million in Dogwood housing infrastructure funds.",
+      "status": "in_progress",
+      "categories": [
+        "infrastructure",
+        "fiscal",
+        "housing"
+      ],
+      "relatedMeetingId": "2025-09-08",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "Brevard City Manager Wilson Hooper attended and answered questions, no Rosman representatives attended, and the Board acted on the Dogwood funds and part of the State allocation; the Manager agreed to request Rosman's attendance at future discussions."
+    },
+    {
+      "id": "2025-09-08-fu-4",
+      "dateRaised": "2025-09-08",
+      "owner": "Trisha Hogan",
+      "description": "Submit the Board's NCACC Steering Committee nominations (due September 12): Dalton and McCall for Tax & Finance and Chapman for Justice & Public Safety.",
+      "status": "open",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-09-08"
+    },
+    {
+      "id": "2025-09-08-fu-5",
+      "dateRaised": "2025-09-08",
+      "owner": "staff",
+      "description": "Present revised TNRC bylaws reflecting Option 3 for Board approval at a future meeting, and provide the County's citizen advisory council policy as a refresher.",
+      "status": "in_progress",
+      "categories": [
+        "governance",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-09-08",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "Revised TNRC bylaws were presented and approved 4-1, with an ex officio Commissioner added; the minutes do not mention the citizen advisory council policy being provided."
+    },
+    {
+      "id": "2025-09-08-fu-6",
+      "dateRaised": "2025-09-08",
+      "owner": "staff",
+      "description": "Bring a resolution finalizing the donation of surplus Library picnic tables to Connestee Fire Rescue once the notice requirements are met.",
+      "status": "resolved",
+      "categories": [
+        "governance",
+        "safety"
+      ],
+      "relatedMeetingId": "2025-09-08",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolvedDate": "2025-09-22",
+      "resolvedMeetingId": "2025-09-22",
+      "resolution": "The Board adopted Resolution #39-2025 on the consent agenda authorizing the picnic table donation to Connestee Fire Rescue."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-09-08%20reg%20mtg%20%26%20PH.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-09-08%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5359142",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:55:50.478Z",
+    "warnings": []
+  }
+}

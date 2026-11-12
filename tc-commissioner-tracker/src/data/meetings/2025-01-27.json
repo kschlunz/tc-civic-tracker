@@ -1,0 +1,777 @@
+{
+  "id": "2025-01-27",
+  "date": "2025-01-27",
+  "type": "regular",
+  "title": "Commissioners' Meeting 01/27/25",
+  "time": "9:00 AM",
+  "duration": "3 hours 20 minutes",
+  "audienceSize": 40,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved the consent agenda, including resolutions accepting two American Rescue Plan water/sewer grant offers ($1,955,037 and $5,044,963). It extended the waiver of County building permit fees for Hurricane Helene repairs through July 1, 2025, approved second-quarter budget amendments and an $860,000 fund balance amendment to front Helene costs while awaiting FEMA reimbursement, and made board appointments, including Chairman Chappell and Commissioner McKelvey to the Joint School Bond Project Committee. The Board also heard presentations on North Carolina public records law, Helene recovery and capital projects, including options for the Brevard High School old gym. Several public commenters urged faster funding of school repairs.",
+  "keyVotes": [
+    {
+      "description": "Approved revised agenda (Community Center Grants item removed)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Manager asked to remove Item E, Review and Approval of Community Center Grants, from New Business. The review committee is to reconvene to prioritize projects within the budgeted funds.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved consent agenda, including acceptance of ARP grant offers of $1,955,037 and $5,044,963",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the January 13, 2025 minutes and tax release reports (November 2024 releases of $5,867.98; December 2024 releases of $7,177.67 and refunds of $2,807.43). It also included the Sheriff's request to send three K-9 deputies to a conference in Myrtle Beach, SC, and Resolutions #02-2025 and #03-2025 accepting NCDEQ American Rescue Plan grant offers for water/wastewater projects.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Reappointed Commissioner McCall to the Board of Health",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Commissioner McCall's term expired on December 31, 2024, and she expressed interest in continuing. This was part of the Board's annual review of commissioner appointments.",
+      "discussion": "",
+      "page": 12
+    },
+    {
+      "description": "Reappointed Commissioner Chapman to the TC Tourism Development Authority",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Commissioner Chapman's term expired on December 31, 2024, and he requested to remain in the role.",
+      "discussion": "",
+      "page": 12
+    },
+    {
+      "description": "Appointed Commissioner McKelvey to the Personnel Board, replacing Commissioner Dalton",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "This was part of the annual review of commissioner board and committee appointments.",
+      "discussion": "",
+      "page": 12
+    },
+    {
+      "description": "Designated Commissioner McKelvey as alternate on the Transylvania Economic Alliance Board of Directors",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Commissioner McKelvey will serve as alternate in case Commissioner Dalton is unable to attend.",
+      "discussion": "",
+      "page": 12
+    },
+    {
+      "description": "Appointed Commissioner McKelvey to Land of Sky Regional Council (alternate), Land of Sky RPO (primary) and French Broad River MPO (non-voting)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Chairman Chappell remains the primary member of the Land of Sky Regional Council. Commissioner McKelvey was appointed alternate/secondary member there, primary member of the Land of Sky Rural Planning Organization, and non-voting member of the French Broad River Metropolitan Planning Organization.",
+      "discussion": "",
+      "page": 12
+    },
+    {
+      "description": "Appointed Chairman Chappell and Commissioner McKelvey to the Joint School Bond Project Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The interlocal agreement for bond-funded school capital projects created a joint committee of two representatives from each Board plus the County Manager and Superintendent. It will advise both Boards at key milestones. The Board of Education appointed Chair Tanya Dalton and Vice-Chair Greg Cochran on January 21.",
+      "discussion": "Commissioner McCall expressed initial reservations but supported the committee as long as it adhered to the interlocal agreement and did not override the project manager's role. Chairman Chappell commended the Manager and Superintendent for their work on the agreement and emphasized that any changes must be approved by both Boards. Commissioner Chapman reminded the public that the committee's meetings will be advertised and open to the public.",
+      "page": 13
+    },
+    {
+      "description": "Granted exception for Rick Lasater to serve an additional term on the Planning Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Rick Lasater's term expires at the end of January after two full terms. Commissioner McCall cited his role as chair while the Planning Board continues work on the comprehensive plan.",
+      "discussion": "The County Manager estimated the Comprehensive Plan would be completed by the end of the year, if not sooner.",
+      "page": 13
+    },
+    {
+      "description": "Appointed Jeremiah McCall to the Planning Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The appointment fills the seat of Kimsey Jackson, whose term expires at the end of January after two full terms. Several applications were on file.",
+      "discussion": "",
+      "page": 13
+    },
+    {
+      "description": "Appointed Ken Frady to the Transportation Advisory Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "David Carter concluded his service at the end of May. The Board tabled the appointment in August to seek representation from the upper end of the County; re-advertising produced one additional application.",
+      "discussion": "",
+      "page": 13
+    },
+    {
+      "description": "Reappointed John Decker and Thomas Sweeny to the Board of Equalization and Review",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Both members' terms expire at the end of January, and both were eligible and willing to serve again; no other applications were received. The motion cited the importance of full membership ahead of the upcoming property revaluation.",
+      "discussion": "",
+      "page": 14
+    },
+    {
+      "description": "Extended waiver of building permit fees for Hurricane Helene repairs through July 1, 2025, subject to renewal",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The State fee moratorium (S.L. 2024-51) expired December 31, 2024. To date, 106 permits have been issued and 308 properties were assessed; the estimated impact on the County is $15,150 to $60,600. Building & Permitting Enforcement Director Mike Owen supported continuing the waiver.",
+      "discussion": "Commissioners acknowledged FEMA's slow response, noting many homeowners are still awaiting approvals and cannot proceed with repairs. The Manager confirmed substantially damaged homes must comply with existing floodplain regulations and said potential policy changes, such as raising structures two feet above base flood elevation, should be addressed separately. Chairman Chappell clarified the item concerned only the fee waiver and said broader policy changes should be discussed at a future meeting.",
+      "page": 14
+    },
+    {
+      "description": "Approved FY 2025 second-quarter budget amendments",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented the amendments, including:\n- school capital reallocations and phase 1 bond projects (net increase of $7,431,337);\n- $1,860,000 for courthouse architect fees;\n- a $1,000,000 COPS grant for Sheriff's radios with a $250,000 match;\n- $200,000 for Helene facility repairs;\n- $123,103 for a school projects project manager.",
+      "discussion": "",
+      "page": 16
+    },
+    {
+      "description": "Received FY 2025 second-quarter financial report",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Finance Director Meagan O'Neal presented unaudited results through December 31, 2024. General Fund revenue was $40,028,338 and expenditures $34,695,234, with property tax at 62% of budget and sales tax down 1%. The Solid Waste enterprise fund showed net income of $322,720.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Approved $860,000 budget amendment from fund balance to front Hurricane Helene costs pending FEMA reimbursement",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Total storm-related impact is just over $2 million ($2,091,773), with $454,000 in expedited FEMA funding requested and $578,000 in insurance approvals; out-of-pocket costs are just over $1 million. $200,000 was previously approved. Reimbursement may take several fiscal years, and about $100,000 in items such as waived permit fees and exempt employee bonuses may not be reimbursed.",
+      "discussion": "The County Manager commended Finance Director Meagan O'Neal for her diligence in identifying reimbursement opportunities.",
+      "page": 20
+    },
+    {
+      "description": "Adjourned the meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The meeting adjourned at 9:20 p.m.",
+      "discussion": "",
+      "page": 22
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked what response time requirements apply to public records requests.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether requests for records past their retention period must be fulfilled.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether large public records requests could incur fees.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked how much staff time is spent fulfilling records requests.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Explained that school bond funding is primarily for deferred maintenance rather than new construction, and that significant scope changes could affect other school facility needs.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed initial reservations about the Joint School Bond Project Committee but supported it as long as it adheres to the interlocal agreement and does not override the project manager's role.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        },
+        {
+          "text": "Supported keeping Rick Lasater on the Planning Board for an additional term, citing his role as chair during work on the comprehensive plan.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Board of Health"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Encouraged residents to volunteer for citizen advisory councils.",
+          "categories": [
+            "governance",
+            "community"
+          ]
+        },
+        {
+          "text": "Asked whether directing public records requesters to online sources satisfies legal obligations.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Thanked the Manager and staff for coordinating with state and federal agencies on Helene recovery and encouraged residents to share debris pickup information with neighbors.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Emphasized that state review processes and potential rebidding could extend school project timelines even under ideal conditions.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Commended the Manager and Superintendent for the interlocal agreement and emphasized that changes must be approved by both Boards.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        },
+        {
+          "text": "Clarified that the fee waiver item concerned only fees and that broader floodplain policy changes should be discussed at a future meeting.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Shared the passing of former longtime County employee and Assistant Tax Collector Genelle Chapman and expressed condolences to her family.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Land of Sky Regional Council",
+        "Joint School Bond Project Committee"
+      ]
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked about the County's liability risks if an error occurs in handling a public records request.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Reiterated that school building maintenance is the Board of Education's responsibility while the Board of Commissioners provides funding, and expressed concern that Commissioners are blamed for school facility conditions.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Reminded the public that Joint School Bond Project Committee meetings will be advertised and open to the public.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        },
+        {
+          "text": "Shared a citizen's request for better-marked County transportation bus pickup locations and clearer schedules.",
+          "categories": [
+            "infrastructure",
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "TC Tourism Development Authority"
+      ]
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked about systems that could improve efficiency in fulfilling public records requests.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Raised concerns about the Brevard High School old gym's usage and whether the school could manage without it for an extended period.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Suggested reallocating funds intended for a separate wrestling facility to fully renovate the existing old gym.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Personnel Board",
+        "Transylvania Economic Alliance Board of Directors (alternate)",
+        "Land of Sky Regional Council (alternate)",
+        "Land of Sky Rural Planning Organization",
+        "French Broad River Metropolitan Planning Organization (non-voting)",
+        "Joint School Bond Project Committee"
+      ]
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": [
+        "Transylvania Economic Alliance Board of Directors"
+      ]
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Lisa Rodke",
+      "summary": "Proposed a voluntary, donation-based rent stabilization reward program for landlords who do not raise rent. She suggested it be administered by the Tax Office at no cost to the County, with voluntary taxpayer contributions. She also congratulated recent election winners and encouraged listening to different perspectives."
+    },
+    {
+      "speaker": "Ashley Hart",
+      "summary": "Expressed support for the new presidential administration's early actions, including executive orders and infrastructure efforts in Western North Carolina. She urged those concerned about school repairs to direct concerns to the appropriate governing bodies."
+    },
+    {
+      "speaker": "Leo Stevens",
+      "summary": "Urged the Board to prioritize school infrastructure, citing mold, leaks and outdated ventilation at Brevard High School. He called for meaningful action rather than temporary fixes and asked that student well-being be prioritized over tourism investments."
+    },
+    {
+      "speaker": "Meredith Licht",
+      "summary": "Addressed the closure of the Brevard High School auxiliary gym and its impact on students, including the Marine Corps JROTC program. She advocated reallocating funds to build a new facility rather than repairing the existing one."
+    },
+    {
+      "speaker": "Cassie Broshears",
+      "summary": "Expressed frustration over delays in funding school repairs and asked what more the community must do. She urged the Board to fund the $60 million needed for immediate school improvements."
+    },
+    {
+      "speaker": "Gretchen Hogan",
+      "summary": "Said, as a business owner, that safe and reliable schools are essential for attracting and retaining employees, and supported calls for action on school funding."
+    },
+    {
+      "speaker": "David Morrow",
+      "summary": "Announced that a submarine anchor would be placed in front of the Veterans History Museum, with a dedication ceremony to be planned. He said the Museum will reopen March 1, open Tuesday through Saturday."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-01-27-fu-1",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Reconvene the Community Center Grants review committee to prioritize projects within budgeted funds and bring the grants back to the Board for approval.",
+      "status": "resolved",
+      "categories": [
+        "community",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2025-03-10",
+      "resolvedDate": "2025-03-10",
+      "resolvedMeetingId": "2025-03-10",
+      "resolution": "Staff re-evaluated the community center grant applications to fit within the $85,000 budget, and the Board approved $84,547.51 in awards."
+    },
+    {
+      "id": "2025-01-27-fu-2",
+      "dateRaised": "2025-01-27",
+      "owner": "Jaime Laughter",
+      "description": "Develop a formal County policy for handling public records requests, including cost recovery measures for extensive requests.",
+      "status": "in_progress",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2025-02-10",
+      "resolution": "The Board approved records retention and disposition schedules for all departments as a key component of the planned public records policy, and the Manager reported a backlog of records requests."
+    },
+    {
+      "id": "2025-01-27-fu-3",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Schedule a capital workshop to revisit the capital modeling presented to the Board two years ago.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "schools"
+      ],
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2025-08-25",
+      "resolution": "The Manager said the Board will hold an infrastructure workshop soon, followed later by a general capital planning workshop."
+    },
+    {
+      "id": "2025-01-27-fu-4",
+      "dateRaised": "2025-01-27",
+      "owner": "Jaime Laughter",
+      "description": "Present alternatives for the Brevard High School old gym based on cost, timelines and facility needs, with engineers reassessing whether partial use is possible.",
+      "status": "open",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-01-27"
+    },
+    {
+      "id": "2025-01-27-fu-5",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Present updated cost estimates and project details for the courthouse at the Public Safety Complex at the second February meeting.",
+      "status": "resolved",
+      "categories": [
+        "safety",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2025-03-24",
+      "resolvedDate": "2025-03-24",
+      "resolvedMeetingId": "2025-03-24",
+      "resolution": "Sizemore Architects presented updated cost estimates for four courthouse options at the Morris Road site, with total project costs from $38.2 million to $61.1 million."
+    },
+    {
+      "id": "2025-01-27-fu-6",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Return to the Board with a project budget for the Library amphitheater cover before proceeding.",
+      "status": "resolved",
+      "categories": [
+        "community",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2025-04-14",
+      "resolvedDate": "2025-04-14",
+      "resolvedMeetingId": "2025-04-14",
+      "resolution": "The Board approved the $626,000 Library Foundation-funded project budget for the Library Amphitheater roof on the consent agenda."
+    },
+    {
+      "id": "2025-01-27-fu-7",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Bring potential floodplain policy changes, such as requiring structures to be raised two feet above base flood elevation, to a future meeting for discussion.",
+      "status": "open",
+      "categories": [
+        "environment",
+        "recovery"
+      ],
+      "relatedMeetingId": "2025-01-27"
+    },
+    {
+      "id": "2025-01-27-fu-8",
+      "dateRaised": "2025-01-27",
+      "owner": "Jaime Laughter",
+      "description": "Compile and submit the updated County budget priority list to Representative Mike Clampitt by February 10, copying Senator Corbin and all Commissioners. This includes estimating interior costs for Historic Courthouse renovations and consulting the Superintendent on additional school needs.",
+      "status": "open",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-01-27"
+    },
+    {
+      "id": "2025-01-27-fu-9",
+      "dateRaised": "2025-01-27",
+      "owner": "Meagan O'Neal",
+      "description": "Meet with FEMA to refine figures and submit the expedited Category B funding request (estimated $454,618), and submit a request for reimbursement of lost revenue.",
+      "status": "open",
+      "categories": [
+        "recovery",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-01-27"
+    },
+    {
+      "id": "2025-01-27-fu-10",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Deliver Housing Plan recommendations, expected in June or July.",
+      "status": "resolved",
+      "categories": [
+        "housing"
+      ],
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2025-10-13",
+      "resolvedDate": "2025-10-13",
+      "resolvedMeetingId": "2025-10-13",
+      "resolution": "TPMA presented the 10-year Housing Strategy, and the Board adopted the Housing Plan 4-1 with Strategy 3.3 removed."
+    },
+    {
+      "id": "2025-01-27-fu-11",
+      "dateRaised": "2025-01-27",
+      "owner": "staff",
+      "description": "Improve signage at County transportation bus pickup locations using grant funds, pending securing easements from property owners.",
+      "status": "open",
+      "categories": [
+        "infrastructure",
+        "community"
+      ],
+      "relatedMeetingId": "2025-01-27"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-01-27%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-01-27%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/4875849",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:25:15.102Z",
+    "warnings": [
+      "Check — commissionerActivity[mccall].topics[6]: This item restates McCall's motion for the Rick Lasater exception, which is already recorded as a vote (keyVotes[8]). The conventions say motions belong under votes, not under commissioner activity. (minutes: \"Commissioner McCall requested and moved an exception for Rick Lasater to remain on the Planning Board for an additional term, citing his role as chair\" (p. 13))",
+      "Check — newFollowUps[6]: The minutes record only that broader floodplain policy changes 'should be discussed' at a future meeting. No one is assigned and no commitment to bring the item back is recorded, so it may not count as a follow-up a resident could check on. (minutes: \"Chairman Chappell clarified that the agenda item only pertained to the waiver of fees, and broader policy changes should be discussed at a future meeting.\" (p. 14))"
+    ]
+  }
+}

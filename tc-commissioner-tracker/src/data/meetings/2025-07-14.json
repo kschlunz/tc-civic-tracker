@@ -1,0 +1,535 @@
+{
+  "id": "2025-07-14",
+  "date": "2025-07-14",
+  "type": "regular",
+  "title": "Commissioners' Meeting 07/14/25",
+  "time": "4:00 PM",
+  "duration": "2 hours",
+  "audienceSize": 30,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "mckelvey"
+  ],
+  "tldr": "With Commissioners Dalton and McCall absent, the three commissioners present approved a consent agenda that included a resolution urging state limits on youth access to nicotine and cannabis, a $70,000 state Building Reuse Grant agreement for CW Williams and Company, and the Centegix school crisis alert contract. The Board selected the tower design for the new courthouse on a 2-1 vote, with Commissioner Chapman opposed. It chose the state's NCEM SMART program to remove the remaining Helene debris, and approved a Probation & Parole lease, a Cisco Wi-Fi support agreement and a $9,000 voting system upgrade. It also accepted the 2024 tax settlement report showing a 99.75% collection rate, and heard the Transylvania Economic Alliance annual report and a school capital update.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda, including the youth nicotine/cannabis resolution, the $70,000 Building Reuse Grant agreement and the Centegix school safety contract",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "The consent agenda covered several items. It approved the June 9 minutes and a tax release/refund report (releases $1,409.15, refunds $711.78), and out-of-state travel for the Register of Deeds to present at a national conference. It adopted Resolution #29-2025 supporting a state retailer permitting system and a minimum sales age of 21 for nicotine, cannabis and other licit substances, and authorized grant applications for school health emergency response bags and a transit operations study. It also approved the Rural Economic Development Grant agreement passing through a $70,000 Building Reuse Grant (5% local match of $7,149.11) for CW Williams and Company's building at 5750 Asheville Highway, and the contract for the Centegix Crisis Alert and Visitor Management System for Transylvania County Schools, funded with lottery proceeds.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Appointed Commissioner Jake Dalton as voting delegate to the NCACC 118th Annual Conference",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "The NC Association of County Commissioners' annual conference is in Pitt County on August 23, 2025, and each county names a voting delegate.",
+      "discussion": "",
+      "page": 10
+    },
+    {
+      "description": "Accepted the 2024 Tax Settlement Report (99.75% county collection rate)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "Tax Administrator Jessica McCall presented the report required by N.C.G.S. § 105-373. The county levy was $41,933,501.04, with $41,828,202.75 collected and $105,298.29 uncollected. Delinquent collections for 2023 and prior totaled $106,182.67 for the county.",
+      "discussion": "Chairman Chappell and Commissioner McKelvey commended Ms. McCall and her staff for the high collection rate.",
+      "page": 10
+    },
+    {
+      "description": "Approved the 2025 Order to Collect all Real and Personal Property Taxes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "Under N.C.G.S. § 105-321, the order authorizes the Tax Collector to collect 2025 taxes, including forced collection remedies if necessary. It also gives authority to levy and sell property to satisfy unpaid taxes.",
+      "discussion": "",
+      "page": 10
+    },
+    {
+      "description": "Approved $9,000 upgrade of the County voting system to ES&S EVS 6.3.0.0",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "Elections Director Jeff Storey requested the firmware and software upgrade, which needs no new hardware and is certified under Voting System Standards 2.0. The State Board of Elections treats it as a new voting system requiring a public demonstration and certification. Implementation is expected by the end of August for the 2025 municipal elections, with funding in the FY 2026 budget.",
+      "discussion": "After the vote, Commissioner Chapman confirmed new Board of Elections members will be sworn in on July 22. He requested a future agenda item for Mr. Storey to present recent state-level voting changes.",
+      "page": 11
+    },
+    {
+      "description": "Selected Option 2 – Tower Scheme as the exterior design for the new courthouse",
+      "result": "2-1",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [
+          "chapman"
+        ],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "Architect Joel Helms of Sizemore Group presented two Colonial Revival options required by the City of Brevard's ordinance: a cupola scheme and a tower scheme. The cupola option was estimated to cost about $200,000 more. The tower would house the main stairwell and was described as more cost-effective to build and maintain.",
+      "discussion": "Chairman Chappell asked whether a future expansion would also need a tower or cupola, and whether either option could include a clock. Mr. Helms said the tower could best accommodate a clock. Commissioner Chapman asked about housing the existing courthouse bell in the cupola and about long-term maintenance, and Commissioner McKelvey asked about the tower's use. The Manager reported that Commissioners Dalton and McCall gave similar feedback. Commissioner Chapman said Option 1 presented a more traditional courthouse appearance appropriate for a building meant to last 50+ years.",
+      "page": 14
+    },
+    {
+      "description": "Approved seven-year Cisco Meraki enterprise agreement for County Wi-Fi support ($21,984/year, estimated $90,000 savings)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "IT Director Nathanael Carver presented the agreement. It locks the annual cost at $21,984 for six years with no cost in the seventh, compared with the current $31,373 per year.",
+      "discussion": "",
+      "page": 14
+    },
+    {
+      "description": "Approved new two-year Probation & Parole Office lease at $39,000 per year, effective July 1, 2025",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "The County must provide space for the Probation & Parole Office, whose lease off Caldwell Street expired in February 2024 and has run month to month. The NC Department of Adult Correction proposed a two-year lease at $39,000 a year, a $12,000 increase, backdated to March 1, 2025.",
+      "discussion": "The Board was concerned that backdating would shorten the lease term before the office moves to the new courthouse, and Chairman Chappell stressed securing the full two-year term. The Manager said she would confirm the July 1 effective date with the lessor and that the Board could hold a special meeting if it is declined. Commissioner McKelvey said he preferred a two-year lease with an optional one-year extension.",
+      "page": 14
+    },
+    {
+      "description": "Authorized the Manager to sign an MOU with NCEM to use the SMART Program for remaining Helene debris removal and to notify USACE of the change",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "The Manager presented two options for remaining waterway debris and the 412 private property debris removal applications: continue with USACE, or move to the NCEM SMART program. Staff recommended NCEM, citing communication problems with the USACE process, and USACE and FEMA technical support would continue under either option.",
+      "discussion": "Commissioner Chapman confirmed NCEM would do the same work and pay contractors directly through the State. Commissioners discussed transferring over 400 existing USACE applications to NCEM, which NCEM said has begun. Commissioner Chapman requested an update on NCEM's progress in a few months.",
+      "page": 15
+    },
+    {
+      "description": "Adjourned the meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton",
+          "mccall"
+        ]
+      },
+      "background": "The meeting adjourned at 6:00 p.m.",
+      "discussion": "",
+      "page": 16
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Noted the significant effort and risk the Board invests in economic development and highlighted state support received through local legislators.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked whether any school capital projects would affect the start of the school year.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked how a waterway is defined for debris removal, citing concerns about Williamson Creek.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Confirmed new Board of Elections members will be sworn in July 22 and requested a future presentation from the Elections Director on recent state-level voting changes.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about housing the existing courthouse bell in the cupola and about long-term maintenance of the design options.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said the cupola option presented a more traditional courthouse appearance appropriate for a building intended to last 50+ years.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Confirmed NCEM would perform the same debris removal work and pay contractors directly through the State.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Requested an update on NCEM's debris removal progress in a few months.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether the Board could adjust the FY 2026 budget after adoption.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Requested a comparison of current county tax rates across counties.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said the Board's decision 10 years ago to support the Economic Alliance was the right choice and noted the complexity of economic development.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Reminded the public that Helene resources and updates are on the County website and acknowledged Senator Budd's office for interagency coordination.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether a future courthouse expansion would also need a tower or cupola, and whether either design could include a clock.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Emphasized securing the full two-year term for the Probation & Parole Office lease.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Commended the Tax Administrator and staff for the high collection rate.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that mid-year budget amendments create an audit trail.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Recognized the Economic Alliance's high project close ratios and the success of Sylvan Valley Industrial Center Phase 2, and stressed planning for Phase 3.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Expressed appreciation for the evaluations of building structures, roofs and mechanical systems across school projects.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Commended the Tax Administrator and staff for the high collection rate.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked what the courthouse tower would be used for.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said he preferred a two-year Probation & Parole lease with an optional one-year extension.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Hannah Bowers",
+      "summary": "Said the County's claim of competitive pay was misleading. She cited a $36,700 daycare teacher salary and $12.54 per hour for childcare aides against a local living wage of $17.55 per hour, and urged the Board to raise the wage floor for all County employees to the living wage."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Suggested the new courthouse include a designated space to display the Ten Commandments, citing references in the U.S. Supreme Court and the historical influence of divine law on civil law."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-07-14-fu-1",
+      "dateRaised": "2025-07-14",
+      "owner": "Joel Helms",
+      "description": "Confirm whether the City of Brevard would require a tower or cupola on a future courthouse expansion if it is treated as a standalone building.",
+      "status": "open",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-07-14"
+    },
+    {
+      "id": "2025-07-14-fu-2",
+      "dateRaised": "2025-07-14",
+      "owner": "Joel Helms",
+      "description": "Prepare a schematic design estimate for the tower scheme courthouse and advance to design development by the mid-September deadline.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-07-14",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolvedDate": "2025-09-22",
+      "resolvedMeetingId": "2025-09-22",
+      "resolution": "The courthouse is now in the design development phase, and cost estimates for City-required architectural elements, including $150,000 for the tower, were presented."
+    },
+    {
+      "id": "2025-07-14-fu-3",
+      "dateRaised": "2025-07-14",
+      "owner": "Jeff Storey",
+      "description": "Present recent state-level voting changes to the Board at a future meeting.",
+      "status": "open",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-07-14"
+    },
+    {
+      "id": "2025-07-14-fu-4",
+      "dateRaised": "2025-07-14",
+      "owner": "Jaime Laughter",
+      "description": "Confirm with the Department of Adult Correction and the lessor that the Probation & Parole lease can take effect July 1, 2025; if declined, the Board could reconvene in a special meeting.",
+      "status": "open",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-07-14"
+    },
+    {
+      "id": "2025-07-14-fu-5",
+      "dateRaised": "2025-07-14",
+      "owner": "Jaime Laughter",
+      "description": "Provide the Board an update on NCEM's progress on debris removal under the SMART program in a few months.",
+      "status": "resolved",
+      "categories": [
+        "recovery"
+      ],
+      "relatedMeetingId": "2025-07-14",
+      "lastReferencedMeetingId": "2025-08-25",
+      "resolvedDate": "2025-08-25",
+      "resolvedMeetingId": "2025-08-25",
+      "resolution": "The Manager reported that SMART has authorized debris removal teams but is waiting on FEMA eligibility clearance; as of August 8, 412 packets had been submitted, 119 reviewed and 53 found eligible or eligible with conditions."
+    },
+    {
+      "id": "2025-07-14-fu-6",
+      "dateRaised": "2025-07-14",
+      "owner": "Jaime Laughter",
+      "description": "Provide Commissioners the NCACC Map Book, expected in August, with county tax rate comparisons and education funding rankings.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-07-14",
+      "lastReferencedMeetingId": "2025-09-08",
+      "resolution": "The Manager reported that the 2025 NCACC County Map Book is available online, and staff will request printed copies for Commissioners at Commissioner McCall's request."
+    },
+    {
+      "id": "2025-07-14-fu-7",
+      "dateRaised": "2025-07-14",
+      "owner": "staff",
+      "description": "Review 2050 Comprehensive Plan survey results in August and hold final community engagement events this fall, with adoption expected early next year.",
+      "status": "open",
+      "categories": [
+        "governance",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-07-14"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-07-14%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-07-14%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5250562",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:51:36.626Z",
+    "warnings": []
+  }
+}

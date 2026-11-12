@@ -1,0 +1,560 @@
+{
+  "id": "2025-10-13",
+  "date": "2025-10-13",
+  "type": "regular",
+  "title": "Commissioners' Meeting 10/13/25",
+  "time": "4:00 PM",
+  "duration": "2 hours 33 minutes",
+  "audienceSize": 20,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The Board adopted the County's 10-year Housing Plan by a 4-1 vote (Chapman opposed), removing Strategy 3.3 on exploring zoning for short-term rentals. It unanimously approved infrastructure funding agreement terms to offer to the City of Brevard and the Town of Rosman, construction manager at risk contracts with Blum Construction for the school bond projects ($244,570 in preconstruction fees plus 5% overhead and profit), and a $73,937 secure evidence lot at the Public Safety Facility. On the consent agenda it transferred ownership of the Brevard-Rosman water interconnect to the two municipalities, cancelled the October 27 meeting, and approved veterans and adoption proclamations. Commissioners also heard updates on the new courthouse design (now estimated at $36.2 million in total), the Tourism Development Authority annual report, the Veterans History Museum, and Hurricane Helene recovery.",
+  "keyVotes": [
+    {
+      "description": "Approve the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approve the consent agenda, including the water interconnect ownership transfer and cancellation of the October 27 meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda approved the minutes of the August 25 and September 8 meetings; out-of-state training for the Communications Director and four Telecommunicators at the Southern Software conference; closing County offices on December 15 for the Annual Employee Lunch; and cancelling the October 27 regular meeting while the Manager attends the ICMA conference. It also included Resolution #42-2025 supporting Operation Green Light for Veterans, Proclamation #43-2025 for Veterans Day, Proclamation #44-2025 for Adoption Awareness Month and National Adoption Day, and Resolution #45-2025, which transfers ownership of the ARPA-funded water system interconnect to the City of Brevard and the Town of Rosman.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Adopt the County Housing Plan with Strategy 3.3 (short-term rental zoning) removed and with the Manager's suggested edits",
+      "result": "4-1",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [
+          "chapman"
+        ],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The countywide 10-year Housing Plan was prepared by consultant TPMA using a 2022 Dogwood grant, and the Planning Board, serving as steering committee, recommended approval in September. The Manager described the plan's implementation matrix as a communitywide toolbox rather than a list of actions the County alone must carry out. She suggested adding language describing the matrix as a flexible tool, along with slides that distinguish County geography from County government authority.",
+      "discussion": "Chairman Chappell recommended striking Strategy 3.3 on exploring zoning for short-term rentals. Commissioner McCall agreed and said government's role is to provide infrastructure, not housing. Commissioners discussed infrastructure limitations, LITECH scoring barriers, and advocacy to change requirements that disadvantage rural counties. Commissioner Chapman asked whether approval should be delayed to allow public input and suggested placing the plan on the first November agenda. Commissioner McCall cautioned that soliciting comment could generate many requested changes but supported making the draft publicly available. She also noted that the plan's affordability chart assumes a single-income household.",
+      "page": 20
+    },
+    {
+      "description": "Approve terms of an MOU to offer to the City of Brevard on infrastructure funding to support housing",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "On September 22 the Board authorized the Manager to draft an MOU with the City of Brevard on the use of County grant funds for water and sewer infrastructure supporting housing. Under the agreement, the County would manage design and construction, and the City would assist with design and take ownership of the completed facilities. Housing Assistance Corporation and Habitat for Humanity have committed to building housing once the infrastructure is complete, and the grantor must approve an amendment allowing remaining grant funds to be used for these projects.",
+      "discussion": "The Chairman confirmed that both the Manager and the County Attorney were comfortable with the agreement as written.",
+      "page": 21
+    },
+    {
+      "description": "Approve terms of an MOU to offer to the Town of Rosman on infrastructure funding for wastewater improvements",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The MOU covers County-funded improvements to Rosman's wastewater system, as scoped in the Town's Preliminary Engineering Report. The County would manage design and construction, and the Town would take ownership and operate the system. Unlike the Brevard agreement, it adds a provision that if Rosman ever stops owning or operating its water and sewer system, the Town would support giving the County the first opportunity to take it over.",
+      "discussion": "The Manager said the language keeps the County responsible for grant compliance and recommended the MOU remain mostly as drafted. Commissioners agreed that both the Brevard and Rosman agreements should be presented as non-negotiable because of the County's obligations as fund administrator. Chairman Chappell stated that the Board is not attempting to assume control of Rosman's system.",
+      "page": 21
+    },
+    {
+      "description": "Authorize the County Manager to sign Construction Manager at Risk contracts with Blum Construction for school bond projects ($244,570 in preconstruction fees plus 5% overhead and profit)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The school bond projects are managed jointly by the County and the Board of Education under a February 2025 interlocal agreement. The subcommittee appointed under that agreement recommended Blum Construction as Construction Manager at Risk. The County Attorney confirmed that the pricing aligns with project budgets and market standards.",
+      "discussion": "Staff explained that a Guaranteed Maximum Price, including contingencies for cost volatility, will be set after the preconstruction phase. The subcommittee will meet in December to make additional scope decisions.",
+      "page": 22
+    },
+    {
+      "description": "Approve a $73,937 project budget and contract for a secure evidence storage lot behind the Public Safety Facility",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Manager explained that, after review with the County Attorney, staff determined the Sheriff's Office needs a separate, more secure impound area for evidence and impounded vehicles. The project costs $70,416 for construction plus a $3,521 contingency, funded from the FY 26 capital maintenance and improvement budget. It is to move quickly so paving can occur before asphalt plants close for winter.",
+      "discussion": "",
+      "page": 22
+    },
+    {
+      "description": "Adjourn the meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The meeting adjourned at 6:33 p.m.",
+      "discussion": "",
+      "page": 24
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether shifting the courthouse building on the site affected its overall square footage.",
+          "categories": [
+            "infrastructure",
+            "safety"
+          ]
+        },
+        {
+          "text": "Expressed concern that downsizing the future courthouse addition might mean needing phase two sooner, reducing long-term savings.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether courthouse plans had been thoroughly reviewed with court officials.",
+          "categories": [
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the City was evaluating traffic impacts along Morris Road from the courthouse project.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said most information in the housing study was not unique to the County and that the focus should be on what the County can influence, such as infrastructure and limited available land.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Suggested the Transylvania Economic Alliance further explore the business incentives highlighted in the housing report, saying the private sector will have to lead housing solutions.",
+          "categories": [
+            "housing",
+            "econ"
+          ]
+        },
+        {
+          "text": "Recognized the TDA's stewardship and said there may be a future opportunity to consider increasing the occupancy tax rate if the TDA board recommends it.",
+          "categories": [
+            "fiscal",
+            "econ"
+          ]
+        },
+        {
+          "text": "Expressed frustration with the lack of waterway debris removal, particularly along Williamson Creek, and with changing eligibility guidance.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Questioned whether the Housing Plan approval should be delayed for public input and suggested placing it on the first November agenda.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Reported on Medicaid and new federal rules discussed at the NCACC Board meeting in Beaufort, which could significantly increase county costs, and encouraged residents to join Congressman Edwards' telephone town hall.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "NC Association of County Commissioners Board"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Asked why the cost difference between the courthouse stair tower and the cupola had changed from significant to equivalent.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the County should not have to pay the City's sidewalk payment-in-lieu again for the courthouse site, since it was already paid for the Public Safety Facility.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked that the courthouse design continue to accommodate the Charters of Freedom monument.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Stated he would not support Strategy 3.3 of the housing plan on exploring zoning for short-term rentals, citing concern about unintended consequences, while supporting the report overall.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Thanked the TDA and highlighted the value of its grant programs for community initiatives.",
+          "categories": [
+            "econ",
+            "community"
+          ]
+        },
+        {
+          "text": "Expressed appreciation for the County's conservative approach to FEMA reimbursement and noted new State programs for counties denied reimbursement.",
+          "categories": [
+            "recovery",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stated publicly that the Board is not attempting to assume control of Rosman's water and sewer system.",
+          "categories": [
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Shared that he contacted the Cumberland County Board chairman to express condolences after three EE Smith High School students were killed in a car accident.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Emphasized that the courthouse roof should be pitched as much as possible because of the County's heavy rainfall.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Referenced earlier discussions with Pisgah Labs about employer-supported housing, which were paused after Hurricane Helene.",
+          "categories": [
+            "housing",
+            "econ"
+          ]
+        },
+        {
+          "text": "Praised the PBS NC Weekend feature for highlighting areas across the County.",
+          "categories": [
+            "econ",
+            "community"
+          ]
+        },
+        {
+          "text": "Reiterated that all occupancy tax revenue must support tourism, with at least two-thirds for marketing.",
+          "categories": [
+            "fiscal",
+            "econ"
+          ]
+        },
+        {
+          "text": "Commended the TDA for funding local projects and acknowledged the challenge of neighboring counties drawing overnight stays.",
+          "categories": [
+            "econ"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked about centering the cupola once courthouse phase two is built, and confirmed the future addition may be reduced to about 38,000 sq. ft.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about usable space in courthouse phase one and the anticipated groundbreaking schedule.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said infrastructure and economic development are the areas where government has the most appropriate role in housing.",
+          "categories": [
+            "housing",
+            "infrastructure",
+            "econ"
+          ]
+        },
+        {
+          "text": "Reaffirmed support for advocating expanded use of the occupancy tax and differentiated tax rates.",
+          "categories": [
+            "fiscal",
+            "housing"
+          ]
+        },
+        {
+          "text": "Expressed mixed feelings about the housing report's sections on housing types but felt the document was appropriate to accept.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Expressed concern about the growing number of abandoned or deteriorating properties and asked how the County might address them.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Expressed opposition to forcing commercial property owners to alter or redevelop their properties.",
+          "categories": [
+            "housing",
+            "econ"
+          ]
+        },
+        {
+          "text": "Suggested housing plan implementation be strategic given infrastructure constraints and limited developable land.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Cautioned that soliciting public comment on the housing plan could generate many requested changes, but supported making the draft publicly available.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that the plan's income and rent affordability chart assumes a single-income household, which can be misleading.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Reflected on progress toward a Middle East peace agreement and the release of 20 hostages.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked about the net savings from shifting the courthouse building to the west.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "David Morrow",
+      "summary": "Thanked the Board for recognizing veterans through the Veterans Day proclamation and Operation Green Light. He said he was grateful to have grown up in Transylvania County and thanked the Board for its work."
+    },
+    {
+      "speaker": "Kristi Brown",
+      "summary": "Speaking as Clerk of Superior Court, thanked the Board for the courthouse update. She said her office saved more than $100,000 by removing certain interior design elements and remains committed to finding cost savings."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-10-13-fu-1",
+      "dateRaised": "2025-10-13",
+      "owner": "staff",
+      "description": "Bring the final courthouse design back to the Board for review.",
+      "status": "open",
+      "categories": [
+        "infrastructure",
+        "safety"
+      ],
+      "relatedMeetingId": "2025-10-13"
+    },
+    {
+      "id": "2025-10-13-fu-2",
+      "dateRaised": "2025-10-13",
+      "owner": "Jaime Laughter",
+      "description": "Begin financing discussions with the Local Government Commission for the new courthouse while design work continues.",
+      "status": "open",
+      "categories": [
+        "fiscal",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-10-13"
+    },
+    {
+      "id": "2025-10-13-fu-3",
+      "dateRaised": "2025-10-13",
+      "owner": "chappell",
+      "description": "Schedule a time to formally present the water interconnect ownership transfer resolutions to the mayors of Brevard and Rosman.",
+      "status": "open",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-10-13"
+    },
+    {
+      "id": "2025-10-13-fu-4",
+      "dateRaised": "2025-10-13",
+      "owner": "Jaime Laughter",
+      "description": "Finalize the Housing Plan with Strategy 3.3 removed, add language describing the implementation matrix as a flexible tool along with slides distinguishing County geography from County authority, and share the plan with community partners.",
+      "status": "open",
+      "categories": [
+        "housing"
+      ],
+      "relatedMeetingId": "2025-10-13"
+    },
+    {
+      "id": "2025-10-13-fu-5",
+      "dateRaised": "2025-10-13",
+      "owner": "Jaime Laughter",
+      "description": "Forward the approved MOU terms to the City of Brevard and the Town of Rosman for adoption, and submit them to the grantor for approval, including the grant amendment for the Brevard housing infrastructure projects.",
+      "status": "open",
+      "categories": [
+        "infrastructure",
+        "housing"
+      ],
+      "relatedMeetingId": "2025-10-13"
+    },
+    {
+      "id": "2025-10-13-fu-6",
+      "dateRaised": "2025-10-13",
+      "owner": "staff",
+      "description": "Identify long-term funding options for the CARE Coalition, since Public Health Infrastructure Grant support ends in May 2026.",
+      "status": "open",
+      "categories": [
+        "health",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-10-13"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-10-13%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-10-13%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5440398",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T21:03:14.554Z",
+    "warnings": [
+      "Check — followUpUpdates[2] (2025-03-24-fu-4): Marking this item 'resolved' may overstate the minutes. The Chairman stated a position and staff said documentation supports it. The minutes do not show the agreement being revisited with the City or the City confirming there are no new obligations, so 'in_progress' may fit better. (minutes: \"the County should not be required to pay again for this site. Staff confirmed that documentation supports this.\" (p. 8))",
+      "Check — commissionerActivity[0].externalRoles: The minutes say only that Chapman attended an NCACC Board meeting. They do not state that he holds a seat on the NCACC Board, so listing this as his external role may be an inference. (minutes: \"Commissioner Chapman reported that he attended the NC Association of County Commissioners Board meeting in Beaufort over the weekend.\" (p. 23))"
+    ]
+  }
+}

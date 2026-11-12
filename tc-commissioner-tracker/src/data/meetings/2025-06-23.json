@@ -1,0 +1,631 @@
+{
+  "id": "2025-06-23",
+  "date": "2025-06-23",
+  "type": "regular",
+  "title": "Commissioners' Meeting 06/23/25",
+  "time": "6:00 PM",
+  "duration": "2 hours 37 minutes",
+  "audienceSize": 50,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "After public hearings, the Board voted 3-2 to create a single fire service tax district covering the unincorporated county and the Town of Rosman, and 3-2 to adopt the FY 2026 budget. The budget has an $81,342,524 General Fund at a tax rate of 41.05 cents, with fire departments funded through the single district at 7 cents. Commissioners Dalton and McKelvey voted against both. The Board also unanimously approved FY 2026 nonprofit funding, the consent agenda and appointments to three boards, and heard updates on Hurricane Helene recovery and capital projects, plus a City of Brevard request for County help with sewer for the Azalea Avenue housing project.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Approved the consent agenda, including the June 2 minutes, tax reports, Park and Recreation Month proclamation, court use of Chambers and the HCCBG funding plan",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": null,
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The minutes record that Commissioners Chapman and Dalton seconded the motion simultaneously. The consent agenda included: minutes of the June 2 budget workshop; tax discovery, release and settlement reports (May releases of $399.72 and refunds of $1,505.34; June 1-23 releases of $422.71); a proclamation designating July as Park and Recreation Month; and the Clerk of Superior Court's request to use the Commissioners' Chambers for court on October 13 and October 28-31. It also adopted the County Funding Plan for the Home & Community Care Block Grant, under which providers requested a total of $305,008.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Appointed members to the Juvenile Crime Prevention Council as recommended",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Staff recommended reappointing Jessica Winkel, Kristen Gentry, James Felty, Adrienne Becton-Marsh, Andrea Muirhead and Daniel Mehdi. At the Sheriff's request, staff also recommended appointing Michael Hall to replace Greg Stroup as the Local Law Enforcement representative. Ricky Lambert's seat will become vacant at the end of this term.",
+      "discussion": "",
+      "page": 21
+    },
+    {
+      "description": "Reappointed Michael Baker to the Library Board of Trustees",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Michael Baker's term expires at the end of June and he is eligible and willing to serve again. Betsy Jordan has completed two full terms and is not eligible. The Library Director and Trustees will make a recommendation for her seat at a future meeting.",
+      "discussion": "",
+      "page": 22
+    },
+    {
+      "description": "Reappointed Kristen Gentry and Christopher Bracken to the Parks and Recreation Commission",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Both members' terms expire at the end of June, and both are eligible and willing to serve again. Operations Director Chad Owenby recommended their reappointment.",
+      "discussion": "",
+      "page": 22
+    },
+    {
+      "description": "Established a single fire tax district to fund fire protection, rescue and EMS services, effective July 1, 2025",
+      "result": "3-2",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell"
+        ],
+        "nays": [
+          "dalton",
+          "mckelvey"
+        ],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Assistant County Manager David McNeill presented the proposal for a single district covering all of the county except the City of Brevard, which opted out. It would replace the hybrid model of a 5.5-cent district rate plus a 2-cent General Fund supplement, with a proposed 7-cent rate for FY 2026. Staff said it would not change operational control, contracts, response boundaries or the annual budget process, and would not eliminate the existing eight districts. One resident spoke at the public hearing.",
+      "discussion": "Commissioner Chapman asked whether departments keep their fundraising money, and Commissioner McCall asked whether department budget requirements would change; staff said neither would change. McCall called for fire tax funding to appear on a single line of the tax bill, and Chapman said the district lets citizens see what they pay for fire services. Chairman Chappell said the district increases transparency and simplifies administration, and that the motion does not set the tax rate. Commissioner Dalton opposed it because, after revaluation, it would effectively raise the fire tax 3 cents above the revenue-neutral rate. Commissioner McKelvey opposed it, citing the taxpayer burden and the exclusion of the City of Brevard. Chapman said the increase is mainly due to 18-20 paid staff positions and that the method could be revisited next year.",
+      "page": 23
+    },
+    {
+      "description": "Adopted the FY 2026 budget with a 41.05-cent General Fund tax rate and a 7-cent single fire district rate",
+      "result": "3-2",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell"
+        ],
+        "nays": [
+          "dalton",
+          "mckelvey"
+        ],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Manager recommended a General Fund budget of $81,342,524 at 41.05 cents per $100 valuation, against a calculated revenue-neutral rate of 38.37 cents. Fire services are funded at a total of $6.8 million. The budget includes a 7% increase in school operational funding, four paid firefighters per department, public safety equipment and two new positions. The Manager said the average annual tax impact is $309, and the Board had to specify a fire funding method as part of approval.",
+      "discussion": "Commissioner McCall asked about the funding options tied to the new district. Under the new hybrid option, the fire portion would be 6.7 cents and the General Fund rate would rise to 42.25 cents. She also asked when tax bills would be mailed (end of July). Commissioner Dalton asked why fire departments' requested $7,214,626 differed by about $400,000 from the presented total. The Manager said outside funding sources had been removed and specific items added back. Chairman Chappell and Commissioner Chapman voiced concerns about using General Fund dollars, which City taxpayers pay, to supplement rural fire departments.",
+      "page": 25
+    },
+    {
+      "description": "Approved FY 2026 nonprofit funding for 15 organizations",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented recommendations developed by an internal review committee that included two Commissioners. Awards ranged from $1,000 (Habitat for Humanity) to $10,000 (Blue Ridge Health, Housing Assistance Corp., Sharing House). Total funding was consistent with prior years, although more organizations applied.",
+      "discussion": "No Board members reported conflicts requiring recusal.",
+      "page": 26
+    },
+    {
+      "description": "Adjourned the meeting at 8:37 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn.",
+      "discussion": "",
+      "page": 27
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked about the County's legal liability if the Army Corps does not complete river debris removal, and whether budgeting for local cleanup would increase liability.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked whether NCDPI recommended major changes after its lengthy review of the Brevard High School Scope #1 project.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether volunteer fire departments could keep and spend money they raise through fundraising.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Stated that citizens should be able to see what they pay for fire services and that a single fire district shows this on the tax bill.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said the fire cost increase is mainly due to 18-20 paid staff positions approved by the Budget Review Committee, and that the funding method could be revisited next year.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said it is concerning to ask City taxpayers to pay, through the General Fund, for a fire service they do not receive.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked how the Board should proceed on the City of Brevard's Azalea Avenue housing request, saying the request is valid but the Board should evaluate its options.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Clarified that the requested Pole Miller Road stop signs are an NCDOT matter.",
+          "categories": [
+            "safety",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said the tax increase became necessary because of inflation and years of holding off, and that opposition emails he received did not suggest which services to cut.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked for clarification on properties in FEMA acquisition and elevation applications; staff said 14 properties are applying for acquisition.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether the Forest Service or other agencies are handling debris cleanup on the Davidson River.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Hoped the Forest Service would take a more active role, and expressed concern that debris above Looking Glass Falls could endanger visitors.",
+          "categories": [
+            "recovery",
+            "environment",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked about the Rosman High School retaining wall project, whether County management would speed it up, and whether the County was comfortable continuing with McGill.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether a single fire tax district would affect individual fire departments' budget requirements.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said all fire tax funding should be shown on a single line of the tax bill for transparency.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said differences of opinion among Commissioners reflect individual perspectives rather than division.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the Manager had calculated the revenue-neutral fire rate; the Manager estimated 5.5 cents.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked about the fire funding options, including whether the City must agree to the new hybrid option and how its 1.2-cent General Fund share would affect the rates.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked when tax bills would be issued.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stated she has questions and concerns about the City of Brevard's housing infrastructure request and will raise them at the appropriate time.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Expressed confidence that the County will benefit in the long term from the Board's decisions, and encouraged staff, particularly the Manager, to take time off.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Acknowledged staff coordination with federal and state agencies and voiced frustration with inconsistent communication among USACE, FEMA and NCDOT, saying these concerns would continue to be raised.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Emphasized advocating with state representatives about NCDPI review delays affecting school project timelines and costs.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said the Rosman High School retaining wall project shows the value of a dedicated County Project Manager and collaboration between the two elected boards.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked the Manager for information on grant funds with expiration dates so the Board can weigh timeframes when reviewing funding requests.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Supported the single fire district as increasing transparency and simplifying administration, and noted the motion does not set the tax rate.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that the NC General Assembly has announced it will miss its budget deadline.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed concern about using General Fund dollars to supplement fire department budgets.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Thanked the Small Business Administration for visiting, highlighted Headwaters Outfitters' post-Helene loan, and said Western North Carolina is open for business.",
+          "categories": [
+            "econ",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Thanked County staff and the Manager for their work.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Expressed frustration with the federal storm recovery response, including that the County must notify residents of USACE or FEMA denials it did not make.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked about debris and log jams on the Davidson River.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Raised concerns that fallen trees in the East Fork of the French Broad River could cause further property and road damage.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Opposed the single fire district because, after revaluation, it would effectively raise the fire tax 3 cents above the revenue-neutral rate.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked why the fire departments' requested $7,214,626 differed by about $400,000 from the presented total.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Cautioned that HB 765/SB 205 could increase liability and legal action, and encouraged residents to voice opposition.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Recapped attending the Korean War 75th anniversary event hosted by the Veterans History Museum.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Opposed the single fire district, citing taxpayer burden and the exclusion of the City of Brevard, and noted the motion concerns only the funding method, not the amount allocated to fire departments.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Herschel Johnson",
+      "summary": "At the fire district hearing, he said linking the single fire district with the County budget has caused confusion and division. He supported funding fire departments but said current methods lack transparency. He recommended separating the two discussions, postponing a single district decision to build consensus, continuing current funding with more transparency, and planning budgets year-round."
+    },
+    {
+      "speaker": "Maureen Copelof",
+      "summary": "At the budget hearing, the Brevard Mayor, with City Manager Wilson Hooper, asked the County to help fund sewer extension for the Azalea Avenue Housing Project, planned for up to 50 low- to moderate-income units. They presented options of $4.7 million for the full area or $1.9 million for an initial phase, and said a summer funding commitment is needed to avoid delays."
+    },
+    {
+      "speaker": "Wilson Hooper",
+      "summary": "With Mayor Copelof, the City Manager presented the Azalea Avenue housing sewer request. They said the project could preserve about 100 existing affordable units and let unincorporated residents with failing septic systems connect without annexation."
+    },
+    {
+      "speaker": "Lisa Rodke",
+      "summary": "Suggested stop signs at the Pole Miller Road and Pole Miller Extension intersection near Island Ford, describing frequent near-misses where vehicles fail to yield."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-06-23-fu-1",
+      "dateRaised": "2025-06-23",
+      "owner": "Jaime Laughter",
+      "description": "Email Commissioners this week to schedule the capital workshop, and include the City of Brevard's Azalea Avenue housing sewer request in it; the City is seeking a funding decision by late summer.",
+      "status": "open",
+      "categories": [
+        "housing",
+        "infrastructure",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-06-23"
+    },
+    {
+      "id": "2025-06-23-fu-2",
+      "dateRaised": "2025-06-23",
+      "owner": "Jaime Laughter",
+      "description": "Provide the Board with information on available infrastructure grant funds, including expiration dates and eligibility guidelines.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-06-23",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "The Manager presented infrastructure grant sources and amounts, including the December 2026 NCDEQ ARPA deadline and the December Dogwood extension expiration."
+    },
+    {
+      "id": "2025-06-23-fu-3",
+      "dateRaised": "2025-06-23",
+      "owner": "Julie Hooten",
+      "description": "Review liability questions about the County funding river debris cleanup if USACE does not complete the work.",
+      "status": "open",
+      "categories": [
+        "recovery",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-06-23"
+    },
+    {
+      "id": "2025-06-23-fu-4",
+      "dateRaised": "2025-06-23",
+      "owner": "staff",
+      "description": "Explore state partnerships for river debris removal if USACE does not complete the work, and pursue the scheduled federal-level meeting to resolve remaining debris work.",
+      "status": "resolved",
+      "categories": [
+        "recovery",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-06-23",
+      "lastReferencedMeetingId": "2025-07-14",
+      "resolvedDate": "2025-07-14",
+      "resolvedMeetingId": "2025-07-14",
+      "resolution": "The Board authorized an MOU with NCEM to remove the remaining debris through the state SMART program."
+    },
+    {
+      "id": "2025-06-23-fu-5",
+      "dateRaised": "2025-06-23",
+      "owner": "Beecher Allison",
+      "description": "Complete the review with McGill and bring a revised budget for the Rosman High School retaining wall project, targeted by July.",
+      "status": "in_progress",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-06-23",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "Mr. Allison reported that 2018 storm line data proved inaccurate and additional utility and stormwater evaluation is underway; information on the retaining wall scope will go to the Joint Committee once evaluations and budget analyses are complete."
+    },
+    {
+      "id": "2025-06-23-fu-6",
+      "dateRaised": "2025-06-23",
+      "owner": "staff",
+      "description": "Keep the Board informed of solutions for getting future school capital projects through NCDPI review.",
+      "status": "open",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-06-23"
+    },
+    {
+      "id": "2025-06-23-fu-7",
+      "dateRaised": "2025-06-23",
+      "owner": "staff",
+      "description": "Library Director and Board of Trustees to recommend an appointee for Betsy Jordan's seat on the Library Board of Trustees at a future meeting.",
+      "status": "resolved",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2025-06-23",
+      "lastReferencedMeetingId": "2025-08-25",
+      "resolvedDate": "2025-08-25",
+      "resolvedMeetingId": "2025-08-25",
+      "resolution": "The Library Board of Trustees recommended Elizabeth Cozart, and the Board appointed her to Betsy Jordan's seat."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-06-23%20reg%20mtg%20%26%20PH%20%282%29.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-06-23%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5209364",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:49:37.368Z",
+    "warnings": [
+      "Check — followUpUpdates[2025-06-02-fu-1].status: This item is marked resolved, but the commitment was a budget ordinance reflecting the $7.2 million fire department funding level. The adopted budget and the options presented use a $6.8 million total. The Manager explained the difference, but whether that fully meets the commitment is a judgement call; in_progress may be more accurate. (minutes: \"each funding method generates the same total amount for fire services ($6.8 million)\" (p. 24); \"fire departments requested a budget of $7,214,626, but the presentation reflected a total of about $400,000 lower\" (p. 24))",
+      "Check — keyVotes[6].discussion: The draft merges the Chairman's and Commissioner Chapman's remarks, which attributes the concern about City taxpayers to Chairman Chappell. The minutes record his concern only as General Fund dollars being used when those funds are intended for the fire tax. The City-taxpayer point is attributed to Chapman alone. (minutes: \"Chairman Chappell said he still has concerns about using General Fund dollars to supplement fire department budgets, as those funds are intended for the fire tax. Commissioner Chapman added that it is concerning to ask City taxpayers to pay for a service they do not receive\" (p. 25))"
+    ]
+  }
+}

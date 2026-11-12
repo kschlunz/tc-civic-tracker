@@ -1,0 +1,716 @@
+{
+  "id": "2025-06-09",
+  "date": "2025-06-09",
+  "type": "regular",
+  "title": "Commissioners' Meeting 06/09/25",
+  "time": "4:00 PM",
+  "duration": "3 hours 2 minutes",
+  "audienceSize": 20,
+  "attendees": [
+    "chapman",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "With Chairman Chappell absent, the Board approved the consent agenda, several board reappointments, a $324,200 project to remove or close underground fuel storage tanks at county schools, and Carolina Recreation & Design Co. as sole source vendor for the Library Foundation-funded $660,000 amphitheater canopy. The County Manager presented the FY 2026 recommended budget in detail: an $81.3 million General Fund at a $0.4105 tax rate (revenue neutral is $0.3837) and a proposed single fire tax district at $0.07. Commissioners discussed fire funding models, the revaluation and possible cuts, and voted to hold a budget workshop on June 17, ahead of public hearings on the budget and fire district on June 23. The Board also heard a Hurricane Helene debris removal update and met in closed session on a real property acquisition.",
+  "keyVotes": [
+    {
+      "description": "Approved the agenda as presented",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The consent agenda included the May 27, 2025 minutes, receipt of the Vaya Health FY 2025 Q3 fiscal monitoring report, fireworks display permits for nine organizations, and the FY 2026 Juvenile Crime Prevention Council funding plan (Project Rebound $47,732, Vocational Directions $46,737, Kids at Work $31,478). It also covered the Board's review of the Tourism Development Authority's contracts with Market Connections and Media One under Resolution #35-2021.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Reappointed Brian Traylor to a full term on the Blue Ridge Community College Board of Trustees",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Mr. Traylor's term, which filled the remainder of a vacant term, expires at the end of June. College President Dr. Laura Leatherwood recognized him as an outstanding board member who brings representation from the manufacturing sector.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Reappointed Heather Bradley, Jennifer Anderson and Kim Bailey to the Child Fatality Prevention Team",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The three members serve in statutorily required roles (CFPT Coordinator, Transylvania County Public Health, and EMS Provider or Firefighter). Their terms expire at the end of June.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Reappointed Artie Wilson to the Jury Commission",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Mr. Wilson's term expires at the end of June. He is eligible and willing to serve again, and Clerk of Superior Court Kristi Brown recommended his reappointment.",
+      "discussion": "",
+      "page": 5
+    },
+    {
+      "description": "Reappointed Commissioner McCall as the County Commissioner representative on the Social Services Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Commissioner McCall's term was set to expire June 30, 2025. State appointee Page Lemel's reappointment is pending confirmation from the State.",
+      "discussion": "",
+      "page": 5
+    },
+    {
+      "description": "Reappointed Commissioner Dalton as ex officio member of the Transylvania Economic Alliance Board of Directors",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Commissioner Dalton's term as the County Commissioner representative was set to expire June 30, 2025.",
+      "discussion": "",
+      "page": 5
+    },
+    {
+      "description": "Approved removal of underground storage tanks at county schools ($324,200 total project cost)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Assistant County Manager David McNeill presented a proposal from S&ME Engineering to remove or close in place unused fuel oil tanks at Brevard-area schools, which now use natural gas. Work is scheduled between June 9 and August 15. Costs are the $261,000 S&ME proposal, a $52,200 contingency and $11,000 of prior testing; the Rosman-area tank replacements are budgeted separately.",
+      "discussion": "Commissioner Dalton asked about timing at TC Henderson; Mr. McNeill said the work would not interfere with heating. Commissioner Chapman asked who works with NCDEQ; Mr. McNeill said S&ME handles it directly, and only the Brevard High School tank showed a chemical alert requiring remediation, with no definitive leakage found. Commissioner McCall confirmed Brevard-area tanks will not be replaced. Rosman-area schools will get new double-walled underground tanks because there is no above-ground space.",
+      "page": 6
+    },
+    {
+      "description": "Approved Carolina Recreation & Design Co. as sole source vendor for the Library Amphitheater canopy (Resolution #26-2025)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The Manager recommended the company, which represents ICON Shelter Manufacturing, as the only responsive vendor able to design, supply and install the canopy and its footings, under N.C.G.S. 143-129(e)(6). The Library Foundation is fully funding the $660,000 project.",
+      "discussion": "Commissioner McCall confirmed no County funds are being used; the Manager said the funds pass through the General Fund into the capital fund. Commissioner Dalton confirmed the County will oversee the project because it involves a County facility. Commissioner Chapman asked about timing; the Manager said design is complete and coordination with the Library's summer events is ongoing.",
+      "page": 6
+    },
+    {
+      "description": "Scheduled a budget workshop for Tuesday, June 17 at 6:00 p.m. to review public feedback on the FY 2026 budget",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "After the Manager's presentation of the FY 2026 recommended budget, Commissioner Chapman noted the Board had received several emails and public comments on the budget. With Chairman Chappell absent, he proposed an additional workshop to review and respond to those concerns.",
+      "discussion": "Commissioner McCall supported a workshop that includes Chairman Chappell, particularly if a Commissioner has information not yet shared with the full Board. Commissioner Chapman emphasized identifying specific questions in advance so staff can prepare responses.",
+      "page": 26
+    },
+    {
+      "description": "Entered closed session on negotiating a real property acquisition",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The closed session was held under N.C.G.S. 143-318.11(a)(5), following a 10-minute recess, to instruct staff on negotiating the price and terms of a real property acquisition. The Board directed staff on how to proceed with negotiations.",
+      "discussion": "",
+      "page": 30
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Procedural motion to return to open session.",
+      "discussion": "",
+      "page": 30
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The minutes are sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 31
+    },
+    {
+      "description": "Adjourned the meeting at 7:02 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Procedural motion to adjourn.",
+      "discussion": "",
+      "page": 31
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked about ongoing FEMA engagement with property owners on buyouts and hazard mitigation.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Noted that debris removal problems with USACE are occurring across Western North Carolina and expressed hope for resolution.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Confirmed that underground tanks at Brevard-area schools will not be replaced because those schools now use natural gas.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Confirmed that no County funds are being used for the Library Amphitheater project.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said that, based on the information presented, she would not recommend changes to the proposed budget and fully supported the single fire tax district.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Said any budget reductions should be applied proportionally across all non-mandated services rather than cutting specific departments, noting about 86% of the budget is mandated.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether adopting a hybrid fire funding model would eliminate the single district option, and confirmed the recommended budget has a $0.07 single district rate with no General Fund supplement.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether moving fire funding back into the General Fund would raise the proposed property tax rate further; the Manager confirmed it would.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Expressed concern about the cumulative tax burden given inflation, real estate trends and revaluation, and noted the County had kept a flat tax rate for four years.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Requested that the budget workshop include a convenience center cost analysis, the tax rate effect of funding fire through the General Fund, and a scenario showing next year's impact of a revenue-neutral budget this year.",
+          "categories": [
+            "fiscal",
+            "infrastructure",
+            "safety"
+          ]
+        },
+        {
+          "text": "Said the single fire district would create equity across the County and enable long-term capital planning for fire departments, and expressed frustration with opposition to the proposal.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether an additional meeting could be held the week of June 23 if the Board was not ready to vote; the Manager said a special meeting could be advertised with 48 hours' notice.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Social Services Board"
+      ]
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked who is responsible for working with NCDEQ on the underground storage tank removals.",
+          "categories": [
+            "schools",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked about the timing of the Library Amphitheater project.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Noted the Board had received several emails and public comments on the FY 2026 budget and emphasized identifying specific concerns in advance so staff can prepare responses.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Supported the single fire tax district, saying all citizens deserve equal access to fire protection regardless of property value or location.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Stated that citizens bear the cost of fire services regardless of whether a hybrid or single district model is used.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Said the Board should use the workshop to make concrete decisions on reductions, recommended a line-by-line budget review, and asked staff to be prepared to explain the impact of cuts.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said he and Commissioner Dalton would travel to Raleigh to advocate for County issues with state representatives.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Highlighted the stability of four-year revaluations and the County's comparatively low tax rate given its limited commercial tax base.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Acknowledged the role of nonprofits and community centers and welcomed citizen input on budget priorities and cuts.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Sought clarification on USACE's claim that debris removal is complete and noted multiple unaddressed debris sites, some along US 64.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked about the timing and coordination of the tank work at TC Henderson.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Confirmed that oversight of the Library Amphitheater project will remain with the County.",
+          "categories": [
+            "community",
+            "governance"
+          ]
+        },
+        {
+          "text": "Requested the FY 2026 budget discussion, noting it had been omitted from the recent budget workshop.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that the County revalues every four years rather than the state-required eight, and asked the Manager to explain the state's sales ratio threshold.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the school security component had been removed from the 7% school operating increase given planned lottery funding, and noted the school system's uncertainty pending the state budget.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether individual fire district rates could exceed $0.15 under the previous funding method.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Revisited eliminating convenience center sites, asked for updated savings estimates, and noted the Pisgah Forest center is operating at reduced capacity after Hurricane Helene.",
+          "categories": [
+            "infrastructure",
+            "environment",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Noted a pending grant application for the Sheriff's body scanner that could free up funds.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Informed the Board that Avery County is considering reversing its single fire tax district.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Recalled that a transfer station was estimated to cost $15 million more than current operations and asked whether the solid waste study would analyze an incinerator option.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the County had ever had a revaluation that decreased property values.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted upcoming committee meetings in Raleigh to advocate for the County compared with wealthier regions.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Transylvania Economic Alliance Board of Directors"
+      ]
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked about potential tax revenue loss from FEMA buyouts.",
+          "categories": [
+            "recovery",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how the $0.02 General Fund fire supplement in last year's $0.6033 rate is treated in the new revenue-neutral rate and fire funding structure.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Raised transparency concerns about how the fire funding shift appears on tax bills and stated a preference for the hybrid model at about $0.059.",
+          "categories": [
+            "fiscal",
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Expressed concern that recent property sales are occurring below assessed values.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether, under a hybrid model, the full fire-related funding could be shown on the tax bill.",
+          "categories": [
+            "governance",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the landfill study would include fee recommendations allowing the Solid Waste Fund to break even.",
+          "categories": [
+            "environment",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Highlighted the 60.73% sales assessment ratio and about $271,000 per year in lost utility revenue, and asked whether projections include recapturing it.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Steve Delaney",
+      "summary": "A Lake Toxaway Estates resident, he said the reassessment timing produced inflated values. He argued the proposed 11% property tax increase and the fire tax disproportionately burden Lake Toxaway, and that many households there face 50% to 100% tax increases. He questioned reliance on property taxes to cover a $3.1 million shortfall and urged the Board to reconsider the assessment, rebalance revenue sources and fund fire services more equitably."
+    },
+    {
+      "speaker": "Hershel Johnson",
+      "summary": "Thanked the Board, acknowledged challenges from COVID and population growth affecting property values, and encouraged public support for a future quarter-cent sales tax referendum as potential tax relief."
+    },
+    {
+      "speaker": "Daniel Carey",
+      "summary": "Representing Pisgah Legal Services, he thanked the County for its support and praised the Manager's reports. He described the nonprofit's civil legal services, including domestic violence and homelessness prevention, and said nonprofit funding reduces pressure on the County."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-06-09-fu-1",
+      "dateRaised": "2025-06-09",
+      "owner": "Jaime Laughter",
+      "description": "Prepare materials for the June 17 budget workshop, including a convenience center operations and closure savings analysis, the tax rate impact of funding fire through the General Fund, a scenario of next year's impact of a revenue-neutral budget, and the impacts of possible line-by-line reductions.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "safety",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-06-09",
+      "lastReferencedMeetingId": "2025-06-17",
+      "resolution": "The Manager presented tax impacts of General Fund fire funding options, expense reduction options and convenience site staffing and transport costs ($670,000). No convenience center closure savings analysis or next-year revenue-neutral budget scenario was presented; she said more detailed solid waste information will come from upcoming studies."
+    },
+    {
+      "id": "2025-06-09-fu-2",
+      "dateRaised": "2025-06-09",
+      "owner": "Jaime Laughter",
+      "description": "Contact the Avery County Manager about Avery County's reported consideration of reversing its single fire tax district.",
+      "status": "resolved",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-06-09",
+      "lastReferencedMeetingId": "2025-06-17",
+      "resolvedDate": "2025-06-17",
+      "resolvedMeetingId": "2025-06-17",
+      "resolution": "The Manager reported that Avery County's administration said it is not planning changes to its single fire district funding, though some departments in wealthier areas have expressed interest in district-based funding."
+    },
+    {
+      "id": "2025-06-09-fu-3",
+      "dateRaised": "2025-06-09",
+      "owner": "dalton",
+      "description": "Look into Avery County's possible reversal of its single fire tax district, including speaking with officials during committee meetings in Raleigh.",
+      "status": "open",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-06-09"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-06-09%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-06-09%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5182310",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:45:08.112Z",
+    "warnings": [
+      "Check — followUpUpdates[3] (2025-05-27-fu-6): Marked in_progress, but the minutes only repeat that Commissioners Chapman and Dalton plan to travel to Raleigh. No meeting with legislators is reported, so this restates the existing commitment rather than showing a concrete step. A reviewer should decide whether this update belongs in the record. (minutes: \"noted that he and Commissioner Dalton would be traveling to Raleigh to advocate County issues with state representatives\" (p. 30))"
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "id": "2025-02-24",
+  "date": "2025-02-24",
+  "type": "regular",
+  "title": "Commissioners' Meeting 02/24/25",
+  "time": "6:00 PM",
+  "duration": "2 hours 3 minutes",
+  "audienceSize": 50,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "mccall",
+    "mckelvey",
+    "dalton"
+  ],
+  "tldr": "The Board approved the agenda (with New Courthouse Programming removed), the consent agenda, and the reappointment of Kim Bailey to the Personnel Board, then met in closed session on a potential real property acquisition. Department heads gave semi-annual reports to start the FY 2026 budget season, and the Manager gave updates on capital projects, Hurricane Helene recovery, the Fairhaven housing project and the property revaluation (average countywide increase of 54%). Public commenters raised concerns about the revaluation, including a request to extend the 30-day appeal period.",
+  "keyVotes": [
+    {
+      "description": "Approve revised agenda, removing New Courthouse Programming",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Manager requested removal of Item A – New Courthouse Programming under New Business. She explained she would be meeting with the architect later in the week or early the next week to discuss the current and future status of the project.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approve consent agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the February 10, 2025 minutes, the January 2025 discovery, release and settlement report ($2,197.56 released; $2,022.24 refunded), the 2024 delinquent tax list for advertisement, and receipt of Vaya Health's FY 2025 Q2 fiscal monitoring report. It also included proclamations for Social Work Month and National Athletic Training Month, and permission to give notice of donating a non-functional surplus speed trailer to the Haywood County Sheriff's Office.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Reappoint Kim Bailey to the Personnel Board (Department Head category, representing EMS)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Human Resources Director Sheila Cozart recommended reappointing Kim Bailey, who was eligible and willing to serve another term, citing her perspective on EMS recruitment challenges. Staff noted two other vacancies on the Personnel Board.",
+      "discussion": "",
+      "page": 26
+    },
+    {
+      "description": "Enter closed session on potential real property acquisition after a 10-minute recess",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Closed session under N.C.G.S. 143-318.11(a)(5) to instruct staff on the position to be taken in negotiating the price and terms of a contract for acquisition of real property. The closed session began at 7:50 p.m.",
+      "discussion": "",
+      "page": 31
+    },
+    {
+      "description": "Leave closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "In closed session the Board discussed its position on negotiations regarding the potential acquisition of real property and directed staff on how to proceed.",
+      "discussion": "",
+      "page": 31
+    },
+    {
+      "description": "Seal closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The minutes of the closed session were sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 31
+    },
+    {
+      "description": "Adjourn",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The meeting adjourned at 8:05 p.m.",
+      "discussion": "",
+      "page": 32
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked what support is available to families considering a Hurricane Helene property buyout and whether FEMA or NCEM explains the implications.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether buyout offers reflect the full value of the home and property.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Expressed concern that property owners, especially those with existing mortgages, have complete information before deciding on a buyout.",
+          "categories": [
+            "recovery",
+            "housing"
+          ]
+        },
+        {
+          "text": "Explained she had asked to table the Fairhaven infrastructure funding request because it was unclear whether the funds were for water, sewer or road infrastructure and whether the County could legally spend them.",
+          "categories": [
+            "housing",
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Addressed revaluation concerns, stating the tax rate set in June will be lower than the current rate, that the County revalues every four years, and that she also experienced sticker shock on her own notice.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked how many property owners were interested in the buyout program and how it would affect County land ownership.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Estimated that buyout properties leaving the tax rolls would cost a conservative $50,000 to $75,000 in revenue.",
+          "categories": [
+            "fiscal",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Attended the Essentials of County Government and Ethics class by Zoom.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Joint school bond project committee"
+      ]
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Noted the backlash the Board received for tabling the Fairhaven request before the City withdrew it, and said the Board needs a better understanding of funding requests going forward.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Reported attending the groundbreaking for the new UNC Health Pardee building.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Reported that the U.S. Army Corps of Engineers had been removing debris on Williamson Creek with a full crew, though the countywide timeline remains uncertain.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Reported that the Wilson Road project has been delayed three to four years because funding was redirected to storm recovery.",
+          "categories": [
+            "infrastructure",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Attended the Essentials of County Government and Ethics class by Zoom.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Thanked departments for their semi-annual reports and said they will inform budget decisions.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Highlighted that the City of Brevard withdrew its Fairhaven funding request and expressed concern that the City presented a much lower infrastructure figure than the $524,000 the County had been asked to fund.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said the municipal asset inventories will help evaluate future infrastructure funding requests.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Requested that the Manager contact NCDOT about worsening washouts on Old Toxaway Road near Howell Road.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Reported that the joint school bond project committee will take public comment at Board of Commissioners and Board of Education meetings rather than at committee meetings.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Joint school bond project committee"
+      ]
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Hannah Bowers",
+      "summary": "Asked the Board to consider extending the property tax reassessment appeal deadline by 30 days so residents have more time to review records and gather comparable sales data, and provided a handout on the appeal process."
+    },
+    {
+      "speaker": "Elizabeth Riggs",
+      "summary": "Expressed concern about the timing of the reassessment given post-COVID inflated property values and said many Lake Toxaway homeowners are worried about rising taxes."
+    },
+    {
+      "speaker": "Kathy Balistreri",
+      "summary": "A local realtor, expressed concern about the reassessment timing, saying the market peaked with competitive bidding in 2021 and comparing it to the 2007 housing bubble."
+    },
+    {
+      "speaker": "Charles Merrill",
+      "summary": "A property owner, voiced frustration over large valuation increases and discrepancies between two adjoining properties, said he may have to raise rents for tenants, and asked how the reassessment affects rental properties."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-02-24-fu-1",
+      "dateRaised": "2025-02-24",
+      "owner": "Jaime Laughter",
+      "description": "Contact NCDOT about washouts and undermined curbing on Old Toxaway Road just before Howell Road.",
+      "status": "open",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-02-24"
+    },
+    {
+      "id": "2025-02-24-fu-2",
+      "dateRaised": "2025-02-24",
+      "owner": "staff",
+      "description": "Present a resolution approving donation of the surplus speed trailer to the Haywood County Sheriff's Office at the next meeting after the required notice.",
+      "status": "resolved",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-02-24",
+      "lastReferencedMeetingId": "2025-03-10",
+      "resolvedDate": "2025-03-10",
+      "resolvedMeetingId": "2025-03-10",
+      "resolution": "After the required notice was posted, the Board approved Resolution #06-2025 donating the surplus speed trailer to the Haywood County Sheriff's Office as part of the consent agenda."
+    },
+    {
+      "id": "2025-02-24-fu-3",
+      "dateRaised": "2025-02-24",
+      "owner": "staff",
+      "description": "Continue recruiting applicants for the two vacancies on the Personnel Board.",
+      "status": "open",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-02-24"
+    },
+    {
+      "id": "2025-02-24-fu-4",
+      "dateRaised": "2025-02-24",
+      "owner": "staff",
+      "description": "Obtain Preliminary Engineering Reports and Opinions of Probable Cost for infrastructure on other potential housing projects to identify grant funding opportunities, and obtain Rosman's asset inventory.",
+      "status": "in_progress",
+      "categories": [
+        "housing",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-02-24",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "The Manager reported Brevard's draft AIA ($34 million) and Rosman's draft AIA estimate ($12.7 million), and said she will request Rosman's preliminary engineering report."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-02-24%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-02-24%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/4936610",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:28:14.684Z",
+    "warnings": [
+      "Check — followUpUpdates[6] (2025-02-10-fu-1): The minutes show the City of Brevard withdrew its funding request. They do not say the County or staff decided the request will not return. Staff are also still gathering information on infrastructure to support housing and have requested engineering reports for other housing projects. Marking this 'dropped' with 'the request will not return to the Board' goes beyond the minutes; a reviewer should decide whether 'dropped' or 'resolved' (moot) fits, and soften the resolution text. (minutes: \"The City of Brevard has withdrawn its request for the County to contribute funding to cover the gap.\" (p. 26); \"staff are gathering information on infrastructure that would support housing, following the Board's direction from the last housing-related agenda item\" (p. 23))"
+    ]
+  }
+}
