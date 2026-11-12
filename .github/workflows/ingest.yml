@@ -1,0 +1,95 @@
+name: Ingest minutes
+
+# Checks the county's meetings page every morning. When new minutes have been
+# posted, extracts them and opens a pull request for a person to review.
+#
+# Needs the ANTHROPIC_API_KEY repository secret, and "Allow GitHub Actions to
+# create and approve pull requests" enabled under Settings > Actions > General.
+
+on:
+  schedule:
+    - cron: "23 11 * * *" # 6:23 or 7:23 AM Eastern
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Only meetings on or after this date (YYYY-MM-DD). Blank = since the current board was seated."
+        required: false
+      limit:
+        description: "Most meetings to process in this run"
+        required: false
+        default: "3"
+      rebuild:
+        description: "Rebuild: extract every meeting from the 'since' date again, replacing existing records"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    defaults:
+      run:
+        working-directory: tc-commissioner-tracker
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if an ingest pull request is still waiting for review
+        id: pending
+        run: |
+          open=$(gh pr list --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("ingest/"))] | length')
+          echo "open=$open" >> "$GITHUB_OUTPUT"
+          if [ "$open" != "0" ]; then echo "An ingest pull request is already open; merge or close it first." >> "$GITHUB_STEP_SUMMARY"; fi
+
+      - uses: actions/setup-node@v4
+        if: steps.pending.outputs.open == '0'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: tc-commissioner-tracker/package-lock.json
+
+      - run: npm ci
+        if: steps.pending.outputs.open == '0'
+
+      - name: Extract new minutes
+        if: steps.pending.outputs.open == '0'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRACKER_MODEL: ${{ vars.TRACKER_MODEL }}
+          INPUT_SINCE: ${{ inputs.since }}
+          INPUT_LIMIT: ${{ inputs.limit }}
+          INPUT_REBUILD: ${{ inputs.rebuild }}
+        run: |
+          args=()
+          if [ -n "$INPUT_SINCE" ]; then args+=(--since "$INPUT_SINCE"); fi
+          if [ -n "$INPUT_LIMIT" ]; then args+=(--limit "$INPUT_LIMIT"); fi
+          if [ "$INPUT_REBUILD" = "true" ]; then args+=(--force); fi
+          npm run ingest -- "${args[@]}"
+
+      - name: Check the new records
+        if: steps.pending.outputs.open == '0' && hashFiles('tc-commissioner-tracker/ingest-report.md') != ''
+        run: npm test
+
+      - name: Open a pull request
+        if: steps.pending.outputs.open == '0' && hashFiles('tc-commissioner-tracker/ingest-report.md') != ''
+        run: |
+          branch="ingest/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
+          count=$(git status --porcelain -- src/data/meetings | wc -l | tr -d ' ')
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add src/data/meetings
+          git commit -m "Add meeting records from newly posted minutes"
+          git push origin "$branch"
+          gh pr create --base "${GITHUB_REF_NAME}" --head "$branch" \
+            --title "New meeting minutes ($count file(s) changed)" \
+            --body-file ingest-report.md
