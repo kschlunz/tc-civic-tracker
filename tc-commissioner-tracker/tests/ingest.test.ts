@@ -109,7 +109,14 @@ test("carries follow-ups from one meeting to the next and writes every changed f
     ],
   });
   const plan = planIngest([listed("2026-03-09"), listed("2026-03-23")], meetings, options(), "2026-06-01");
-  const results = await runIngest({ plan, meetings, roster: ROSTER, options: options(), llm, model: "m", downloadPdf: async () => PDF, save: (m) => saved.push(m.id) });
+  // Takes a second, defaulted argument like the real saveMeeting(meeting, dir) does.
+  const save = (m: StoredMeeting, dir: string = "data") => {
+    assert.equal(dir, "data");
+    saved.push(m.id);
+  };
+  const run = await runIngest({ plan, meetings, roster: ROSTER, options: options(), llm, model: "m", downloadPdf: async () => PDF, save });
+  const { results } = run;
+  assert.equal(run.stopped, undefined);
 
   assert.equal(results.length, 2);
   const secondExtract = calls.filter((c) => c.task === "extract")[1];
@@ -131,7 +138,7 @@ test("carries follow-ups from one meeting to the next and writes every changed f
   });
   assert.deepEqual(saved, ["2026-03-09", "2026-03-23", "2026-03-09"]);
 
-  const report = buildReport(results, plan, "m");
+  const report = buildReport(run, plan, "m");
   assert.match(report, /## 2026-03-09/);
   assert.match(report, /against: mccall \(p\. 4\)/);
   assert.match(report, /`2026-03-09-fu-1` → resolved: Bring back a sidewalk plan\. — Staff presented the sidewalk plan\./);
@@ -152,4 +159,20 @@ test("a rebuild first undoes what the rebuilt meetings did to earlier follow-ups
   assert.equal(earlier.followUps[0].status, "open");
   assert.equal(earlier.followUps[0].resolvedMeetingId, undefined);
   assert.equal(meetings.length, 2);
+});
+
+test("a failure keeps the meetings already done and stops before later ones", async () => {
+  const meetings: StoredMeeting[] = [];
+  const saved: string[] = [];
+  const { llm } = fakeLlm({ extract: [extraction()] }); // nothing queued for the second meeting, so it throws
+  const plan = planIngest([listed("2026-03-09"), listed("2026-03-23"), listed("2026-04-13")], meetings, options(), "2026-06-01");
+  const run = await runIngest({ plan, meetings, roster: ROSTER, options: options(), llm, model: "m", downloadPdf: async () => PDF, save: (m) => saved.push(m.id) });
+
+  assert.deepEqual(run.results.map((r) => r.meeting.id), ["2026-03-09"]);
+  assert.equal(run.stopped?.date, "2026-03-23");
+  assert.deepEqual(saved, ["2026-03-09"]);
+  assert.deepEqual(meetings.map((m) => m.id), ["2026-03-09"]);
+
+  const report = buildReport(run, plan, "m");
+  assert.match(report, /This run stopped early.*2026-03-23 failed.*not processed: 2026-03-23, 2026-04-13.*"since" set to 2026-03-23/);
 });

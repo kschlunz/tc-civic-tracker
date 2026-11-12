@@ -22,6 +22,12 @@ export interface IngestedMeeting {
   followUpUpdates: { id: string; status: string; resolution: string; description: string }[];
 }
 
+export interface IngestRun {
+  results: IngestedMeeting[];
+  /** Set when a meeting failed. Everything before it was saved; it and later meetings were not processed. */
+  stopped?: { date: string; error: string };
+}
+
 export interface IngestPlan {
   /** Meetings to extract, oldest first. */
   toProcess: (ListedMeeting & { minutesUrl: string })[];
@@ -83,27 +89,35 @@ export async function runIngest(input: {
   downloadPdf: (url: string) => Promise<Buffer>;
   save: (meeting: StoredMeeting) => void;
   log?: (line: string) => void;
-}): Promise<IngestedMeeting[]> {
+}): Promise<IngestRun> {
   const { plan, meetings, roster, options, llm, model, downloadPdf, save } = input;
   const log = input.log ?? (() => {});
   const results: IngestedMeeting[] = [];
 
   if (options.force && plan.toProcess.length > 0) {
-    undoFollowUpUpdatesFrom(meetings, plan.toProcess[0].date).forEach(save);
+    for (const changed of undoFollowUpUpdatesFrom(meetings, plan.toProcess[0].date)) save(changed);
   }
 
   for (const listed of plan.toProcess) {
     log(`  ${listed.date} ${listed.title}`);
-    const pdf = await downloadPdf(listed.minutesUrl);
     const openFollowUps = openFollowUpsBefore(meetings, listed.date);
-    const result = await extractMeeting({ llm, model, pdf, listed, roster, openFollowUps });
+    let result: Awaited<ReturnType<typeof extractMeeting>>;
+    try {
+      const pdf = await downloadPdf(listed.minutesUrl);
+      result = await extractMeeting({ llm, model, pdf, listed, roster, openFollowUps });
+    } catch (error) {
+      // Keep what is already done. Later meetings depend on this one's follow-ups, so stop here.
+      const message = error instanceof Error ? error.message : String(error);
+      log(`    failed: ${message}`);
+      return { results, stopped: { date: listed.date, error: message } };
+    }
 
     const existing = meetings.findIndex((m) => m.id === result.meeting.id);
     if (existing >= 0) meetings.splice(existing, 1);
     meetings.push(result.meeting);
     meetings.sort((a, b) => a.id.localeCompare(b.id));
     save(result.meeting);
-    applyFollowUpUpdates(meetings, result.meeting.id, result.followUpUpdates).forEach(save);
+    for (const changed of applyFollowUpUpdates(meetings, result.meeting.id, result.followUpUpdates)) save(changed);
 
     results.push({
       meeting: result.meeting,
@@ -115,12 +129,17 @@ export async function runIngest(input: {
       })),
     });
   }
-  return results;
+  return { results };
 }
 
 /** Markdown summary for the pull request a reviewer reads. */
-export function buildReport(results: IngestedMeeting[], plan: IngestPlan, model: string): string {
+export function buildReport(run: IngestRun, plan: IngestPlan, model: string): string {
+  const { results, stopped } = run;
   const lines: string[] = [];
+  if (stopped) {
+    const remaining = plan.toProcess.filter((m) => m.date >= stopped.date).map((m) => m.date);
+    lines.push(`> **This run stopped early.** ${stopped.date} failed (${stopped.error}), so it and the meetings after it were not processed: ${remaining.join(", ")}. After merging this, run the ingest workflow again with "Rebuild" ticked and "since" set to ${stopped.date}.`, "");
+  }
   lines.push(`Adds ${results.length} meeting${results.length === 1 ? "" : "s"} extracted from the county's official minutes by ${model}. Each record was checked against its PDF by a second pass; anything that pass was unsure about is listed under "To check".`, "");
 
   for (const { meeting, revised, warnings, followUpUpdates } of results) {
