@@ -1,0 +1,524 @@
+{
+  "id": "2025-02-10",
+  "date": "2025-02-10",
+  "type": "regular",
+  "title": "Commissioners' Meeting 02/10/25",
+  "time": "4:00 PM",
+  "duration": "3 hours 20 minutes",
+  "audienceSize": 50,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved its consent agenda, including updated records retention schedules for all departments, a $200,000 opioid settlement authorization for a part-time Substance Use Systems Coordinator, and permission for the CARE Coalition to apply for an underage drinking prevention grant. Department heads began mid-year reports to kick off the FY 2026 budget, and the Manager gave a Hurricane Helene recovery update. After a legal analysis of County authority to fund housing, the Board unanimously tabled the City of Brevard's funding request for the Fairhaven affordable housing project until the first meeting in March. The Board also authorized a contract with Axias of up to $150,000 for a building maintenance and capital reserve study, updated the Sylvan Valley II project budget, and met in closed session on economic development.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved consent agenda, including records retention schedules and a $200,000 opioid settlement spending authorization",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda approved the January 27, 2025 minutes, revised Parks and Recreation Commission bylaws allowing a quarterly meeting schedule, current State records retention and disposition schedules for all County departments, and accepted the Community Child Protection Team 2024 annual report. It also approved the CARE Coalition's application for the SAMHSA STOP grant (up to $60,000 per year for four years) and amended Resolution #33-2024 to authorize $200,000 in opioid settlement funds through June 30, 2028 for a 0.5 FTE Substance Use Systems Coordinator, rescinding prior authorized funding for jail-based reentry and treatment services.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Moved Brian Weaver to the Local School Superintendent or Designee seat and appointed Jessica Winkel for Vaya Health on the Juvenile Crime Prevention Council",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Missy Ellenberger retired from Transylvania County Schools, leaving the superintendent designee seat on the JCPC vacant, and Jennifer Jeter of Vaya Health moved to a new role. Assistant Superintendent Brian Weaver was recommended to move from a Commissioner Appointee seat, which will be advertised for public appointment.",
+      "discussion": "",
+      "page": 24
+    },
+    {
+      "description": "Tabled the City of Brevard's funding request for the Fairhaven affordable housing project until the first meeting in March",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The City of Brevard requested County financial support for the 42-unit Fairhaven project, approved for low-income housing tax credits, whose funding gap was revised from $1.7 million to $1 million, with $524,000 related to public infrastructure. The Manager presented a legal analysis concluding the County cannot fund or loan money to private developers without statutory authority, outlined permissible ways to support housing, and reported staff were exploring use of grant funds for public infrastructure, which would require a Preliminary Engineering Report from the City and funder approval.",
+      "discussion": "McCall and Chapman opposed the County becoming a housing authority or lender; Chapman said the request fell outside County legal authority and he could not support it. Dalton and McKelvey supported exploring infrastructure assistance with grant funds, with Dalton saying it could provide over $500,000 in relief, and McKelvey urged more workforce housing in the project. Chapman cautioned about precedent and suggested a formal infrastructure support policy. McCall preferred delay pending the engineering report, soil reports and confirmation of developer capability, noting Dalton would be absent at the next meeting, and said she did not believe the County should apply for grants on the City's behalf.",
+      "page": 29
+    },
+    {
+      "description": "Authorized the Manager to negotiate and sign a contract with Axias, not to exceed $150,000, for a deferred maintenance and capital reserve study",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Staff issued a Request for Qualifications for a comprehensive building assessment of County-owned buildings and the Blue Ridge Community College Transylvania campus, similar to the earlier school facilities assessment, and received five responses. Staff recommended Axias, with funding from the County's assigned fund balance for capital projects.",
+      "discussion": "Chapman asked whether the study was budgeted; the Manager said it was not explicitly budgeted but assigned fund balance was designated for this work. McCall said the data would help the upcoming capital workshop and praised Axias's prior school study. The Manager told Chapman the study would review all buildings, identify and schedule replacements, and produce summary and facility reports. Chappell said Axias had delivered a well-organized plan before and the study would benefit the County and the College.",
+      "page": 30
+    },
+    {
+      "description": "Approved updates to the Capital Project Ordinance for the Sylvan Valley II project, total budget $5,401,500",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Staff presented an update to the Capital Fund Ordinance reallocating funds between line items for the Sylvan Valley Industrial Center Expansion, adjusting construction to $4,700,000 and professional services and contingency to $701,500. The Manager said the update aligns line items with contracts within the previously approved budget.",
+      "discussion": "In response to Chapman, the Manager said Phase II is expected to be completed in June according to the contractor.",
+      "page": 30
+    },
+    {
+      "description": "Entered closed session to discuss location or expansion of industries or businesses",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Closed session under N.C.G.S. § 143-318.11(a)(4), after a 10-minute recess; the Board received updates on several economic development projects and directed staff.",
+      "discussion": "",
+      "page": 32
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion to return to open session.",
+      "discussion": "",
+      "page": 32
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Minutes sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 32
+    },
+    {
+      "description": "Adjourned the meeting at 7:20 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion to adjourn.",
+      "discussion": "",
+      "page": 32
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Reported attending a meeting of Governor Stein's new recovery committee, expressed confidence in the recovery process and said two lanes of I-40 will reopen by March 1.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked what would be involved in establishing a County housing authority.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Said the County would need a housing authority to enter the housing business, questioned the developer's cited shortfall, and said he could not support the City's request because it falls outside County legal authority.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Cautioned that providing infrastructure support for a single project could lead other developers to seek the same assistance.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Questioned why developers in Transylvania County could not build profitably without public support and argued projects dependent on government funding should not be considered viable.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Suggested the Board consider a formal policy on when and how the County provides infrastructure support for specific projects.",
+          "categories": [
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the Axias building study was budgeted and what the study would involve.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked when Phase II of the Sylvan Valley project would be completed.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked how staff would present the courthouse project and whether stakeholders might raise concerns about a reduced footprint.",
+          "categories": [
+            "infrastructure",
+            "safety"
+          ]
+        },
+        {
+          "text": "Thanked staff presenters for their dedication to serving county citizens.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Noted large debris piles remain and asked about removal progress.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Observed increased recovery activity by USACE and other agencies in surrounding counties.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Said the County should not create a housing authority, manage real estate or issue loans, that its most effective role is infrastructure support, and that developers should have financing in place.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Raised concern about setting precedent, asked for the engineering report, soil reports and confirmation of the developer's capability, and opposed moving forward with any part of the City's request at this time.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Said she did not believe it was in the County's interest to apply for grants on behalf of the City.",
+          "categories": [
+            "housing",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported the Axias study, citing its value for the upcoming capital workshop, Axias's prior school study and the importance of preventative maintenance.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Clarified she is not related to a recent Planning Board appointee named McCall and that the Board does not traditionally read appointee qualifications aloud.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked about debris at Calvert, which the Manager confirmed is a sorting site.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Noted tax incentives must by statute be tied to job creation and investment, and supported letting the Manager explore infrastructure assistance that could provide the project over $500,000 in relief.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Recalled a prior denied effort to extend sewer on Wilson Road that would have supported 16 workforce housing units using economic development grant funds.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said staff researched the City's housing request with the County Attorney and encouraged Commissioners to formally support the infrastructure grant option if they favored it.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that counties with housing authorities often create a separate department with dedicated staff.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Agreed infrastructure support appeared to be the logical next step and stressed that the Board must follow state law and its oaths.",
+          "categories": [
+            "housing",
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said some counties contacted by staff admitted they might be acting outside legal authority in funding housing.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Praised Axias's prior work and said the building study would benefit the County and the Community College.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Thanked department heads for their presentations and commended the Manager's recommendations.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Noted the County was being asked to act as a lender and asked whether it had ever provided loans before.",
+          "categories": [
+            "housing",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Suggested more of the project's homes be workforce housing for teachers and first responders, citing teacher recruitment difficulties, and encouraged the City to broaden the scope.",
+          "categories": [
+            "housing",
+            "schools"
+          ]
+        },
+        {
+          "text": "Supported pursuing infrastructure improvements and urged staff to continue investigating grant funds.",
+          "categories": [
+            "housing",
+            "infrastructure"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Steve Keate",
+      "summary": "Acknowledged the shortage of affordable housing but urged the Board to reject using taxpayer funds to subsidize the City of Brevard's affordable housing project, suggesting the County instead review zoning and support infrastructure and rely on free-market solutions."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-02-10-fu-1",
+      "dateRaised": "2025-02-10",
+      "owner": "Jaime Laughter",
+      "description": "Gather information on potential grant funds for public infrastructure supporting the City of Brevard's Fairhaven housing project, including review of the City's engineering report, and return the request to the Board at the first meeting in March.",
+      "status": "dropped",
+      "categories": [
+        "housing",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-02-10",
+      "lastReferencedMeetingId": "2025-02-24",
+      "resolvedDate": "2025-02-24",
+      "resolvedMeetingId": "2025-02-24",
+      "resolution": "The Manager reported that the City of Brevard withdrew its request for County funding for Fairhaven infrastructure, so the request will not return to the Board."
+    },
+    {
+      "id": "2025-02-10-fu-2",
+      "dateRaised": "2025-02-10",
+      "owner": "staff",
+      "description": "Advertise the vacant Commissioner Appointee seat on the Juvenile Crime Prevention Council for public appointment.",
+      "status": "open",
+      "categories": [
+        "safety",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-02-10"
+    },
+    {
+      "id": "2025-02-10-fu-3",
+      "dateRaised": "2025-02-10",
+      "owner": "staff",
+      "description": "Hold a dedication ceremony for the submarine anchor installed at the Veterans History Museum.",
+      "status": "open",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2025-02-10"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-02-10%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-02-10%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/4902682",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:26:55.457Z",
+    "warnings": [
+      "Check — keyVotes[3].discussion: The draft says Chapman, like McCall, 'opposed the County becoming a housing authority or lender'. The minutes record Chapman saying that entering the housing business would require establishing an authority and that he could not support the City's request. They do not record him opposing the creation of a housing authority as such. Consider rewording to what he actually said. (minutes: \"Commissioner Chapman stated that if the County were to enter the housing business, it would need to establish an authority; otherwise, there was no viable solution... stated that he could not support it.\" (p. 27))"
+    ]
+  }
+}

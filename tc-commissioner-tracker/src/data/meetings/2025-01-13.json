@@ -1,0 +1,434 @@
+{
+  "id": "2025-01-13",
+  "date": "2025-01-13",
+  "type": "regular",
+  "title": "Commissioners' Meeting 01/13/25",
+  "time": "4:00 PM",
+  "duration": "2 hours 3 minutes",
+  "audienceSize": 30,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved its consent agenda, including three no-match grant applications for public health and substance misuse prevention, a $1,402.11 occupancy tax refund, two out-of-state travel requests, and updated City of Brevard plat review officers. Following a Manager's presentation on Hurricane Helene's financial impacts, including a roughly $200,000 drop in October sales tax, the Board voted unanimously to keep $5 million in the general fund instead of transferring it to capital funds. The Board heard a Helene recovery update and discussed solid waste capacity and a 40%-over-budget landfill cell bid. By consensus, it declined to comment on a federal proposal to name a waterfall on private property 'Shady Falls,' and it met in closed session on a potential real property acquisition.",
+  "keyVotes": [
+    {
+      "description": "Approved the revised agenda, tabling County Commissioner appointments to January 27, 2025",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Chairman Chappell requested that County Commissioner Appointments be tabled until the January 27, 2025 meeting. There were no objections and no other agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda, including grant applications, a $1,402.11 occupancy tax refund, travel requests and Resolution #01-2025",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the following items:\n- Approval of the December 9, 2024 minutes.\n- A $1,402.11 refund of occupancy taxes paid in error for a property located in Jackson County.\n- Applications for a SAMHSA SPF-PFS grant (up to $375,000 per year for up to five years), an NC Public Health Alliance internship grant ($45,000), and a HRSA Rural Health Care Services Outreach grant (up to $250,000 per year for four years); none require a county match.\n- Out-of-state travel to a HRSA grantee conference in Atlanta and an animal services conference in Myrtle Beach.\n- Resolution #01-2025 updating City of Brevard review officers.\n- Acknowledgment of revised minimum qualifications for the project manager position (associate's degree and five years of experience rather than 10 years).",
+      "discussion": "Commissioner McCall sought confirmation that the Board would not be obligated to fund positions or programs associated with the grants once the grant periods end; the Manager said there would be no ongoing financial commitment. Commissioner Chapman suggested that staff provide reports on how training sessions they attend contribute to their professional development.",
+      "page": 2
+    },
+    {
+      "description": "Approved Hurricane Helene recovery financial plan retaining $5 million in the general fund rather than transferring it to capital funds",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Manager reported that October 2024 sales tax receipts were down $200,000 year-over-year and that occupancy tax revenues had declined. She recommended retaining $5 million in Fund 10 for flexibility amid uncertain revenues and FEMA reimbursement timelines, while restricted transfers proceed as planned. She said all capital accounts, including the Education Capital Fund and courthouse fund, have sufficient balances.",
+      "discussion": "Commissioner Chapman asked about reimbursement for storm damage such as the balers at Solid Waste. Commissioner McCall confirmed the plan would not jeopardize planned projects and only delays transfers into capital funds. Commissioner McKelvey asked why about $3.3 million allocated for education capital was unspent, and the Manager attributed it to bond payment budgeting that began before payments were due. Commissioner Dalton asked about the new landfill cell, which received one bid 40% over budget and will be rebid in the spring. Commissioners Chapman and McCall urged a reevaluation of solid waste operations. Chairman Chappell supported the recommendation as preserving flexibility without altering Board priorities.",
+      "page": 9
+    },
+    {
+      "description": "Entered closed session on a potential real property acquisition, following a 5-minute recess",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The closed session was held per N.C.G.S. 143-318.11(a)(5) to instruct staff on negotiating the price and terms for the acquisition of real property. It began at 5:14 p.m.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board instructed staff on the negotiating terms of a potential acquisition of real property during the closed session.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The minutes of the closed session are sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Adjourned the meeting at 6:05 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 11
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Sought confirmation that the County would not be obligated to fund grant-related positions or programs after the grant periods end.",
+          "categories": [
+            "fiscal",
+            "health"
+          ]
+        },
+        {
+          "text": "Noted that the Helene update data did not indicate how many temporary shelters had been established in the County.",
+          "categories": [
+            "recovery",
+            "housing"
+          ]
+        },
+        {
+          "text": "Commended the County Manager's efforts to push FEMA and NC Emergency Management, credited churches, volunteers and nonprofits, and criticized FEMA's slow response.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Sought confirmation that retaining $5 million in the general fund would not jeopardize ongoing or planned projects.",
+          "categories": [
+            "fiscal",
+            "schools"
+          ]
+        },
+        {
+          "text": "Clarified that the proposal only delays transfers into capital funds until more is known, including about FEMA reimbursements.",
+          "categories": [
+            "fiscal",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Noted that the County still bore the costs of the storm-related fees it waived.",
+          "categories": [
+            "fiscal",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Urged that solid waste operations be reevaluated at the upcoming capital workshop, with all options considered.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Raised concerns that officially naming a waterfall on private property could draw visitors onto the property and set a precedent for similar naming requests.",
+          "categories": [
+            "environment"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Suggested that staff report on how the training sessions they attend contribute to their professional development.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about potential reimbursement for storm-related damage, such as the balers at Solid Waste.",
+          "categories": [
+            "recovery",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Observed that the sales tax decline appeared to align with the drop in occupancy tax.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Emphasized addressing solid waste in budget discussions, citing long lines and storm damage at collection centers, and called for innovative solutions.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how many waterfalls in the County are officially named and whether a standard defines what qualifies as a waterfall.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Said he would attend a biochar presentation in Waynesville with Solid Waste Director Kenn Webb and report back to the Board.",
+          "categories": [
+            "infrastructure",
+            "environment"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Encouraged residents to volunteer for citizen advisory councils.",
+          "categories": [
+            "governance",
+            "community"
+          ]
+        },
+        {
+          "text": "Supported the Manager's recommendation to retain funds in the general fund, saying it preserves flexibility without altering Board priorities.",
+          "categories": [
+            "fiscal",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Stated the Board should not weigh in on naming features located on private property.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Emphasized regional and statewide collaboration on housing challenges.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Expressed condolences on the passing of long-time County employee Mark Baker.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked whether the new landfill cell's opening remains on track, and confirmed that the projected overlap with the existing cell is under six months.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked how Henderson County's transfer station came to operate at a cost nearly equal to its contractor's charges.",
+          "categories": [
+            "infrastructure",
+            "recovery"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked why approximately $3.3 million allocated for education capital had not been spent and whether the Board of Education was responsible.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked what percentage the $200,000 sales tax decline represented and what typical quarterly sales tax revenue is.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Cited liability concerns and agreed the Board should not offer input on the waterfall naming proposal.",
+          "categories": [
+            "environment"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [],
+  "followUps": [
+    {
+      "id": "2025-01-13-fu-1",
+      "dateRaised": "2025-01-13",
+      "owner": "Jaime Laughter",
+      "description": "Provide more precise figures to confirm whether the October sales tax decline was approximately 20%.",
+      "status": "resolved",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-01-13",
+      "lastReferencedMeetingId": "2025-05-27",
+      "resolvedDate": "2025-05-27",
+      "resolvedMeetingId": "2025-05-27",
+      "resolution": "The budget presentation stated that sales tax collections dropped 22% in September/October because of Hurricane Helene and are rebounding."
+    },
+    {
+      "id": "2025-01-13-fu-2",
+      "dateRaised": "2025-01-13",
+      "owner": "chapman",
+      "description": "Update the Board after attending the biochar/biomass presentation in Waynesville with the Solid Waste Director.",
+      "status": "open",
+      "categories": [
+        "infrastructure",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-01-13"
+    },
+    {
+      "id": "2025-01-13-fu-3",
+      "dateRaised": "2025-01-13",
+      "owner": "staff",
+      "description": "Rebid construction of the new landfill cell in the spring, aiming to align with the budget after the single bid came in 40% over budget.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-01-13",
+      "lastReferencedMeetingId": "2025-05-12",
+      "resolvedDate": "2025-05-12",
+      "resolvedMeetingId": "2025-05-12",
+      "resolution": "The revised Phase 7 project was rebid and drew four bids on April 8, 2025. The Board awarded the contract to CBP Environmental."
+    },
+    {
+      "id": "2025-01-13-fu-4",
+      "dateRaised": "2025-01-13",
+      "owner": "staff",
+      "description": "Select a contractor to analyze long-term solid waste options and provide projections for planning.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-01-13",
+      "lastReferencedMeetingId": "2025-05-12",
+      "resolvedDate": "2025-05-12",
+      "resolvedMeetingId": "2025-05-12",
+      "resolution": "The Board approved Smith and Gardner Engineering's solid waste rate study and long-term disposal alternatives study for $124,400."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-01-13%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-01-13%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/4835390",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:23:28.147Z",
+    "warnings": [
+      "Check — followUpUpdates[4] (2024-12-09-fu-3): The commitment is to recruit and select a project manager by Q1 2025. The minutes only record the Board acknowledging a corrected job description. They say nothing about recruitment having started or a candidate being sought. A human should decide whether this counts as a concrete step toward the commitment or should be left out. (minutes: \"The Board acknowledged the revision to the project manager's job description.\" (p. 4))",
+      "Check — commissionerActivity[dalton].topics[0]: The draft says Dalton \"confirmed\" the overlap is under six months. In the minutes, Dalton recalled the figure and the Manager confirmed it. Reword to attribute the confirmation to the Manager. (minutes: \"Commissioner Dalton recalled that the projected overlap between the cells is less than six months, which the Manager confirmed as accurate.\" (p. 8))"
+    ]
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "id": "2025-05-27",
+  "date": "2025-05-27",
+  "type": "regular",
+  "title": "Commissioners' Meeting 05/27/25",
+  "time": "6:00 PM",
+  "duration": "3 hours 23 minutes",
+  "audienceSize": 50,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The County Manager presented the FY 2026 recommended budget of $81,342,524 with a property tax rate of $0.4105 per $100 valuation, which is $0.0268 above the revenue-neutral rate. It also proposes a new single countywide fire service district taxed at $0.07, funding four paid firefighters per department and a 7% operating increase for the schools. A budget workshop is set for June 2 and a public hearing and vote for June 23. The Board tabled a school request for $242,415 more for HVAC overcommitments, approved a lottery fund application for a school crisis alert system, approved the Brevard Elementary playground contract and a temporary Sheriff's Office coverage agreement with the City of Brevard, and cancelled its July 28 and August 11 meetings.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda, including a sales tax resolution and cancellation of the July 28 and August 11 meetings",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda covered several items. It approved the May 12 regular meeting minutes and the April 2025 tax discovery, release and settlement report (releases $1,043.96, refunds $1,037.16). It authorized Transylvania Public Health to apply for a $250,000 Dogwood Health Trust grant with no local match, adopted Resolution #25-2025 urging the General Assembly to preserve Article 39, 40 and 42 local sales tax revenue, and cancelled the July 28 and August 11 meetings to give staff time for leave and project work.",
+      "discussion": "Commissioner Chapman was thanked for bringing the sales tax resolution forward. He emphasized the need for the General Assembly to understand counties' concerns about reallocating sales tax revenue for other purposes such as the Viper system, which he said could significantly affect the County budget if funded through local sales tax.",
+      "page": 2
+    },
+    {
+      "description": "Reappointed Jeanette Burrell and Heather Stewart to the Nursing and Adult Care Home Advisory Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Both members' terms expire in June, and both are eligible and willing to continue serving. Regional Ombudsman Donna Case recommended their reappointment.",
+      "discussion": "",
+      "page": 24
+    },
+    {
+      "description": "Approved $361,000 contract with Blue Ridge Playgrounds for the Brevard Elementary School playground",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "All bids Transylvania County Schools received for the project came in over budget. The Board approved additional funding on May 12, 2025, with the stipulation that future requests show all other funding sources were considered. The Board of Education approved the contract on May 19.",
+      "discussion": "",
+      "page": 24
+    },
+    {
+      "description": "Tabled the school system's request for an additional $242,415 for HVAC project overcommitments",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "School HVAC contracts signed from 2022 to 2024 exceeded approved budgets and ESSER funds. The County had previously covered the overcommitment of $912,121 and a $100,000 Pisgah Forest Elementary piping project. The new school Finance Director identified a further $242,415, bringing the total to $1.154 million, and the Board of Education requested the funds on May 19. The motion tables the request until the school fund balance is reviewed and the Board is confident there are no further undisclosed obligations.",
+      "discussion": "Chapman asked for an explanation of the overcommitments. He noted the funds would come from the Education Capital Fund, asked whether vendors had been paid, and asked about the timeline for more information. McKelvey confirmed the $1.154 million total and asked whether the school Finance Director would keep reviewing past projects. McCall noted the request lacked the assurance of internal funding the Board had required, referenced about $800,000 added to the school fund balance last year, and recommended tabling. Dalton and Chappell commended Finance Director Michelle Mullinax. Chappell stressed accountability and supported tabling. The Manager said she would obtain the FY 2024 school audit and bring the information back as soon as possible.",
+      "page": 26
+    },
+    {
+      "description": "Approved submitting a $432,690 lottery fund application for the Centegix Crisis Alert and Visitor Management System",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "After a school shooting in Georgia, the school system identified the Centegix system, which provides staff alert badges, ID-scanning visitor management, wireless alert infrastructure and reunification tools. The Board of Education approved the application on May 19. Approval is contingent on lottery funding, and if lottery funds are not approved the request returns to the Board of Commissioners.",
+      "discussion": "Chappell questioned whether the subscription component would make the purchase ineligible for lottery funds and said he supported the system from firsthand experience. McCall asked whether the system was part of the Axias safety review, whether it was systemwide, and whether another request would follow if lottery funds were denied. Chapman asked about the lottery fund balance; Dalton said the Board of Education reported about $700,000. McKelvey supported the system and the contingency. Dalton asked whether it could be installed before the school year; the Manager did not have an answer.",
+      "page": 27
+    },
+    {
+      "description": "Approved hiring a part-time Passport Acceptance Agent two days per week for June 2025",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Register of Deeds Beth Landreth requested the position because demand has risen after Haywood and Jackson counties discontinued passport services and Real ID took effect. The facility has generated $30,000 more revenue than budgeted, so the position can be covered without affecting the budget. It is also included in the FY 2026 recommended budget.",
+      "discussion": "McCall and McKelvey expressed support, noting increasing demand and the prudence of starting part-time. Chappell called the service a community benefit, and Chapman noted out-of-county usage.",
+      "page": 28
+    },
+    {
+      "description": "Approved an interlocal agreement for the Sheriff's Office to provide temporary law enforcement coverage in Brevard at $7,527 per week, paid by the City",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Brevard Police Department has high vacancies and requested help. Two deputies will cover 12 p.m. to 6 a.m. daily on overtime under Sheriff's Office command, for six months with a three-month extension option. The City pays all costs plus a one-time $6,000 for body cameras, and the City Council approved the agreement on May 19. The motion also authorized the County Manager to execute the agreement and related financial actions.",
+      "discussion": "McCall asked about overhead and how long the City would need coverage, and raised concerns about lapsed salary funds, tax impact and deputy burnout. Chapman asked who would handle City animal control calls. McKelvey suggested pushing for additional three-month extensions. Chappell praised the agreement and, in a personal capacity, called it disingenuous for parties to blame their entire tax increase on the contract. Dalton raised liability and subrogation questions and noted the City has about 10 officers and no officer in training, so an extension is likely. He also said fatigue could impair decision-making.",
+      "page": 31
+    },
+    {
+      "description": "Adjourned the meeting at 9:23 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 32
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Said the General Assembly needed to understand counties' concerns about reallocating sales tax revenue for purposes such as the Viper system, which could significantly affect the County budget.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the Board would receive visual renderings of the new courthouse.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the County would still maintain a healthy fund balance if funds were pulled from the General Fund.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked what areas the County should advocate for with the state beyond courthouse construction assistance, noting he and Commissioner Dalton planned to meet with legislators in Raleigh.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked for an explanation of the school HVAC overcommitments and whether vendors had been paid, and noted the funds would reduce the Education Capital Fund available for future projects.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about the current school lottery fund balance.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Noted that out-of-county residents use the County passport service.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Asked who would respond to City animal control matters during the Sheriff's Office coverage shifts.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Commended the Tax Office for its handling of the appeal process and said he would attend an NCDOT District 14 meeting on the proposed Cedar Mountain roundabout and update the Board.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Praised the City of Brevard for closing streets during the Memorial Day service.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Asked what the financial implications would be if the County changed direction on the Sylvan Valley Industrial Building; the Manager said about $1.5 million in grants would have to be repaid.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked how long the County had been planning the landfill cell expansion, in response to public comment on privatizing the landfill.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Clarified that the regional hospital is privately owned and for-profit, in response to a public suggestion to move the Health Department there.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Called the recommended budget realistic and said public safety is not optional, citing the new narcotics investigator after the loss of a City partnership.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Stressed fiscal responsibility and accountability on the school HVAC request, said backup documentation must accompany future requests, and supported tabling.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        },
+        {
+          "text": "Questioned whether the subscription component of the Centegix system would make it ineligible for lottery funds, and supported the system citing firsthand experience.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Praised the passport service as a community benefit.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Praised the thoroughness of the Sheriff's coverage agreement and, in a personal capacity, called it disingenuous for parties to blame their entire tax increase on the contract.",
+          "categories": [
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked how much the failed quarter-cent sales tax would have offset the property tax rate; the Manager said at least one cent.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked what fund balance percentage is required relative to the total budget.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Explained that fire trucks take 36 to 48 months to order and that volunteer declines and certification requirements affect insurance ratings, noting a $2.5 million increase for fire and EMS.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Reported that he and other commissioners met with Senator Budd's staff to advocate for PILT funds and ambulance grants.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the County's budget growth figures included ARPA and other grant funds.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said no fire district raises enough revenue to fund itself, that Rosman would have needed 32 cents, and that the proposed 7-cent fire rate still falls short of need.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Commended school Finance Director Michelle Mullinax for her review of school financial records.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Reported the Board of Education put the lottery fund balance at about $700,000 and asked whether the Centegix system could be installed before the school year.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Raised liability and subrogation questions on the Sheriff's coverage agreement and said the City appeared confused about accident procedures.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Noted the City is down to about 10 officers with roughly $50,000 per week in lapsed salary and no officer in training, so the contract will likely need extension; he also warned that fatigue could impair decision-making.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Discussed the revaluation, noting the County's mostly residential sales, rising land values in areas such as Balsam Grove, and the importance of investing in fire departments.",
+          "categories": [
+            "fiscal",
+            "econ",
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Budget Subcommittee (fire department budgets)"
+      ]
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Encouraged the Board to consider placing the sales tax referendum on the next general election ballot and recommended educating the public on how it could ease property taxes.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how the proposed 4.1% increase compared with prior years and estimated annual budget growth has averaged 2 to 3%.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported a single fire district, citing disparities in which some departments have surplus equipment and others lack basic protective gear.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said the Manager delivered the smallest possible tax increase needed to fund essential services and that no one on the Board takes raising taxes lightly.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted the HVAC request lacked assurances that internal school funds were explored, cited about $800,000 added to the school fund balance last year, and questioned whether all overcommitments had been found.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the Centegix system was part of the Axias safety review, whether it was systemwide, and whether another request would follow if lottery funds were denied.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Supported the part-time passport agent, citing increasing demand.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Asked about overhead costs and how long the City would need Sheriff's Office coverage, and raised concerns about lapsed salary funds, tax impact and deputy burnout.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said all property owners received revaluation notices with appeal instructions in February, expressed frustration that some residents and another local government seemed unaware of the process, and stressed the appraisal is applied uniformly.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Budget Subcommittee (fire department budgets)"
+      ]
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Noted the County had not raised property taxes for operations in 10 years and asked whether 63% budget growth was supported by fund balance withdrawals.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed concern that continuing to avoid tax increases might lead to financial instability.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported putting the sales tax referendum back on the ballot in two years, saying it would raise revenue from tourists.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how staff arrived at a 7% figure for teachers rather than 9.5%; the Manager clarified 7% is an operating increase that lets the schools match Henderson County's 9% supplement.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Confirmed the total HVAC overcommitment of $1.154 million, said the fund balance should be reviewed before more money is committed, and asked whether the school Finance Director would keep reviewing past projects.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported the Centegix system and the lottery funding contingency.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Supported the part-time passport agent.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Suggested pushing for additional three-month extensions to the Sheriff's coverage agreement, saying nine months might be insufficient.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Highlighted the hiring of Beecher Allison as project manager for school bond projects and expressed confidence in him.",
+          "categories": [
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Bruce Gleasman",
+      "summary": "Proposed several cost-saving measures to shrink County buildings and the budget. These included relocating the Health Department to the regional hospital, repurposing vacated buildings, demolishing the former administration building, and building or retrofitting a courthouse. He also proposed selling surplus property and privatizing the landfill, which he said could lower the tax rate by $0.08 to $0.10."
+    },
+    {
+      "speaker": "Sam Stites",
+      "summary": "Urged the Board to support increased supplemental pay for school staff and read excerpts from educators' postcards describing their financial struggles and need for a living wage."
+    },
+    {
+      "speaker": "Lisa Rodke",
+      "summary": "Supported the School Board's decision to increase supplement pay for all school staff, including bus drivers, cafeteria workers and custodians. She cited recruitment struggles and urged the County to approve the increase."
+    },
+    {
+      "speaker": "David Morrow",
+      "summary": "Thanked the County, the City of Brevard, the Heart of Brevard, a commissioner and the Veterans History Museum for supporting the Memorial Day ceremony and veterans."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-05-27-fu-1",
+      "dateRaised": "2025-05-27",
+      "owner": "Jaime Laughter",
+      "description": "Obtain the FY 2024 School System audit showing capital and current expense fund balances, get clarification on whether further HVAC overcommitments may exist, and bring the tabled $242,415 HVAC request back to the Board as soon as possible.",
+      "status": "open",
+      "categories": [
+        "schools",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-05-27"
+    },
+    {
+      "id": "2025-05-27-fu-2",
+      "dateRaised": "2025-05-27",
+      "owner": "staff",
+      "description": "If the lottery fund application for the $432,690 Centegix Crisis Alert system is not approved, bring the request back to the Board with alternative funding options.",
+      "status": "resolved",
+      "categories": [
+        "schools",
+        "safety"
+      ],
+      "relatedMeetingId": "2025-05-27",
+      "lastReferencedMeetingId": "2025-07-14",
+      "resolvedDate": "2025-07-14",
+      "resolvedMeetingId": "2025-07-14",
+      "resolution": "The Centegix system will be funded with lottery proceeds awarded to the County, and the Board approved the contract on the consent agenda."
+    },
+    {
+      "id": "2025-05-27-fu-3",
+      "dateRaised": "2025-05-27",
+      "owner": "staff",
+      "description": "Request a sole source resolution for the Library Amphitheater Cover Project at the next Board meeting.",
+      "status": "resolved",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2025-05-27",
+      "lastReferencedMeetingId": "2025-06-09",
+      "resolvedDate": "2025-06-09",
+      "resolvedMeetingId": "2025-06-09",
+      "resolution": "The Board adopted Resolution #26-2025 approving Carolina Recreation & Design Co. as sole source vendor for the Library Amphitheater canopy."
+    },
+    {
+      "id": "2025-05-27-fu-4",
+      "dateRaised": "2025-05-27",
+      "owner": "chapman",
+      "description": "Update the Board after attending the NCDOT District 14 meeting in Sylva on public comments about the proposed Cedar Mountain roundabout.",
+      "status": "open",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-05-27"
+    },
+    {
+      "id": "2025-05-27-fu-5",
+      "dateRaised": "2025-05-27",
+      "owner": "staff",
+      "description": "Fire Marshal's Office to meet with each fire department to review recommended FY 2026 budgets and begin long-term capital planning discussions.",
+      "status": "open",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-05-27"
+    },
+    {
+      "id": "2025-05-27-fu-6",
+      "dateRaised": "2025-05-27",
+      "owner": "chapman",
+      "description": "Meet with state legislators in Raleigh, together with Commissioner Dalton, to advocate for County priorities.",
+      "status": "in_progress",
+      "categories": [
+        "governance",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-05-27",
+      "lastReferencedMeetingId": "2025-06-09",
+      "resolution": "Commissioners Chapman and Dalton said they would be traveling to Raleigh for committee meetings to advocate for County issues with state representatives."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-05-27%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-05-27%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5153455",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:42:04.549Z",
+    "warnings": [
+      "Check — followUpUpdates[2025-01-13-fu-1]: The item is marked resolved, but the minutes only give a combined September/October figure inside the budget presentation. They do not show staff providing the requested precise October figure to confirm the roughly 20% decline. 'in_progress' or omitting the update may be more defensible. (minutes: \"FY 2025 collections were negatively impacted by Hurricane Helene, showing a 22% drop in September/October.\" (p. 13))",
+      "Check — newFollowUps[5]: This is a commissioner's stated plan to meet legislators, not a commitment to the Board to deliver or report anything. It may not qualify as a checkable follow-up. (minutes: \"He and Commissioner Dalton planned to meet with legislators in Raleigh soon.\" (p. 22))"
+    ]
+  }
+}

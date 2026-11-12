@@ -1,0 +1,314 @@
+{
+  "id": "2025-06-02",
+  "date": "2025-06-02",
+  "type": "workshop",
+  "title": "FY 2026 Budget Workshop",
+  "time": "6:00 PM",
+  "duration": "1 hour 30 minutes",
+  "audienceSize": 10,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The Board held a workshop on the FY 2026 Recommended Budget ($81,342,524 General Fund, recommended tax rate of $0.4105). By consensus rather than formal vote, commissioners agreed to keep the recommended $7.2 million fire department funding level, a new Sheriff's Office narcotics investigator ($83,755), and a 2% 401(k) employer contribution for non-law enforcement employees ($317,000). Much of the discussion centered on the proposed single countywide fire tax district and its effect on tax bills. Two public hearings, on the fire district and the budget, are set for June 23, and the second workshop planned for June 5 was canceled.",
+  "keyVotes": [
+    {
+      "description": "Adjourn the budget workshop",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn the FY 2026 budget workshop at 7:30 p.m. after the Board reached consensus on the three discussion items.",
+      "discussion": "",
+      "page": 18
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether the County pays fire departments all at once or quarterly, and was told payments are made quarterly.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stated that every home in the county is equally important and opposed setting fire tax rates as high as $0.22 in small districts when a unified district could provide equal service at a lower rate.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether funding fire services from the General Fund would change the proposed base tax rate, and was told it would require a 6-cent increase.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Supported the $7.2 million fire funding level and said the fire tax should fully reflect fire department costs so citizens clearly understand what they are paying.",
+          "categories": [
+            "safety",
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the Sheriff's Office operates within City limits, and was told it does.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the 401(k) contribution would bring additional administrative fees, and was told it would not.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said the fire district item was placed on the agenda to explain the proposal to the public, describing it as formalizing the current hybrid funding and reducing administrative work for the Tax and Finance Offices.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Addressed what he described as misinformation that the County would take over fire department budgets, stating that control and operations would not change and that response areas and mutual aid would stay the same.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted the Board could keep the current funding approach but that it would not allow increased staffing.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked what would need to be cut to lower the fire rate, and was told it would mean forgoing additional paid staffing.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported the recommended fire funding level, citing his fire service background and his commitment to adequate staffing even if it meant a tax increase.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether separate public hearings were required for the budget and the fire tax district, and was told there would be two hearings.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Pointed out that even with the new narcotics position, staffing would remain below the levels of the former joint task force.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Requested the 401(k) item to review comparison data, asked the value of one cent on the new tax rate (about $1.2 million), and asked whether 401(k) contributions are factored into salary comparisons.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Calculated that 5.5 cents on the $11.9 billion valuation would generate about $6.5 million, roughly $700,000 short of the $7.2 million needed.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Favored continuing the hybrid funding model with General Fund dollars bridging the gap, and cited feedback from first responders who oppose a single district.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the fire budget subcommittee had already worked hard to pare down budget requests, and that staffing is the only area where reductions could be made because equipment costs are fixed.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the County currently contributes to non-law enforcement employees' 401(k) plans, and was told it does not.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Fire budget subcommittee"
+      ]
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked whether the County would still fund coverage of the Sylvan Valley district under a single fire district, given Brevard's decision not to participate.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Expressed concern about misinformation on the fire district proposal and said all fire departments should have equitable access to resources.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the single district rate could be set below 7 cents, and said the Board should decide the funding level first and the district model after the public hearing.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that the current fire model, labeled 5.5 cents, effectively totals 7.5 cents with the General Fund supplement.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how much it would cost to fully fund all fire department requests, and was told $9.2 million.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stated she would not support cutting fire staffing back to current levels and supported the Manager's recommendation.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the City of Brevard had its own narcotics unit and confirmed the new investigator position would be dedicated exclusively to narcotics.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Noted that a 2% 401(k) contribution would align the County with Henderson County and expressed full support for it.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Fire budget subcommittee"
+      ]
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Raised the effect of the proposed 7-cent fire tax on taxpayers, citing calculated increases of 47% to 60%, such as a bill rising from $178 to $336, and noted continuing hardship after Hurricane Helene.",
+          "categories": [
+            "fiscal",
+            "safety",
+            "recovery"
+          ]
+        },
+        {
+          "text": "Argued that shifting fire funding from the General Fund to a separate fire tax would feel like a tax increase to the average resident.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked what revenue a 5.5-cent fire tax would produce and how large the shortfall would be.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Stated a preference for a fire rate below 7 cents, suggesting 6 cents might be more palatable, while acknowledging the need to maintain quality services.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Expressed concern that the County cannot ensure fire departments use funding for paid staff hires.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said the 2% 401(k) contribution is low compared to other local governments; he supported it but preferred a higher contribution.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [],
+  "followUps": [
+    {
+      "id": "2025-06-02-fu-1",
+      "dateRaised": "2025-06-02",
+      "owner": "Jaime Laughter",
+      "description": "Prepare a budget ordinance reflecting the $7.2 million fire department funding level, with calculated tax impacts for each funding option, and re-present the fire department funding options at the June 23 public hearings.",
+      "status": "resolved",
+      "categories": [
+        "fiscal",
+        "safety"
+      ],
+      "relatedMeetingId": "2025-06-02",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolvedDate": "2025-06-23",
+      "resolvedMeetingId": "2025-06-23",
+      "resolution": "The Manager re-presented the fire funding options with their rates at the June 23 hearings and the budget was adopted. The total fire funding was presented as $6.8 million, and the Manager explained how it differs from the $7.2 million request."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-06-02%20Budget%20Workshop.pdf",
+  "videoUrl": "https://vimeo.com/event/5168881",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:43:20.092Z",
+    "warnings": []
+  }
+}

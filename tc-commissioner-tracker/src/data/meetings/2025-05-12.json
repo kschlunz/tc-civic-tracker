@@ -1,0 +1,772 @@
+{
+  "id": "2025-05-12",
+  "date": "2025-05-12",
+  "type": "regular",
+  "title": "Commissioners' Meeting 05/12/25",
+  "time": "4:00 PM",
+  "duration": "4 hours 7 minutes",
+  "audienceSize": 30,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board awarded the Landfill Phase 7 expansion contract to CBP Environmental, using $2,477,929 from the general fund's fund balance to cover the gap above a $7 million state grant. It also approved a solid waste rate study and disposal alternatives study ($124,400), a $399,999.12 Rosman Elementary playground contract, an additional $61,000 for the Brevard Elementary playground, and $652,780 for the Rosman High School retaining wall repair. The Manager gave a Hurricane Helene recovery update and a capital-workshop presentation on Blue Ridge Community College's facility needs, including campus location and funding options. The Board also made advisory board appointments and met in closed session on legal and economic development matters.",
+  "keyVotes": [
+    {
+      "description": "Approved the agenda as submitted",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda: April 28 minutes, retiring officer handgun resolution, Police Week and EMS Week proclamations, Memorial Day resolution, Hazard Mitigation Plan, and letter opposing House Bills 219 and 675",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included approving the April 28, 2025 minutes and allowing retiring Sheriff's Office employee Bobby Scott Thomas to buy his service handgun for $1.00. It also included proclamations for National Police Week (May 11–17) and EMS Week (May 18–24), a Memorial Day resolution, and adoption of the South Mountains 2025 Regional Hazard Mitigation Plan required by FEMA. A letter opposing House Bill 219 (franchise ambulance service) and House Bill 675 (EMT credentialing) was also approved, based on concerns raised by County EMS and the NC Association of EMS Administrators.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Reappointed Geralyn Connell and Anne-Monique Ransdell and appointed William Hunter to the Joint Historic Preservation Commission",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The terms of Geralyn Connell, Andrew Wing and Anne-Monique Ransdell expire at the end of May, and all three were listed as eligible and willing to serve again. William Hunter was appointed in place of Andrew Wing.",
+      "discussion": "Commissioner McCall pointed out that Mr. Wing does not reside in Transylvania County and is not a registered voter, which does not meet the Board's citizen advisory council policy, and emphasized adhering to that requirement.",
+      "page": 10
+    },
+    {
+      "description": "Waived term limits and reappointed Scott McCall to the Transportation Advisory Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Scott McCall has served at least two full terms. The Planning and Community Development department recommended waiving term limits because of his ongoing contributions as TAC Chair and his participation in the Brevard Circulation Study Stakeholder Committee.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Appointed Tim Waldrop and Lisa Presnell to the Transportation Advisory Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Harold Paxton declined reappointment and Howard Granat was no longer eligible after two full terms, leaving two vacancies.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Reappointed Arleca Chapman Diehl to the Workforce Development Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Her term in the Community Based Organization category runs through the end of May. Nathan Ramsey, Director of the Mountain Area Workforce Development Board, recommended her reappointment and noted she serves as Vice-Chair.",
+      "discussion": "",
+      "page": 11
+    },
+    {
+      "description": "Awarded Landfill Phase 7 contract to CBP Environmental ($7,895,450.20 bid), with the $2,477,929 shortfall funded from general fund balance",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Assistant County Manager David McNeill reported that two earlier bid rounds each drew only one bid, and the second was rejected for exceeding the estimate. A revised scope drew four bids on April 8, 2025, with CBP Environmental the lowest qualified bidder. The total project cost is $9,907,184 against a $7 million state grant and $429,255 already paid from the solid waste fund. The current cell is projected to reach capacity between March and June 2026.",
+      "discussion": "Commissioner Chapman asked about the source of the extra funding. The Manager said it would come from general fund balance because the solid waste enterprise is not self-sustaining. Chairman Chappell said the landfill is a mandated service that drives budget increases and attributed part of the cost rise to Helene's economic effects. Commissioner McCall noted that $7 million comes from a state grant rather than property taxes, and asked about the contractor's quality and record on budget; Mr. McNeill said references were positive and cost savings were being explored. Commissioner Chapman asked whether the cell would provide five to six years of capacity and whether the site could hold more cells; Mr. McNeill confirmed the projected lifespan and said there is space for additional cells, though future expansions could involve costly issues such as stream impacts. The Manager said she would not have recommended this approach had costs been at this level five years ago. Commissioner Dalton said it would help if the County's $10 million state appropriation could be reallocated to capital needs, and Chairman Chappell agreed.",
+      "page": 13
+    },
+    {
+      "description": "Approved $399,999.12 contract with Barr's Recreation for the Rosman Elementary School playground",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board had earmarked $500,000 from the Education Capital Fund for the Rosman Elementary playground as part of a $4.3 million allocation. Transylvania County Schools recommended Barr's Recreation at $399,999.12. Preschool playground bids were still pending and were expected at $65,000 to $75,000.",
+      "discussion": "Commissioner Chapman asked whether the playground would be finished before the new school year; the Superintendent and Facilities Director said it would. Commissioner McCall asked about accessibility, and Mr. Putnam said the design includes accessible features. Chairman Chappell asked about prior work with Barr's and was told it would be the schools' first project with the firm, though the County has worked with it before.",
+      "page": 14
+    },
+    {
+      "description": "Approved additional $61,000 from the Education Capital Fund for the Brevard Elementary School playground, conditioned on future requests confirming internal funding sources were evaluated",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board had earmarked $300,000, and all bids exceeded that amount. The Board of Education recommended Blue Ridge Playgrounds at about $361,000 over Barr's Recreation at $354,218.92, citing 4,200 more square feet of surfacing and sturdier swings. The contract itself will come back at the next meeting.",
+      "discussion": "Commissioner Chapman asked whether lottery funds could be used, and the Manager said staff had not yet researched that. Commissioner McKelvey asked about the surfacing difference, drainage, whether Barr's received the same specifications, and the timeline; Mr. Putnam said Barr's was asked three times for revisions and the project could be finished on time. Commissioner McCall asked about accessibility, and Mr. Putnam said much of the cost reflects accessible pour-in-place surfacing. Commissioner McCall asked that future requests confirm other funding sources, including the School System's fund balance, had been evaluated. Commissioner Chapman asked about upcoming capital requests, and the Manager mentioned an expected $200,000 HVAC request.",
+      "page": 16
+    },
+    {
+      "description": "Allocated $652,780 from the Education Capital Fund for retaining wall repair at Rosman High School",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Axias identified concerns about the wall, and a $50,000 engineering analysis produced three repair options; the Board of Education recommended Option C. The School System will manage the project and bring the construction contract back to the Board for approval. Construction is expected next summer or mid-school year.",
+      "discussion": "Chairman Chappell asked about immediate safety risks. Facilities Director Kerry Putnam said engineers do not consider it an immediate danger but that it requires timely attention.",
+      "page": 17
+    },
+    {
+      "description": "Approved Smith and Gardner solid waste rate study ($67,800) and long-term disposal alternatives study ($56,600), totaling $124,400",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Assistant County Manager David McNeill said the solid waste enterprise fund has required general fund transfers. The studies will evaluate fees and long-term options such as continued landfilling, transfer stations and incineration. Funding comes from $85,000 carried over from FY 2024 and $39,400 from FY 2025 engineering funds.",
+      "discussion": "Chairman Chappell emphasized examining all options and confirmed the study covers additional cells at the current site and other locations, with the goal of a self-sustaining enterprise fund. Commissioner McCall asked about the timeline, and Mr. McNeill said results are expected by the end of the calendar year.",
+      "page": 17
+    },
+    {
+      "description": "Entered closed session for attorney consultation and economic development matters",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The closed session was held under N.C.G.S. § 143-318.11(a)(3) and (a)(4), after a 10-minute recess, and was entered at 5:50 p.m.",
+      "discussion": "",
+      "page": 19
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board consulted with attorneys on a privileged and confidential matter.",
+      "discussion": "",
+      "page": 19
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The minutes are sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 19
+    },
+    {
+      "description": "Adjourned the meeting at 8:07 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There was no further business.",
+      "discussion": "",
+      "page": 19
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked for confirmation of a WLOS report that 24 County property owners had expressed interest in selling flood-affected properties.",
+          "categories": [
+            "recovery",
+            "housing"
+          ]
+        },
+        {
+          "text": "Asked what happens to flood-damaged properties sold to the County.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked whether debris cleanup was occurring on the Davidson River.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Voiced concern about pursuing a bond referendum for Blue Ridge Community College before a site is identified, and questioned the project's value unless a campus were located toward Rosman or Lake Toxaway, particularly Cherryfield.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Encouraged examining alternatives such as acquiring or leasing satellite properties, asked whether the additional 15,000 square feet could fit on the current campus, and urged exhausting options before the most expensive solution.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Supported trying the ¼ cent sales tax referendum again in 2026, saying the tax excludes groceries and gasoline and is largely paid by tourists.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that $7 million of the landfill expansion comes from a state grant rather than property taxes and called the project essential.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about the County's confidence in CBP Environmental and whether the firm typically completes projects within budget.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about accessibility at the Rosman and Brevard Elementary playgrounds, noting Brevard Elementary's self-contained classrooms for students with severe physical and medical needs.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Requested that future school funding requests confirm that other sources, including the School System's fund balance, have been evaluated.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about the timeline for the solid waste studies.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Pointed out that Andrew Wing did not meet the residency and voter eligibility requirement of the citizen advisory council policy.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Shared that Marty Davis of the U.S. Army Corps of Engineers confirmed river cleanup had resumed and USACE remains committed to completing debris removal.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether the advisory committee had set a deadline for deciding the college's capital needs.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said he saw no feasible path for a $40–$50 million college investment without a bond referendum.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about state funding for community college buildings and emphasized proactive communication with state legislators.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about the source of the additional landfill funding, and whether the new cell would last five to six years and the site could hold more cells.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the Rosman Elementary playground would be done before the new school year.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether lottery funds could cover the Brevard Elementary playground cost and whether more major Education Capital Fund requests were expected.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the needs before the Board are real needs, that difficult financial decisions lie ahead, and urged residents to share their priorities.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Encouraged the public to attend the Memorial Day ceremony.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Asked the Manager to request a final report on waterway debris removal before June 1, including locations and quantities removed.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Noted that legislators were already aware of the college's needs and that the project would be discussed further at the capital workshop.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said the landfill expansion shows how mandated essential services drive budget increases.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Thanked the Board and staff for the advocacy that secured the $7 million landfill grant.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Attributed part of the landfill cost increase to the broader economic effects of Hurricane Helene.",
+          "categories": [
+            "recovery",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Agreed on continuing to advocate for flexibility in how state funds are used.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether Barr's Recreation and Blue Ridge Playgrounds had previously worked with the County or School System.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether the Rosman High School retaining wall posed an immediate safety risk.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Emphasized examining all solid waste options and confirmed that the goal is a self-sustaining enterprise fund.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Congratulated those who contributed to the Sylvan Valley Industrial Center Phase II expansion.",
+          "categories": [
+            "econ"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Commented that it would help if the County's $10 million state appropriation could be reallocated to capital needs.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Argued that all options, including working within Brevard's UDO, should be considered for the college.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Supported a more central campus location along US 64 between Brevard and Rosman rather than near the Henderson County line.",
+          "categories": [
+            "schools",
+            "econ"
+          ]
+        },
+        {
+          "text": "Requested more information and due diligence on the 18 parcels over 15 acres identified as potential sites.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked why the Blue Ridge Playgrounds proposal had 4,200 more square feet of surfacing and confirmed Barr's received the same specifications.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether the Brevard Elementary playground project would resolve site drainage and be finished before the school year.",
+          "categories": [
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "David Whitmire",
+      "summary": "Thanked the Manager and Emergency Management Director for Helene recovery leadership. Expressed concern that a six-day pause in French Broad River debris removal between Rosman and Island Ford delayed clearing of blockages and posed safety risks. Asked the Board to advocate against further pauses until major blockages are removed."
+    },
+    {
+      "speaker": "Hannah Bowers",
+      "summary": "Presented a small sample study showing assessed values rose 210% in Rosenwald and 169% in East French Broad over 10 years. Expressed concern that assessment practices may shift the tax burden onto lower-income and historically Black neighborhoods, and urged the Board to examine the system and prevent displacement."
+    },
+    {
+      "speaker": "Bruce Gleasman",
+      "summary": "Said Transylvania County's property tax rate is among the highest in the region and questioned why spending has risen. Advocated budget reductions, such as consolidating operations, rather than tax increases, and urged economic development advocacy at the state level."
+    },
+    {
+      "speaker": "Sam Stites",
+      "summary": "Speaking for the Living Wage Coalition, urged the County to raise wages for public employees and to support the Board of Education's request to raise the local school staff supplement to 9.5%. Cited the coalition's survey of low-wage workers and its open letter."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-05-12-fu-1",
+      "dateRaised": "2025-05-12",
+      "owner": "Jaime Laughter",
+      "description": "Request from USACE a final report on waterway debris removal before the program ends June 1, including locations and quantities removed.",
+      "status": "in_progress",
+      "categories": [
+        "recovery",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolution": "The Manager said USACE reported clearing 40 sites but the County never received the promised information despite multiple follow-ups. A federal-level meeting is scheduled to review documentation."
+    },
+    {
+      "id": "2025-05-12-fu-2",
+      "dateRaised": "2025-05-12",
+      "owner": "staff",
+      "description": "Place the Brevard Elementary School playground contract with Blue Ridge Playgrounds on the next meeting agenda for approval.",
+      "status": "resolved",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-05-27",
+      "resolvedDate": "2025-05-27",
+      "resolvedMeetingId": "2025-05-27",
+      "resolution": "The Board approved the Blue Ridge Playgrounds contract for the Brevard Elementary playground."
+    },
+    {
+      "id": "2025-05-12-fu-3",
+      "dateRaised": "2025-05-12",
+      "owner": "staff",
+      "description": "Ensure future school capital funding requests include confirmation that all potential internal funding sources, including the School System's fund balance, have been evaluated.",
+      "status": "in_progress",
+      "categories": [
+        "schools",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-05-27",
+      "resolution": "The HVAC funding request lacked confirmation that internal school funds were evaluated; the Board reiterated the requirement and tabled the request."
+    },
+    {
+      "id": "2025-05-12-fu-4",
+      "dateRaised": "2025-05-12",
+      "owner": "staff",
+      "description": "Bring the Rosman High School retaining wall construction contract back to the Board for approval after the School System completes bidding.",
+      "status": "in_progress",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolution": "At the Superintendent's request, the Rosman High School retaining wall project became County-led under the Project Manager. He is working with McGill on a more comprehensive solution, with a revised budget targeted by July."
+    },
+    {
+      "id": "2025-05-12-fu-5",
+      "dateRaised": "2025-05-12",
+      "owner": "David McNeill",
+      "description": "Deliver results of the Smith and Gardner solid waste rate study and disposal alternatives study, expected by the end of the calendar year.",
+      "status": "in_progress",
+      "categories": [
+        "infrastructure",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-06-17",
+      "resolution": "The Manager and Chairman reported that the solid waste rate study and options analysis are in progress and will guide future decisions."
+    },
+    {
+      "id": "2025-05-12-fu-6",
+      "dateRaised": "2025-05-12",
+      "owner": "Jaime Laughter",
+      "description": "Invite the Planning and Transportation Department to a future meeting to be recognized for Transit System of the Year.",
+      "status": "resolved",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-05-27",
+      "resolvedDate": "2025-05-27",
+      "resolvedMeetingId": "2025-05-27",
+      "resolution": "Transportation drivers and Planning and Community Development staff were recognized for Transit System of the Year, and Chairman Chappell presented a letter of congratulations."
+    },
+    {
+      "id": "2025-05-12-fu-7",
+      "dateRaised": "2025-05-12",
+      "owner": "Jaime Laughter",
+      "description": "Introduce new Project Manager Beecher Allison publicly at a future meeting.",
+      "status": "resolved",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-06-23",
+      "resolvedDate": "2025-06-23",
+      "resolvedMeetingId": "2025-06-23",
+      "resolution": "The Manager introduced Project Manager Beecher Allison, who presented the school capital projects update."
+    },
+    {
+      "id": "2025-05-12-fu-8",
+      "dateRaised": "2025-05-12",
+      "owner": "Beecher Allison",
+      "description": "Provide monthly updates to the Board of Commissioners and the Board of Education under the interlocal agreement.",
+      "status": "in_progress",
+      "categories": [
+        "schools",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-05-12",
+      "lastReferencedMeetingId": "2025-09-22",
+      "resolution": "Project Manager Beecher Allison presented the monthly school capital update."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-05-12%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-05-12%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5121262",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:39:52.887Z",
+    "warnings": [
+      "Check — publicComments[2].summary: The summary says Mr. Gleasman 'questioned why spending has risen'. The minutes say he noted that spending rose while the rate stayed flat and questioned where the increased revenue came from. They also say he questioned why the County's rate is higher than neighbouring counties of similar size. (minutes: \"He pointed out that while the County's tax rate has remained the same over the past five years, overall spending has increased by millions of dollars. Mr. Gleasman questioned the sources of increased revenue\" (p. 2))"
+    ]
+  }
+}

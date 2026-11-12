@@ -1,0 +1,359 @@
+{
+  "id": "2025-06-17",
+  "date": "2025-06-17",
+  "type": "workshop",
+  "title": "FY 2026 Budget Workshop 2 06/17/25",
+  "time": "6:00 PM",
+  "duration": "2 hours 48 minutes",
+  "audienceSize": 20,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "The Board held its second FY 2026 budget workshop. The County Manager reviewed the recommended $81,342,524 General Fund budget at a tax rate of $0.4105 (revenue-neutral rate $0.3837) and five fire funding options, each raising the same $6.8 million. Commissioners discussed capital planning and the courthouse, the 2025 revaluation, fire funding methods and misinformation about them, possible expense cuts, and solid waste convenience site costs. The only vote was to adjourn; public hearings on the budget and on a single countywide fire service district are scheduled for June 23.",
+  "keyVotes": [
+    {
+      "description": "Adjourn the budget workshop",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to end the FY 2026 budget workshop at 8:48 p.m. The Board took no other action at the meeting.",
+      "discussion": "",
+      "page": 24
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Stated that school bond projects are committed and the EMS base is complete, and said she does not support halting the courthouse, warning of significant operational costs if court functions had to relocate.",
+          "categories": [
+            "schools",
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked the total cost of completed or in-progress recreational capital projects (estimated by the Manager at $900,000), said they responded to public input, and defended the parks and recreation shower project because the building serves as the County's emergency shelter.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Responded to accusations that areas were targeted in the revaluation, citing state-mandated processes, the Board of Equalization and Review appeal process and the integrity of Tax Office staff.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Expressed strong support for a single countywide fire tax, citing disparities in staffing and equipment across departments and the benefit for capital and equipment planning.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Confirmed that rumors of a move toward a countywide fire department were addressed and dismissed during budget review.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said taxpayers currently pay the equivalent of 7.5 cents for fire though only 5.5 cents is shown as a fire tax, argued identifying the full fire rate is more transparent, and rejected the suggestion that the proposal reflects socialism.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said all proposed budget items should be considered as a whole, that selective cuts to areas such as public safety or education are unfair, and that the County has had no tax increase in her five-year tenure.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stated the Board will be able to revisit solid waste funding once the study results are available.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Praised County Manager Jaime Laughter and criticized public and social media attacks on her as unwarranted and misinformed.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Fire budget committee"
+      ]
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Said past courthouse delays were justified at the time but that he supports moving forward now.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Noted that properties such as Gallimore Road were acquired with grants but their development depends on available capital.",
+          "categories": [
+            "econ",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed frustration with accusations that Commissioners influenced revaluation outcomes, noting owners can appeal.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Supported showing the percentage or cost of fire protection on the tax bill, even if through the pie chart rather than a line item.",
+          "categories": [
+            "governance",
+            "safety"
+          ]
+        },
+        {
+          "text": "Questioned comparisons of the fire funding proposal to socialism, noting fire budgets were reviewed by a committee including department representatives and that the funding source does not change the total.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said constituents concerned about a 'bloated government' gave no specifics on cuts, noted many services are mandated and teacher pay is set by the state, and supported the budget as presented.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether property tax bills could show the portion allocated to solid waste.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Responded to a constituent email questioning his commitment to the U.S. Constitution, stating he took offense.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Reviewed, from his recollection, past enacted and proposed tax increases for capital planning and the courthouse from FY 2017 through FY 2023-24.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether courthouse debt service was based on a USDA 40-year loan; the Manager said it assumes a limited obligation bond.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Expressed concern that a single fire service district could allow rates up to the $1.50 statutory cap and open the door to other special tax districts such as economic development or watershed districts.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted he had asked the Manager about reducing fire staffing, estimating that two positions per department would lower the tax rate by about one cent.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed frustration that misinformation about the fire funding proposal had affected his personal and professional life.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted the FY 2022 revenue-neutral rate was $0.5592 and the adopted rate $0.6033, a 4.41-cent increase.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted the County spends about $1 million a year on convenience centers and that the Pisgah Forest site has underperformed since Hurricane Helene flood damage.",
+          "categories": [
+            "infrastructure",
+            "recovery"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Fire budget committee"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Noted past Boards set aside 2 cents for capital planning and that each project was voted on and reflected in audits and quarterly finance reports.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said delaying the courthouse could cost more if courts order services relocated, noting judges cited the County's progress as a reason not to issue a mandate.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Stated tax rates are annual decisions reflecting current priorities and emergencies, and that capital planning shifted from recreation toward economic development and infrastructure.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the County is working with NCACC to revisit USDA loan eligibility for the courthouse.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted the fire option including the City of Brevard had not been proposed to or discussed with the City, which would need to opt in.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Emphasized the urgency of fire staffing needs, said the proposal is not a step toward a county fire department, and said the fire budgeting process remains unchanged.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Objected to politically charged language and personal insinuations, urged personnel concerns be directed to the Manager or Human Resources, and said the Board must adopt a budget by the end of June.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Said a solid waste study is underway and that the program is not currently operating as a true enterprise fund.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Praised the County Manager and staff and noted improvements to public meeting technology are being considered.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Stated his own property's projected tax increase is above the County median.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked about funds collected since 2020 for education bonds; the Manager reported an Education Capital Fund of about $84 million with $8.83 million unallocated.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed concern that residents are asked to support further tax increases, including for the courthouse, after earlier capital planning increases.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said his goal is to minimize taxpayer burden while fully funding fire departments, including underserved areas such as North Transylvania.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Raised concerns about misinformation shared with fire departments, including claims from County employees about Commissioners' positions, which he said contributed to his reluctance to support the single district.",
+          "categories": [
+            "safety",
+            "governance"
+          ]
+        },
+        {
+          "text": "Stated a preference for a hybrid funding method at approximately 5.8 or 5.9, and said the City of Brevard might consider participating under a more neutral structure.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Clarified that his remarks about 'fire department socialism' referred to criticism from people outside the Board, not fellow members.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [],
+  "followUps": [
+    {
+      "id": "2025-06-17-fu-1",
+      "dateRaised": "2025-06-17",
+      "owner": "Jaime Laughter",
+      "description": "Investigate as a personnel matter the reported inappropriate communication by County employees to fire departments, once specific information is provided.",
+      "status": "open",
+      "categories": [
+        "governance",
+        "safety"
+      ],
+      "relatedMeetingId": "2025-06-17"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-06-17%20Budget%20Workshop.pdf",
+  "videoUrl": "https://vimeo.com/event/5191181",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:47:36.047Z",
+    "warnings": []
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "2024-12-02",
+  "date": "2024-12-02",
+  "type": "organizational",
+  "title": "OATH OF OFFICE CEREMONY, ORGANIZATIONAL MEETING OF THE BOARD OF COMMISSIONERS & PUBLIC HEARING 12/02/24",
+  "time": "9:00 AM",
+  "duration": "32 minutes",
+  "audienceSize": 40,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "Commissioners Chapman, Chappell, McCall and McKelvey were sworn in, along with the Register of Deeds and her staff and two Soil and Water Conservation District supervisors. The board elected Jason Chappell as Chair by a 4-1 vote, with Larry Chapman voting against, and unanimously elected Jake Dalton as Vice-Chair. The board also unanimously approved surety bonds for county officials. At a public hearing on the 2025 Reappraisal Schedule of Values, no members of the public spoke; the document is scheduled for approval on December 9, 2024.",
+  "keyVotes": [
+    {
+      "description": "Elect Commissioner Jason Chappell as Chair",
+      "result": "4-1",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": null,
+      "votes": {
+        "ayes": [
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [
+          "chapman"
+        ],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "At the organizational meeting, the Clerk to the Board called for nominations for Chair. Commissioner McCall nominated Commissioner Chappell, and the nomination was seconded simultaneously by Commissioners Dalton and McKelvey.",
+      "discussion": "Commissioner Chapman expressed his preference for a rotational leadership approach to foster fresh ideas and improve communication.",
+      "page": 1
+    },
+    {
+      "description": "Elect Commissioner Jake Dalton as Vice-Chair",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Chairman Chappell called for nominations for Vice-Chair. Commissioner McKelvey nominated and moved for the election of Commissioner Dalton.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approve surety bonds for county officials, ranging from $25,000 (Sheriff) to $1,000,000 (Finance Director)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Finance Director Meagan O'Neal presented surety bonds for inspection and approval: Accountant $50,000; County Manager $200,000; Finance Director $1,000,000; Finance Specialist $50,000; Register of Deeds $50,000; Sheriff $25,000; Tax Administrator $200,000.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Adjourn the organizational meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The organizational meeting adjourned at 9:25 a.m., after which the special called public hearing was convened.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Adjourn following the public hearing",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The board adjourned at 9:32 a.m. following the special called public hearing on the 2025 Reappraisal Schedule of Values.",
+      "discussion": "",
+      "page": 3
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Expressed a preference for rotating the board's leadership to foster fresh ideas and improve communication.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Acknowledged the extensive work in creating the over 250-page 2025 Reappraisal Schedule of Values and thanked staff.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked how Hurricane Helene would affect property valuations in the 2025 reappraisal.",
+          "categories": [
+            "fiscal",
+            "recovery"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Expressed gratitude for the opportunity to continue serving as Chair and congratulated all newly elected and reelected officials.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [],
+  "followUps": [
+    {
+      "id": "2024-12-02-fu-1",
+      "dateRaised": "2024-12-02",
+      "owner": "staff",
+      "description": "Place the 2025 Reappraisal Schedule of Values on the December 9, 2024 agenda for approval; it must be approved by December 31, 2024.",
+      "status": "resolved",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2024-12-02",
+      "lastReferencedMeetingId": "2024-12-09",
+      "resolvedDate": "2024-12-09",
+      "resolvedMeetingId": "2024-12-09",
+      "resolution": "The 2025 Reappraisal Schedule of Values was on the December 9 agenda and was approved as part of the consent agenda, before the December 31, 2024 statutory deadline."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2024-12-02%20Oath%20of%20Office%2C%20Organizational%20Meeting%2C%20and%20Public%20Hearing%20on%202025%20Reappraisal%20Sch%20of%20Values.pdf",
+  "videoUrl": "https://vimeo.com/1047558671",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:21:15.002Z",
+    "warnings": [
+      "Check — newFollowUps[0]: Placing the Schedule of Values on the next regular meeting's agenda is a routine scheduled step and a statutory deadline item, not a commitment a resident would need to track. Under the record's conventions it may not qualify as a follow-up; a reviewer should decide whether to keep it. (minutes: \"The Schedule of Values must be approved by December 31, 2024, and will be on the December 9, 2024, agenda for approval.\" (p. 2))"
+    ]
+  }
+}

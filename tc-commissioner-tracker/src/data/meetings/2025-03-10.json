@@ -1,0 +1,397 @@
+{
+  "id": "2025-03-10",
+  "date": "2025-03-10",
+  "type": "regular",
+  "title": "Commissioners' Meeting 03/10/25",
+  "time": "4:00 PM",
+  "duration": "2 hours 28 minutes",
+  "audienceSize": 40,
+  "attendees": [
+    "chapman",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "With Chairman Chappell absent due to illness, the Board approved a consent agenda that included renewal of the Comporium voice and internet contract (about $35,000 in annual savings, with rates held for five years), donation of a surplus speed trailer to the Haywood County Sheriff's Office, and a historic preservation grant application for the Allison-Deaver House. It approved $84,547.51 in community center grants 3-0 with Vice-Chairman Dalton recused, and approved an agreement with Land of Sky Regional Council for a downtown Brevard circulation study. The Board heard the Joint Historic Preservation Commission annual report, a presentation on the new Explore Brevard website, a Hurricane Helene recovery update, and a review of parks and recreation capital needs ahead of the spring capital workshop. The Board was told the City of Brevard had withdrawn its affordable housing funding request, and the Manager reported that revaluation notices showed an average countywide increase of 54%.",
+  "keyVotes": [
+    {
+      "description": "Approved the agenda as presented",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda, including renewal of the Comporium voice and internet contract with $35,000 in annual savings",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The consent agenda covered several items: the February 24, 2025 minutes; Proclamation #07-2025 for National Transit Employee Appreciation Day; and Resolution #06-2025 donating an inoperable surplus speed trailer to the Haywood County Sheriff's Office. It also covered a $51.60 Health Department bad debt write-off; renewal of the Comporium voice and internet contract (about $35,000 in annual savings, 25% off community center internet, free upgraded VOIP phones, rates fixed for five years); and permission for a Certified Local Government grant application for front porch restoration at the Allison-Deaver House.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Allowed Vice-Chairman Dalton to recuse himself from voting on community center grants",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Vice-Chairman Dalton disclosed his voting rights with the Lake Toxaway Community Center. On the advice of the County Attorney, he requested to be recused from voting to avoid any appearance of impropriety.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Approved community center grant awards totaling $84,547.51",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell",
+          "dalton"
+        ]
+      },
+      "background": "Eleven community centers requested $119,334.99. Planning Department errors had oversubscribed the awards to $101,419.99, exceeding the $85,000 budget, so staff rescinded the award letters and re-evaluated the applications. The recommended awards were $30,500 for Wi-Fi grants, $15,594.51 for Grant 2 capital projects and $38,453 for Grant 3 capital projects, a total of $84,547.51, within budget.",
+      "discussion": "Commissioner Chapman expressed appreciation for the community centers' efforts and partnerships. The Manager stated that her comments on the errors were not intended to disparage the Planning Department.",
+      "page": 15
+    },
+    {
+      "description": "Approved Memorandum of Agreement with Land of Sky Regional Council for the downtown Brevard circulation study",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "In September 2023 the Board approved $10,000 in matching funds for a $200,000 Land of Sky Rural Planning Organization study of downtown Brevard traffic circulation, with the County and the City each providing a 10% cost-share of the FHWA funds. The RPO will administer the 18-24 month study with a steering committee that will select a consultant, and will present the results to the Board. Decisions on road changes rest with NCDOT and the City of Brevard.",
+      "discussion": "",
+      "page": 16
+    },
+    {
+      "description": "Adjourned the meeting at 6:30 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 20
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Commended the Joint Historic Preservation Commission and encouraged citizens to take the historic downtown tours.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Highlighted that the Explore Brevard website and tourism marketing are funded through occupancy tax rather than property taxes.",
+          "categories": [
+            "econ",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about the role of the Parks and Recreation Commission in reviewing and advising on the capital plan.",
+          "categories": [
+            "community",
+            "governance"
+          ]
+        },
+        {
+          "text": "Expressed frustration over the City of Brevard's withdrawn affordable housing request, noting negative public feedback toward the Board, and suggested that future funding requests include further details for transparency.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Questioned why the City withdrew its request after presenting it as a critical need.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Expressed appreciation for the community centers' efforts and partnerships.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Reported presenting a letter from the Board to Elizabeth Rahn for her 100th birthday.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Reported attending a five-hour UNC School of Government session with school board members and the Superintendent on school and county budgets.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Transylvania County Tourism Development Authority Board (County representative)"
+      ]
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked about the Transylvania Tomorrow Business Relief Fund.",
+          "categories": [
+            "recovery",
+            "econ"
+          ]
+        },
+        {
+          "text": "Praised the Stay Where You Play initiative and noted concerns about neighboring counties using images of Transylvania County to attract visitors.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked about Helene debris removal for an elderly neighbor.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked whether properties received through the hazard mitigation buyout program could be improved.",
+          "categories": [
+            "recovery",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked for an update on the Town of Rosman's Land of Sky grants.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Disclosed his voting rights with the Lake Toxaway Community Center and requested recusal from the community center grant vote.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Shared that the Rosman High field is being converted to turf and that a car was found buried during the work.",
+          "categories": [
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked about the event posting process on the Explore Brevard website.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked about deadlines for Helene debris pickup.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Asked about rental assistance timelines and the risk of residents losing temporary housing.",
+          "categories": [
+            "recovery",
+            "housing"
+          ]
+        },
+        {
+          "text": "Expressed frustration that only two FEMA trailers had been placed despite the County's request for more.",
+          "categories": [
+            "recovery",
+            "housing"
+          ]
+        },
+        {
+          "text": "Asked how many leased parks would need to be renewed or removed from the inventory.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Noted that parks and libraries are not mandated services but are very popular, and that they are areas the Board can choose to cut during budget processes.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Suggested placing donation boxes at parks to help fund amenities or upkeep.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Confirmed that the City of Brevard's affordable housing funding request was removed from consideration.",
+          "categories": [
+            "housing"
+          ]
+        },
+        {
+          "text": "Stated that the City's infrastructure requests were not specific enough for a decision and that the Board had followed its attorney's advice in tabling the item.",
+          "categories": [
+            "housing",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Praised the new website's search engine optimization and asked how lodging options are selected for listing.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked about the Temporary Certificate of Occupancy process for residents repairing storm-damaged homes.",
+          "categories": [
+            "recovery",
+            "housing"
+          ]
+        },
+        {
+          "text": "Pointed out that the $1.2 million parks capital fund is far below the $32 million estimated in the 2017 master plan.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the Parks and Recreation Commission had prioritized capital needs.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "David Whitmire",
+      "summary": "Thanked the Board for its support last September on an old growth amendment, reported that the executive order and amendment were canceled, and shared a letter he wrote to the Forest Service on layoffs and Helene recovery. He described meeting with the U.S. Secretary of Agriculture and invited Commissioners to the first annual North Fork Festival on March 23, discussing a potential Wild and Scenic River designation for the North Fork."
+    },
+    {
+      "speaker": "Sam Stites",
+      "summary": "Speaking for the Living Wage Coalition of Transylvania County, he asked the County to raise its wage floor to $17.55 per hour and adopt a paid family leave policy, citing employee retention and recruitment benefits. He offered the coalition's help assessing benefits and noted 62 certified living wage employers in the county."
+    },
+    {
+      "speaker": "Andrew Riddle",
+      "summary": "A Henderson County developer representing 277 North Broad Street Partners, he described a 39,000-square-foot medical facility under construction in downtown Brevard with 45 jobs and public event and meeting space. He said the County Manager told him current County policies do not allow certain business incentives, and asked the Board to find ways for the County to be more business-friendly."
+    },
+    {
+      "speaker": "David Morrow",
+      "summary": "Reported that the Veterans History Museum opened its new season and that the submarine anchor has been an attraction. He asked that the Museum be included in discussions about the former administration building and courthouse, hoping for a longer-term lease, and thanked the TCTDA for including the Museum on its website."
+    }
+  ],
+  "followUps": [],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-03-10%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-03-10%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/4972748",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-12T20:30:34.535Z",
+    "warnings": [
+      "Possible error — keyVotes[3].absent: Vice-Chairman Dalton is listed as absent for the community center grant vote. He was present and recused himself, as the Board had just approved, so he should not be recorded as absent. Recording him under abstained, or noting the recusal, would match the minutes. (minutes: \"The motion was approved unanimously by a 3-0 vote, with Vice-Chairman Dalton recused.\" (p. 15))"
+    ]
+  }
+}
