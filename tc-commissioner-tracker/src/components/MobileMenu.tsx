@@ -66,9 +66,6 @@ function MenuOverlay({ onClose }: { onClose: () => void }) {
 
 export default function MobileMenu() {
   const [open, setOpen] = useState(false);
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => { setMounted(true); }, []);
 
   return (
     <div className="md:hidden">
@@ -80,7 +77,7 @@ export default function MobileMenu() {
         <span className="material-symbols-outlined text-2xl">menu</span>
       </button>
 
-      {mounted && open && <MenuOverlay onClose={() => setOpen(false)} />}
+      {open && <MenuOverlay onClose={() => setOpen(false)} />}
     </div>
   );
 }

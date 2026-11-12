@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-03",
+  "label": "November 2026 General Election",
+  "openSeats": 2,
+  "note": "Dalton and McKelvey did not seek re-election. Their successors take office at the organizational meeting on December 7, 2026.",
+  "candidates": [
+    { "name": "Kevin Howell", "party": "R" },
+    { "name": "George Sutherland", "party": "R" },
+    { "name": "Owen Carson", "party": "D" },
+    { "name": "Bryan O'Neill", "party": "D" }
+  ],
+  "winners": [],
+  "resultsUrl": "https://transylvaniaelections.org/"
+}

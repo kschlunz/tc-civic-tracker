@@ -91,7 +91,7 @@ export function filterMeetings(meetings: Meeting[], filters: FilterParams): Meet
     result = result.filter((m) => {
       for (const activity of Object.values(m.commissionerActivity)) {
         for (const topic of activity.topics) {
-          if (topic.categories.some((c) => filters.categories!.includes(c))) {
+          if (topic.categories.some((c) => hasCategory(filters.categories!, c))) {
             return true;
           }
         }
@@ -101,6 +101,11 @@ export function filterMeetings(meetings: Meeting[], filters: FilterParams): Meet
   }
 
   return result;
+}
+
+/** True when a list of category ids contains the given id. */
+export function hasCategory(categories: readonly string[], id: string): boolean {
+  return categories.includes(id);
 }
 
 export function hasActiveFilters(filters: FilterParams): boolean {

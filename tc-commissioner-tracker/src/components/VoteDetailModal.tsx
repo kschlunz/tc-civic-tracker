@@ -23,7 +23,11 @@ export default function VoteDetailModal({ vote, onClose }: VoteDetailModalProps)
         <div className="flex items-start justify-between px-8 py-6 border-b border-outline-variant/10">
           <div className="flex-1">
             <div className="mb-3">
-              {vote.result.toLowerCase() === "unanimous" ? (
+              {!vote.passed ? (
+                <span className="bg-error/10 text-error px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
+                  Failed {vote.result !== "Failed" && `· ${vote.result}`}
+                </span>
+              ) : vote.result === "Unanimous" ? (
                 <span className="bg-secondary-fixed text-on-secondary-fixed px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
                   Unanimous
                 </span>
@@ -48,23 +52,62 @@ export default function VoteDetailModal({ vote, onClose }: VoteDetailModalProps)
         {/* Body */}
         <div className="p-8 overflow-y-auto flex-1 space-y-8">
           {/* Mover / Seconder */}
-          {vote.mover !== "consent agenda" ? (
-            <div className="flex gap-8">
-              <div>
-                <span className="text-[10px] font-bold uppercase tracking-widest text-on-surface-variant block mb-1">Moved by</span>
-                <Link href={`/commissioners/${vote.mover}`} className="font-headline text-lg font-bold text-primary hover:underline">
-                  {getCommissionerName(vote.mover)}
-                </Link>
-              </div>
-              <div>
-                <span className="text-[10px] font-bold uppercase tracking-widest text-on-surface-variant block mb-1">Seconded by</span>
-                <Link href={`/commissioners/${vote.seconder}`} className="font-headline text-lg font-bold text-primary hover:underline">
-                  {getCommissionerName(vote.seconder)}
-                </Link>
-              </div>
-            </div>
-          ) : (
+          {vote.consent && (
             <p className="text-sm text-on-surface-variant font-bold uppercase tracking-wider">Consent Agenda Item</p>
+          )}
+          {(vote.mover || vote.seconder) && (
+            <div className="flex gap-8">
+              {vote.mover && (
+                <div>
+                  <span className="text-[10px] font-bold uppercase tracking-widest text-on-surface-variant block mb-1">Moved by</span>
+                  <Link href={`/commissioners/${vote.mover}`} className="font-headline text-lg font-bold text-primary hover:underline">
+                    {getCommissionerName(vote.mover)}
+                  </Link>
+                </div>
+              )}
+              {vote.seconder && (
+                <div>
+                  <span className="text-[10px] font-bold uppercase tracking-widest text-on-surface-variant block mb-1">Seconded by</span>
+                  <Link href={`/commissioners/${vote.seconder}`} className="font-headline text-lg font-bold text-primary hover:underline">
+                    {getCommissionerName(vote.seconder)}
+                  </Link>
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* Roll call */}
+          {vote.votes && (
+            <div>
+              <h3 className="font-headline text-xl font-bold text-primary mb-3 flex items-center gap-2">
+                <span className="material-symbols-outlined text-lg">how_to_vote</span>
+                How they voted
+              </h3>
+              <dl className="space-y-2 text-sm">
+                {(
+                  [
+                    ["For", vote.votes.ayes],
+                    ["Against", vote.votes.nays],
+                    ["Abstained", vote.votes.abstained],
+                    ["Absent", vote.votes.absent],
+                  ] as const
+                )
+                  .filter(([, ids]) => ids.length > 0)
+                  .map(([label, ids]) => (
+                    <div key={label} className="flex gap-4">
+                      <dt className="w-24 shrink-0 text-[10px] font-bold uppercase tracking-widest text-on-surface-variant pt-0.5">{label}</dt>
+                      <dd className={label === "Against" ? "font-bold text-error" : "text-on-surface"}>
+                        {ids.map((id, i) => (
+                          <span key={id}>
+                            {i > 0 && ", "}
+                            <Link href={`/commissioners/${id}`} className="hover:underline">{getCommissionerName(id)}</Link>
+                          </span>
+                        ))}
+                      </dd>
+                    </div>
+                  ))}
+              </dl>
+            </div>
           )}
 
           {/* Background */}
@@ -94,7 +137,7 @@ export default function VoteDetailModal({ vote, onClose }: VoteDetailModalProps)
           )}
 
           {/* No detail available */}
-          {!vote.background && !vote.discussion && (
+          {!vote.background && !vote.discussion && !vote.votes && (
             <p className="text-sm text-on-surface-variant italic">
               No additional detail available for this vote.
             </p>

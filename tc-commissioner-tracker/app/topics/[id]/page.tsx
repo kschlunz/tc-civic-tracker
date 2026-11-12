@@ -6,7 +6,7 @@ import Link from "next/link";
 import { useParams, useSearchParams } from "next/navigation";
 import { COMMISSIONERS, CATEGORIES, CATEGORY_ICONS } from "@/lib/constants";
 import { useMeetings } from "@/lib/meetings-context";
-import { parseFiltersFromParams, filterMeetings } from "@/lib/filters";
+import { parseFiltersFromParams, filterMeetings, hasCategory } from "@/lib/filters";
 import { PUBLIC_STATEMENTS } from "@/lib/public-statements";
 import CategoryTag from "@/components/CategoryTag";
 import FilterBar from "@/components/FilterBar";
@@ -37,7 +37,7 @@ function TopicContent() {
   for (const meeting of meetings) {
     for (const [commId, activity] of Object.entries(meeting.commissionerActivity)) {
       for (const topic of activity.topics) {
-        if (!topic.categories.includes(id)) continue;
+        if (!hasCategory(topic.categories, id)) continue;
         commissionerCounts[commId] = (commissionerCounts[commId] || 0) + 1;
         timeline.push({ commissionerId: commId, date: meeting.date, text: topic.text, meetingId: meeting.id });
         for (const cat of topic.categories) {
@@ -55,7 +55,7 @@ function TopicContent() {
   const relatedStatements: { commissionerId: string; statement: typeof PUBLIC_STATEMENTS[string][number] }[] = [];
   for (const [commId, statements] of Object.entries(PUBLIC_STATEMENTS)) {
     for (const stmt of statements) {
-      if (stmt.categories.includes(id)) {
+      if (hasCategory(stmt.categories, id)) {
         relatedStatements.push({ commissionerId: commId, statement: stmt });
       }
     }
@@ -69,7 +69,7 @@ function TopicContent() {
     for (const meeting of meetings) {
       for (const [commId, activity] of Object.entries(meeting.commissionerActivity)) {
         for (const topic of activity.topics) {
-          if (topic.categories.includes(catId)) comms.add(commId);
+          if (hasCategory(topic.categories, catId)) comms.add(commId);
         }
       }
     }
@@ -81,7 +81,7 @@ function TopicContent() {
     for (const meeting of meetings) {
       for (const activity of Object.values(meeting.commissionerActivity)) {
         for (const topic of activity.topics) {
-          if (topic.categories.includes(catId)) count++;
+          if (hasCategory(topic.categories, catId)) count++;
         }
       }
     }

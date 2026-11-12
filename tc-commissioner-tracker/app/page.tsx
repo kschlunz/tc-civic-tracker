@@ -3,7 +3,9 @@
 import { Suspense } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { COMMISSIONERS, CATEGORIES, CATEGORY_ICONS, ELECTION_INFO } from "@/lib/constants";
+import { COMMISSIONERS, CURRENT_COMMISSIONERS, CATEGORIES, CATEGORY_ICONS, ELECTION } from "@/lib/constants";
+import { getFollowUps } from "@/lib/data";
+import { todayISO } from "@/lib/roster";
 import { useMeetings } from "@/lib/meetings-context";
 import { parseFiltersFromParams, filterMeetings } from "@/lib/filters";
 import FilterBar from "@/components/FilterBar";
@@ -59,6 +61,10 @@ function getOwnerDisplayName(owner: string) {
   return owner;
 }
 
+function formatDate(dateStr: string) {
+  return new Date(dateStr + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+
 function daysSince(dateStr: string) {
   const raised = new Date(dateStr + "T12:00:00");
   const now = new Date();
@@ -72,26 +78,9 @@ function getDaysColor(days: number) {
 }
 
 function OpenItemsSummary({ meetings }: { meetings: ReturnType<typeof useMeetings>["meetings"] }) {
-  const allFollowUps: FollowUpItem[] = [];
-  for (const m of meetings) {
-    if (m.followUps) {
-      allFollowUps.push(...m.followUps);
-    }
-  }
+  const allFollowUps: FollowUpItem[] = getFollowUps(meetings);
 
-  // Apply localStorage overrides
-  let statusOverrides: Record<string, string> = {};
-  if (typeof window !== "undefined") {
-    try {
-      statusOverrides = JSON.parse(localStorage.getItem("tc-followup-status") || "{}");
-    } catch { /* ignore */ }
-  }
-
-  const getStatus = (item: FollowUpItem) => statusOverrides[item.id] || item.status;
-  const openItems = allFollowUps.filter((f) => {
-    const s = getStatus(f);
-    return s === "open" || s === "in_progress";
-  });
+  const openItems = allFollowUps.filter((f) => f.status === "open" || f.status === "in_progress");
   const resolvedCount = allFollowUps.length - openItems.length;
 
   if (openItems.length === 0) return null;
@@ -171,13 +160,20 @@ function DashboardContent() {
   const topicCounts = getTopicCounts(meetings);
   const maxTopicCount = topicCounts[0]?.[1] || 1;
   const totalActions = getTotalActions(meetings);
+  const latestMeeting = allMeetings[0];
 
   const topTopics = topicCounts.slice(0, 6);
   const remainingTopics = topicCounts.slice(6);
 
+  const electionHeld = todayISO() >= ELECTION.date;
+  const electionStatus =
+    ELECTION.winners.length > 0 ? "Results certified" : electionHeld ? "Election held — results pending certification" : `Election day: ${formatDate(ELECTION.date)}`;
+  const candidatesByParty: Record<string, string[]> = {};
+  for (const c of ELECTION.candidates) (candidatesByParty[c.party] ??= []).push(c.name);
+
   const stats = [
     { label: "Activity Monitor", sublabel: "Meetings Tracked", value: meetings.length, barWidth: `${Math.min(100, (meetings.length / Math.max(allMeetings.length, 1)) * 100)}%` },
-    { label: "Legislative Body", sublabel: "Commissioners", value: COMMISSIONERS.length, barWidth: "100%" },
+    { label: "Legislative Body", sublabel: "Commissioners", value: CURRENT_COMMISSIONERS.length, barWidth: "100%" },
     { label: "Data Taxonomy", sublabel: "Topic Categories", value: CATEGORIES.length, barWidth: "75%" },
     { label: "History Log", sublabel: "Actions Logged", value: totalActions, barWidth: "50%" },
   ];
@@ -194,7 +190,7 @@ function DashboardContent() {
                 <span className="font-label text-[10px] font-bold uppercase tracking-widest text-primary">Live Ledger</span>
               </div>
               <span className="text-[10px] font-label font-bold text-on-surface-variant/60 uppercase tracking-widest">
-                Last Updated: {new Date().toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}
+                {latestMeeting ? `Latest meeting on record: ${formatDate(latestMeeting.date)}` : "No meetings on record yet"}
               </span>
             </div>
             <div className="inline-flex items-center gap-3">
@@ -218,23 +214,35 @@ function DashboardContent() {
               <div>
                 <span className="font-label text-[10px] uppercase tracking-widest text-primary-fixed-dim/80 mb-4 block font-extrabold">Priority Brief</span>
                 <h3 className="font-headline text-3xl font-bold leading-tight text-white mb-4">
-                  {ELECTION_INFO.nextElection} — {ELECTION_INFO.openSeats} Open Seats
+                  {ELECTION.label} — {ELECTION.openSeats} Open Seats
                 </h3>
+                <p className="text-[10px] font-label font-extrabold uppercase tracking-widest text-primary-fixed mb-3">
+                  {electionStatus}
+                </p>
                 <p className="text-sm font-body text-primary-fixed-dim leading-relaxed mb-4">
-                  {ELECTION_INFO.note}
+                  {ELECTION.note}
                 </p>
                 <div className="space-y-2 text-sm text-primary-fixed-dim mb-8">
-                  <p><span className="font-bold text-primary-fixed">GOP:</span> {ELECTION_INFO.gopNominees.join(", ")}</p>
-                  <p><span className="font-bold text-primary-fixed">Dem:</span> {ELECTION_INFO.demNominees.join(", ")}</p>
+                  {ELECTION.winners.length > 0 ? (
+                    <p><span className="font-bold text-primary-fixed">Elected:</span> {ELECTION.winners.join(", ")}</p>
+                  ) : (
+                    Object.entries(candidatesByParty).map(([party, names]) => (
+                      <p key={party}><span className="font-bold text-primary-fixed">{party}:</span> {names.join(", ")}</p>
+                    ))
+                  )}
                 </div>
               </div>
-              <Link
-                href="/commissioners"
-                className="text-primary-fixed font-bold text-xs uppercase tracking-widest flex items-center gap-2 group-hover:gap-3 transition-all underline decoration-primary-fixed/30 underline-offset-8"
-              >
-                Review Candidates
-                <span className="material-symbols-outlined text-sm">arrow_forward</span>
-              </Link>
+              {ELECTION.resultsUrl && (
+                <a
+                  href={ELECTION.resultsUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-primary-fixed font-bold text-xs uppercase tracking-widest flex items-center gap-2 group-hover:gap-3 transition-all underline decoration-primary-fixed/30 underline-offset-8"
+                >
+                  Board of Elections
+                  <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                </a>
+              )}
             </div>
             <div className="absolute -right-12 -bottom-12 w-48 h-48 bg-primary/10 rounded-full blur-3xl pointer-events-none" />
           </div>
@@ -272,7 +280,6 @@ function DashboardContent() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {COMMISSIONERS.map((commissioner, i) => {
               const cStats = getCommissionerStats(commissioner.id, meetings);
-              const notRunning = commissioner.id === "dalton" || commissioner.id === "mckelvey";
               const isLast = i === COMMISSIONERS.length - 1 && COMMISSIONERS.length % 2 !== 0;
               return (
                 <Link
@@ -285,9 +292,9 @@ function DashboardContent() {
                     <div>
                       <div className="flex items-center gap-3">
                         <h4 className="font-headline text-xl">{commissioner.name}</h4>
-                        {notRunning && (
+                        {commissioner.note && (
                           <span className="bg-error/10 text-error text-[8px] px-2 py-0.5 rounded-full font-bold uppercase">
-                            Not running &apos;26
+                            {commissioner.note}
                           </span>
                         )}
                       </div>
@@ -375,7 +382,7 @@ function DashboardContent() {
           <h2 className="font-headline text-3xl">Recent Meetings</h2>
         </div>
         <div className="space-y-6">
-          {meetings
+          {[...meetings]
             .sort((a, b) => b.date.localeCompare(a.date))
             .slice(0, 5)
             .map((meeting) => (
@@ -394,7 +401,7 @@ function DashboardContent() {
                     </p>
                     <div className="mt-4 flex items-center gap-2 text-primary font-bold">
                       <span className="material-symbols-outlined text-[18px]">timer</span>
-                      <span className="text-sm">{meeting.duration}</span>
+                      <span className="text-sm">{meeting.duration ?? meeting.time}</span>
                     </div>
                   </div>
                   <div className="flex-1 space-y-3">
@@ -406,7 +413,7 @@ function DashboardContent() {
                     </p>
                     <div className="flex items-center gap-2 pt-2">
                       <span className="text-[10px] font-bold uppercase tracking-widest text-secondary">
-                        {meeting.attendees.length} commissioners · ~{meeting.audienceSize} audience · {meeting.keyVotes.length} votes
+                        {meeting.attendees.length} commissioners · {meeting.audienceSize !== null && `~${meeting.audienceSize} audience · `}{meeting.keyVotes.length} votes
                       </span>
                     </div>
                   </div>

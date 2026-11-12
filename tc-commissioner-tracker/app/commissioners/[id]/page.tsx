@@ -55,19 +55,9 @@ function CommissionerContent() {
   // Gather follow-ups owned by this commissioner
   const myFollowUps: FollowUpItem[] = [];
   for (const m of allMeetings) {
-    if (m.followUps) {
-      for (const fu of m.followUps) {
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const owner = fu.owner || (fu as any).raisedBy || "";
-        if (owner === id) myFollowUps.push(fu);
-      }
+    for (const fu of m.followUps) {
+      if (fu.owner === id) myFollowUps.push(fu);
     }
-  }
-
-  // Load status overrides for follow-through rate
-  let fuStatusOverrides: Record<string, string> = {};
-  if (typeof window !== "undefined") {
-    try { fuStatusOverrides = JSON.parse(localStorage.getItem("tc-followup-status") || "{}"); } catch { /* ignore */ }
   }
 
   const sortedCategories = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1]);
@@ -129,7 +119,7 @@ function CommissionerContent() {
         </div>
 
         {/* Follow-Through Rate */}
-        <FollowThroughRate followUps={myFollowUps} statusOverrides={fuStatusOverrides} />
+        <FollowThroughRate followUps={myFollowUps} />
 
         {/* Activity Sparkline */}
         <div className="bg-surface-container-lowest p-6 rounded-lg border border-outline-variant/20">

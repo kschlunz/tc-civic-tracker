@@ -7,7 +7,7 @@ import { useParams } from "next/navigation";
 import { COMMISSIONERS, CATEGORIES } from "@/lib/constants";
 import { useMeetings } from "@/lib/meetings-context";
 import VoteDetailModal from "@/components/VoteDetailModal";
-import { type KeyVote, getSourceUrl } from "@/lib/types";
+import type { KeyVote } from "@/lib/types";
 
 function getCommissionerName(id: string) {
   return COMMISSIONERS.find((c) => c.id === id)?.name ?? id;
@@ -26,7 +26,8 @@ export default function MeetingDetail() {
   const [selectedVote, setSelectedVote] = useState<KeyVote | null>(null);
 
   const dateStr = new Date(meeting.date + "T12:00:00").toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
-  const passedVotes = meeting.keyVotes.length;
+  const passedVotes = meeting.keyVotes.filter((v) => v.passed).length;
+  const failedVotes = meeting.keyVotes.length - passedVotes;
 
   return (
     <div className="max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 py-8 md:py-16">
@@ -39,29 +40,47 @@ export default function MeetingDetail() {
             <span className="text-primary capitalize">{meeting.type} Board Meeting</span>
           </nav>
           <h1 className="font-headline text-4xl md:text-5xl lg:text-7xl font-bold leading-tight text-primary">{dateStr}</h1>
-          <a
-            href={meeting.sourceUrl || getSourceUrl(meeting.date, meeting.type)}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 mt-4 text-xs font-bold uppercase tracking-widest text-primary hover:opacity-70 transition-opacity"
-          >
-            <span className="material-symbols-outlined text-sm">description</span>
-            View official minutes (PDF) →
-          </a>
+          <div className="flex flex-wrap gap-x-6 gap-y-2 mt-4">
+            {(
+              [
+                ["description", "Official minutes (PDF)", meeting.sourceUrl],
+                ["list_alt", "Agenda", meeting.agendaUrl],
+                ["videocam", "Video", meeting.videoUrl],
+              ] as const
+            ).map(
+              ([icon, label, href]) =>
+                href && (
+                  <a
+                    key={label}
+                    href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-widest text-primary hover:opacity-70 transition-opacity"
+                  >
+                    <span className="material-symbols-outlined text-sm">{icon}</span>
+                    {label} →
+                  </a>
+                ),
+            )}
+          </div>
         </div>
         <div className="flex flex-wrap gap-x-6 md:gap-x-12 gap-y-4 md:gap-y-6 md:justify-end pb-2">
           <div className="flex flex-col">
             <span className="text-on-surface-variant text-[10px] md:text-xs uppercase tracking-tighter mb-1 font-bold">Time commenced</span>
             <span className="text-lg md:text-2xl font-headline">{meeting.time}</span>
           </div>
-          <div className="flex flex-col">
-            <span className="text-on-surface-variant text-[10px] md:text-xs uppercase tracking-tighter mb-1 font-bold">Total duration</span>
-            <span className="text-lg md:text-2xl font-headline">{meeting.duration}</span>
-          </div>
-          <div className="flex flex-col">
-            <span className="text-on-surface-variant text-[10px] md:text-xs uppercase tracking-tighter mb-1 font-bold">Public Attendance</span>
-            <span className="text-lg md:text-2xl font-headline">~{meeting.audienceSize} Audience</span>
-          </div>
+          {meeting.duration && (
+            <div className="flex flex-col">
+              <span className="text-on-surface-variant text-[10px] md:text-xs uppercase tracking-tighter mb-1 font-bold">Total duration</span>
+              <span className="text-lg md:text-2xl font-headline">{meeting.duration}</span>
+            </div>
+          )}
+          {meeting.audienceSize !== null && (
+            <div className="flex flex-col">
+              <span className="text-on-surface-variant text-[10px] md:text-xs uppercase tracking-tighter mb-1 font-bold">Public Attendance</span>
+              <span className="text-lg md:text-2xl font-headline">~{meeting.audienceSize} Audience</span>
+            </div>
+          )}
         </div>
       </header>
 
@@ -92,14 +111,18 @@ export default function MeetingDetail() {
           <div className="flex items-center justify-between">
             <h3 className="font-headline text-3xl font-bold text-primary">Major Motions &amp; Votes</h3>
             <span className="text-sm font-bold text-on-surface-variant uppercase tracking-widest">
-              {passedVotes} Passed | 0 Failed
+              {passedVotes} Passed | {failedVotes} Failed
             </span>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
             {meeting.keyVotes.map((vote, i) => (
-              <button key={i} onClick={() => setSelectedVote(vote)} className="bg-surface-container-lowest p-5 md:p-8 border-l-4 border-primary transition-all hover:shadow-xl text-left cursor-pointer min-h-[44px]">
+              <button key={i} onClick={() => setSelectedVote(vote)} className={`bg-surface-container-lowest p-5 md:p-8 border-l-4 ${vote.passed ? "border-primary" : "border-error"} transition-all hover:shadow-xl text-left cursor-pointer min-h-[44px]`}>
                 <div className="flex justify-between items-start mb-6">
-                  {vote.result.toLowerCase() === "unanimous" ? (
+                  {!vote.passed ? (
+                    <span className="bg-error/10 text-error px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
+                      Failed {vote.result !== "Failed" && `· ${vote.result}`}
+                    </span>
+                  ) : vote.result === "Unanimous" ? (
                     <span className="bg-secondary-fixed text-on-secondary-fixed px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
                       Unanimous
                     </span>
@@ -110,20 +133,27 @@ export default function MeetingDetail() {
                   )}
                 </div>
                 <h4 className="text-2xl font-bold mb-4 font-headline">{vote.description}</h4>
-                {vote.mover === "consent agenda" ? (
-                  <p className="text-sm text-on-surface-variant">Consent Agenda</p>
-                ) : (
-                  <div className="space-y-3">
+                <div className="space-y-3">
+                  {vote.consent && <p className="text-sm text-on-surface-variant">Consent Agenda</p>}
+                  {vote.mover && (
                     <div className="flex justify-between text-sm">
                       <span className="text-on-surface-variant">Moved by</span>
                       <span className="font-bold">{getCommissionerName(vote.mover)}</span>
                     </div>
+                  )}
+                  {vote.seconder && (
                     <div className="flex justify-between text-sm">
                       <span className="text-on-surface-variant">Seconded by</span>
                       <span className="font-bold">{getCommissionerName(vote.seconder)}</span>
                     </div>
-                  </div>
-                )}
+                  )}
+                  {vote.votes && vote.votes.nays.length > 0 && (
+                    <div className="flex justify-between text-sm">
+                      <span className="text-on-surface-variant">Against</span>
+                      <span className="font-bold text-error">{vote.votes.nays.map(getCommissionerName).join(", ")}</span>
+                    </div>
+                  )}
+                </div>
               </button>
             ))}
           </div>
