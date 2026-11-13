@@ -1,0 +1,470 @@
+{
+  "id": "2026-05-26",
+  "date": "2026-05-26",
+  "type": "regular",
+  "title": "Commissioners' Meeting 05/26/26",
+  "time": "6:00 PM",
+  "duration": "2 hours 7 minutes",
+  "audienceSize": 10,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "County Manager Jaime Laughter presented the FY 2027 recommended budget: an $82.5 million General Fund, up 1.47%, with no property tax increase, and she outlined risks from possible state cost shifts, workforce pay gaps and solid waste funding. Budget workshops are set for June 2 and June 4, with a public hearing and adoption on June 22. The board unanimously approved a $1,473,449.49 bond-funded school intercom/PA/bell contract with Optimal Tek, voted to nominate both eligible census tracts as federal Opportunity Zones, and made appointments to the Joint Historic Preservation Commission and the Transportation Advisory Committee. Staff also gave the monthly capital update on school bond, courthouse and infrastructure projects.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda, including the May 11 minutes, the April tax release report and a three-year poll worker software agreement",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda approved the May 11, 2026 minutes and the April 2026 Discovery, Release and Monthly Settlement Report ($3,219.60 released, $2,974.25 refunded). It also approved a three-year poll worker software agreement for the Board of Elections, which carries a $3,000 cost difference and an additional $3,000 requested for years two and three. Finally, it authorized the Fire Marshal to issue aerial fireworks permits to nine entities.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Reappointed Nicole Bentley and Katherine Poe to the Joint Historic Preservation Commission",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The terms of Nicole Bentley, Katherine Poe and Billy Parrish expire at the end of May. All three were eligible for reappointment, but Mr. Parrish asked to step down.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Appointed Liam McKissock to the Joint Historic Preservation Commission",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The appointment fills the vacancy created by Billy Parrish stepping down. Two applications were on file.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Reappointed James Felty to the Transportation Advisory Committee and accepted the appointments of Jimmy Whitmire (Rosman) and Councilman Lauren Wise (Brevard)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Mr. Felty was eligible and willing to serve another term. Rosman Mayor Brian Shelton recommended reappointing Mr. Whitmire. The City of Brevard recommended Councilman Lauren Wise to replace retiring Councilman Mack Morrow.",
+      "discussion": "",
+      "page": 16
+    },
+    {
+      "description": "Appointed David Carter to the Transportation Advisory Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The appointment fills the vacancy created by Keith Wilmot, who was not eligible for reappointment. Several applications were on file.",
+      "discussion": "",
+      "page": 16
+    },
+    {
+      "description": "Approved the Transylvania County Schools contract with Optimal Tek for a district-wide intercom/PA/bell system, $1,473,449.49 in bond funds",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Superintendent Dr. Lisa Fletcher reported that three schools have intercom systems that are not functioning adequately and could be replaced before the fall semester; the new system will integrate with Centegix. Optimal Tek received the highest score in a weighted evaluation. The project is funded from Scope 1 bond proceeds and was approved by the Board of Education on May 18.",
+      "discussion": "After the vote, Commissioner Chapman noted that the investment reflects the County's commitment to school and student safety, including school resource officers at all schools.",
+      "page": 16
+    },
+    {
+      "description": "Nominated both eligible census tracts for federal Opportunity Zone designation",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The County Manager reported that the NC Department of Commerce is accepting nominations through June 7, 2026 for Opportunity Zone tracts that would take effect January 1, 2027 for 10 years. One tract covers Rosman, Balsam Grove and part of Lake Toxaway. The other covers part of Brevard toward the Pisgah Forest intersection and has more water and sewer infrastructure.",
+      "discussion": "Commissioner Dalton supported the process, noting that prior designations included non-developable Pisgah National Forest land. Commissioner Chappell asked whether only one tract could be chosen; the Manager confirmed both may be nominated. Chappell said the Brevard tract might offer more opportunity but he preferred submitting both. Chairwoman McCall asked for examples of qualifying projects, and the Manager cited rental housing and business capital investment.",
+      "page": 17
+    },
+    {
+      "description": "Adjourned the meeting at 8:10 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There was no further business.",
+      "discussion": "",
+      "page": 19
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked for clarification on the timelines for the Rosman High School storage tank replacement and retaining wall projects.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Highlighted progress on school projects since the interlocal agreement, commended county and school staff, and noted the projects have stayed within budget.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Requested more information on outside agencies receiving county funding and on the community impacts of non-mandated services such as the DMV Tag Office and Child Development programs.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Clarified that departments requesting increases above 2% were only asked to acknowledge that extra funding could require a tax increase, not to advocate for one.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked for examples of projects that could qualify in an Opportunity Zone.",
+          "categories": [
+            "econ"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether recent heavy rainfall had tested the newly completed school roofing work.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Thanked staff for a balanced budget without a tax increase but expressed concern about future challenges, including workforce recruitment and compensation.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Suggested communicating county concerns to state legislators about proposed property tax limitations.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that the Optimal Tek investment reflects the County's commitment to school safety, including support for school resource officers.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Raised questions about the recent fire on Brown Road.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Requested that the City of Brevard provide call volume data for the Sylvan Valley Fire District.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Stated that prior Board decisions, including proceeding with the scheduled property revaluation, positioned the County for greater fiscal stability.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that his term on the NCACC Board of Directors ends in August and that NCACC will gauge interest among District 16 counties.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "NCACC Board of Directors"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Requested the total dollar amount of teacher supplements and the number and cost of locally funded school positions.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed frustration that counties and school systems must adopt budgets before the state finalizes funding decisions such as teacher pay.",
+          "categories": [
+            "fiscal",
+            "schools"
+          ]
+        },
+        {
+          "text": "Emphasized continuing support for education, including teacher supplements and locally funded positions.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether the County had to select only one Opportunity Zone tract, and said he preferred nominating both.",
+          "categories": [
+            "econ"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked for confirmation that HVAC projects would proceed under GMP 2 because of supply chain and scheduling constraints.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Supported the Opportunity Zone process, noting that prior designations included non-viable Pisgah National Forest land.",
+          "categories": [
+            "econ"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Requested a workshop discussion of the long-term risks of avoiding tax increases now while facing a compensation study and state mandates.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Requested that staff evaluate the financial impact of increasing solid waste bag fees to reduce General Fund support for the Solid Waste fund.",
+          "categories": [
+            "fiscal",
+            "environment"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Doug Powell",
+      "summary": "Commended the County's Memorial Day observance. He also shared historical remarks about the Revolutionary War-era \"Black Robed Regiment\" of clergy, including Naphtali Daggett, James Caldwell and Peter Muhlenberg."
+    },
+    {
+      "speaker": "Aaron Baker",
+      "summary": "Speaking as a Brevard City Council member, asked the County to consider partnering to fund three additional full-time firefighters so that Sylvan Valley Fire District coverage matches other districts, and asked that the matter be discussed at the budget workshop. As chair of the City's Public Safety Committee, he also requested follow-up information on the Brown Road/Highway 64 fire, citing impacts on the city's water supply and post-Helene debris fire risk."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-05-26-fu-1",
+      "dateRaised": "2026-05-26",
+      "owner": "Jaime Laughter",
+      "description": "Provide the total dollar amount of teacher supplements and the number and cost of locally funded school positions, as requested by Commissioner Chappell.",
+      "status": "resolved",
+      "categories": [
+        "schools",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2026-05-26",
+      "lastReferencedMeetingId": "2026-06-02",
+      "resolvedDate": "2026-06-02",
+      "resolvedMeetingId": "2026-06-02",
+      "resolution": "Staff presented school data showing 71 locally funded positions costing $4,894,318 in payroll and benefits and a locally funded teacher supplement cost of $3,201,117."
+    },
+    {
+      "id": "2026-05-26-fu-2",
+      "dateRaised": "2026-05-26",
+      "owner": "Jaime Laughter",
+      "description": "Provide information on outside agencies supported by county funding and on the community impacts of non-mandated services such as the DMV Tag Office and Child Development, as requested by Chairwoman McCall.",
+      "status": "resolved",
+      "categories": [
+        "fiscal"
+      ],
+      "relatedMeetingId": "2026-05-26",
+      "lastReferencedMeetingId": "2026-06-02",
+      "resolvedDate": "2026-06-02",
+      "resolvedMeetingId": "2026-06-02",
+      "resolution": "Staff presented a table of FY 2027 outside agency funding totaling $18,804,559 and an analysis of non-mandated services costs, including the DMV Tag Office and Child Development."
+    },
+    {
+      "id": "2026-05-26-fu-3",
+      "dateRaised": "2026-05-26",
+      "owner": "Jaime Laughter",
+      "description": "Evaluate the financial impact of increasing solid waste bag fees and prepare a discussion of the long-term risks of avoiding tax increases for the June 2 budget workshop.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "environment"
+      ],
+      "relatedMeetingId": "2026-05-26",
+      "lastReferencedMeetingId": "2026-06-02",
+      "resolution": "The workshop included a staff presentation on tax increase pressures and the recurring cost risks facing the County. The minutes do not show a staff evaluation of the financial impact of a bag fee increase; the Manager said she had not recommended sticker fee increases this year in anticipation of a more comprehensive solid waste solution."
+    },
+    {
+      "id": "2026-05-26-fu-4",
+      "dateRaised": "2026-05-26",
+      "owner": "staff",
+      "description": "Bring potential NCACC legislative goal proposals back to the Board for discussion and action before the August 14 deadline, and provide previous submissions for reference.",
+      "status": "resolved",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2026-05-26",
+      "lastReferencedMeetingId": "2026-07-13",
+      "resolvedDate": "2026-07-13",
+      "resolvedMeetingId": "2026-07-13",
+      "resolution": "The Board approved the consolidated NCACC legislative goals and Chairwoman McCall's cover letter for submission to NCACC."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-05-26%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-05-26%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5948728",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:22:30.518Z",
+    "warnings": [
+      "Check — newFollowUps[3].description: The minutes say proposals will be brought back at a future meeting but give no timing. The phrase \"before the August 14 deadline\" is inferred: August 14 is the NCACC submission deadline, not a stated date for the Board discussion. (minutes: \"Submissions are due August 14. Staff encouraged Commissioners to begin considering potential proposals, which will be brought back for discussion and action at a future meeting.\" (p. 18))",
+      "Check — followUpUpdates[3] (2025-01-27-fu-4): The draft marks this resolved, but the commitment was to present alternatives for the BHS old gym. These minutes only mention, in passing, that the renovation is complete. They do not show the alternatives being presented, so a reviewer should confirm whether \"resolved\" is appropriate. (minutes: \"Chairwoman McCall highlighted the progress made since approval of the interlocal agreement, including the completion of the Brevard High School old gym renovation\" (p. 3))",
+      "Check — followUpUpdates[5] (2025-10-13-fu-2): The commitment was to begin financing discussions with the LGC while design continues. The minutes only say the project will move toward financing this fall, which describes a future step, not concrete progress on LGC discussions. The in_progress update may be unsupported. (minutes: \"The project is expected to be bid and move toward financing this fall.\" (p. 3))"
+    ]
+  }
+}

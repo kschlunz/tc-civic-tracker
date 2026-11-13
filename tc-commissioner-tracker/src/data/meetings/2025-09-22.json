@@ -861,37 +861,45 @@
       "dateRaised": "2025-09-22",
       "owner": "Jaime Laughter",
       "description": "Submit the Dogwood grant reallocation request, confirm details with Dogwood, and update the Board once Dogwood responds and coordination with the City is complete.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "housing",
         "infrastructure"
       ],
-      "relatedMeetingId": "2025-09-22"
+      "relatedMeetingId": "2025-09-22",
+      "lastReferencedMeetingId": "2026-07-13",
+      "resolvedDate": "2026-07-13",
+      "resolvedMeetingId": "2026-07-13",
+      "resolution": "The Manager reported that Dogwood Health Trust approved a modification redirecting its $2 million housing infrastructure grant to other eligible housing projects, including Azalea Avenue sewer engineering."
     },
     {
       "id": "2025-09-22-fu-5",
       "dateRaised": "2025-09-22",
       "owner": "Jaime Laughter",
       "description": "Draft MOU options and agreements for the $3.8 million Rosman allocation and the Pisgah Labs extension for Board consideration at the next meeting.",
-      "status": "in_progress",
+      "status": "resolved",
       "categories": [
         "infrastructure",
         "fiscal"
       ],
       "relatedMeetingId": "2025-09-22",
-      "lastReferencedMeetingId": "2025-10-13",
-      "resolution": "The Board approved the terms of the infrastructure funding MOU to offer to the Town of Rosman. The Pisgah Labs extension was not addressed in these minutes."
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolvedDate": "2025-12-08",
+      "resolvedMeetingId": "2025-12-08",
+      "resolution": "The Board approved the Rosman MOU covering the wastewater allocation. The capital update reported that the Pisgah Labs water and sewer extension agreement has been finalized."
     },
     {
       "id": "2025-09-22-fu-6",
       "dateRaised": "2025-09-22",
       "owner": "Jaime Laughter",
       "description": "Send formal requests to the City of Brevard and Town of Rosman for their highest-priority project proposals and notify them of the remaining balance of the $10 million State allocation.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "infrastructure"
       ],
-      "relatedMeetingId": "2025-09-22"
+      "relatedMeetingId": "2025-09-22",
+      "lastReferencedMeetingId": "2026-03-09",
+      "resolution": "The Manager presented the priority projects of Brevard (Azalea/Rhododendron sewer extension) and Rosman (Calvert Road water and sewer extension) and recommended splitting the remaining $7.1 million evenly between them; Commissioners expressed support."
     },
     {
       "id": "2025-09-22-fu-7",

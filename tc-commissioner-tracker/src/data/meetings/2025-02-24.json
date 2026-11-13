@@ -374,11 +374,15 @@
       "dateRaised": "2025-02-24",
       "owner": "staff",
       "description": "Continue recruiting applicants for the two vacancies on the Personnel Board.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "governance"
       ],
-      "relatedMeetingId": "2025-02-24"
+      "relatedMeetingId": "2025-02-24",
+      "lastReferencedMeetingId": "2026-08-24",
+      "resolvedDate": "2026-08-24",
+      "resolvedMeetingId": "2026-08-24",
+      "resolution": "The Board appointed Lisa Sheffield, Amber Webb and Shane Hooper to fill the three Personnel Board vacancies on the recommendation of Human Resources Director Sheila Cozart."
     },
     {
       "id": "2025-02-24-fu-4",
@@ -391,8 +395,8 @@
         "infrastructure"
       ],
       "relatedMeetingId": "2025-02-24",
-      "lastReferencedMeetingId": "2025-09-22",
-      "resolution": "The Manager reported Brevard's draft AIA ($34 million) and Rosman's draft AIA estimate ($12.7 million), and said she will request Rosman's preliminary engineering report."
+      "lastReferencedMeetingId": "2026-02-09",
+      "resolution": "Engineers are updating preliminary engineering reports for the Brevard system housing projects (Housing Assistance Corporation, Habitat and Azalea Avenue) to confirm budgets."
     }
   ],
   "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-02-24%20reg%20mtg.pdf",

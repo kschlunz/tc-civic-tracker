@@ -1,0 +1,240 @@
+{
+  "id": "2026-02-23",
+  "date": "2026-02-23",
+  "type": "regular",
+  "title": "Commissioners' Meeting 02/23/26",
+  "time": "6:00 PM",
+  "duration": "2 hours 2 minutes",
+  "audienceSize": 30,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved a Board of Education request to move $114,897.70 in unused school capital funds toward outfitting the remodeled Old Gym for spectators. It also approved using $14,000 from the Sheriff's Office Tuition Assistance Reserve to upfit an undercover narcotics vehicle. On the consent agenda it adopted proclamations for Social Work Month and National Athletic Training Month and approved donating a surplus firearms simulator to Blue Ridge Community College. The first half of departmental reports for the FY 2027 budget were presented, and the Manager and Chair said $700,000 already allocated for the Azalea/Rhododendron infrastructure project has not been rescinded.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda, including proclamations and the surplus firearms simulator donation",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the January 2026 Discovery, Release and Monthly Settlement Report (releases of $3,828.17 and refunds of $2,047.96), Proclamation #05-2026 designating March as Social Work Month, and Proclamation #06-2026 recognizing March as National Athletic Training Month. It also included Resolution #04-2026 donating a surplus Meggitt FATS 100 LE Firearms Simulator from the Sheriff's Office to Blue Ridge Community College at no cost, because the manufacturer is no longer in business.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved Board of Education request to reallocate $114,897.70 in Education Capital Fund money to outfit the Old Gym",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board of Education approved the request on February 16, 2026. It moves $105,000 from an uncompleted FY 2021 Brevard Elementary air handler project and $9,897.70 left in a FY 2024 systemwide capital repairs line to buy retractable bleachers, electronic scoreboards and wall mats for the remodeled Old Gym. The County Manager said County and School System staff have been reviewing the Education Capital Fund together to identify completed or inactive projects and reallocate funds.",
+      "discussion": "The Board discussed making sure previously funded projects are completed as intended and avoiding past situations where funds went unused. Members acknowledged an improved working relationship with the School System and expressed appreciation for improving the Old Gym rather than building new; it was noted the facility will soon begin hosting events.",
+      "page": 25
+    },
+    {
+      "description": "Approved $14,000 from Sheriff's Office Tuition Assistance Reserve to upfit an undercover narcotics vehicle",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Tuition Assistance Reserve was established in 2016 and is funded through jail commissary proceeds. Staff said it is expected to exceed $90,000 at the close of FY 2025, while tuition reimbursement requests for FY 2026 are expected to be minimal. The current vehicle upfit budget does not cover the cost this fiscal year, and excess reserve funds have historically been used for Sheriff's Office capital needs.",
+      "discussion": "The Board discussed recruitment and retention challenges, noting the tuition assistance program is a valuable incentive but participation is limited; staff emphasized continued investment in compensation and workforce development. Discussion also covered vehicle procurement timelines, upfit delays and vendor performance, and staff confirmed remaining reserve funds will carry forward.",
+      "page": 25
+    },
+    {
+      "description": "Adjourned the meeting at 8:02 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn after all business was concluded.",
+      "discussion": "",
+      "page": 26
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Expressed appreciation for staff and the quality of departmental presentations, and emphasized the importance of public input in shaping services and budget priorities while balancing service levels and tax rates.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Expressed condolences to the Stroup family for the loss of a community member who made a lasting impact on the County.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Highlighted the importance of long-term capital planning, noting prior public safety infrastructure investments have allowed the County to generate additional revenue and better meet service needs.",
+          "categories": [
+            "fiscal",
+            "safety",
+            "infrastructure"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Responded to public concerns about the Azalea Avenue project, clarifying that funding has already been allocated to support the City of Brevard's project and that no shift in priorities has occurred, and encouraged the public to rely on credible sources.",
+          "categories": [
+            "infrastructure",
+            "housing",
+            "governance"
+          ]
+        },
+        {
+          "text": "Congratulated the US Hockey Team on its Olympic gold medal and recognized her great-niece as the first female wrestler to win a state championship for Brevard.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "David Morrow",
+      "summary": "Announced that the Veterans History Museum of the Carolinas will open for its 2026 season on March 3 with updated exhibits and regular public hours."
+    },
+    {
+      "speaker": "Destini Pettit",
+      "summary": "Encouraged the County to restore funding for Styrofoam recycling, citing the previous partnership with Feed Me Foam LLC, and suggested reinstating it or buying a County-owned densifier to preserve landfill capacity."
+    },
+    {
+      "speaker": "Jeanne Lytle",
+      "summary": "Expressed concern about a possible shift away from planned sewer expansion in the Azalea Avenue and Rhododendron neighborhoods, citing septic failures, health and groundwater risks and potential loss of affordable housing, and urged the Board to prioritize the project using state funding with the City."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Encouraged Commissioners to remain mindful of their oath of office and the U.S. and North Carolina Constitutions, and offered to help elected officials strengthen their understanding of constitutional governance."
+    },
+    {
+      "speaker": "Anna Ferguson",
+      "summary": "Identified herself as a candidate for NC House District 119 and expressed appreciation for the County's professionalism, planning and service delivery, saying it sets a high standard in the region."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-02-23-fu-1",
+      "dateRaised": "2026-02-23",
+      "owner": "Scott Justus",
+      "description": "Research models from surrounding local governments and present recommendations to Administration and the Board on updating fire code inspection agreements with the City of Brevard and Town of Rosman to comply with NCGS 160D-1102, 160D-1104 and 160D-1107.",
+      "status": "open",
+      "categories": [
+        "safety",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-02-23"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-02-23%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-02-23%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5744122",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:14:11.776Z",
+    "warnings": [
+      "Check — tldr: The summary says both the Manager and the Chair said the $700,000 allocation has not been rescinded. Only the Manager cited the $700,000 figure and said there had been no discussion of rescinding the funds. The Chair said only that funding had already been allocated and that priorities had not shifted. Consider attributing the figure and the 'not rescinded' point to the Manager alone. (minutes: p.25: \"the Manager clarified that $700,000 has already been allocated for the Azalea/Rhododendron infrastructure project, and there has been no discussion of rescinding those funds\"; p.26: \"Chairwoman McCall ... clarifying that funding has already been allocated to support the City of Brevard's project and that no shift in priorities has occurred.\")"
+    ]
+  }
+}
