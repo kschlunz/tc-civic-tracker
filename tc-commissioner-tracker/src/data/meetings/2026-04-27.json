@@ -1,0 +1,460 @@
+{
+  "id": "2026-04-27",
+  "date": "2026-04-27",
+  "type": "regular",
+  "title": "Commissioners' Meeting 04/27/26",
+  "time": "6:00 PM",
+  "duration": "3 hours 43 minutes",
+  "audienceSize": 40,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton"
+  ],
+  "tldr": "With Commissioner McKelvey absent due to illness, the Board unanimously approved the consent agenda, the FY 2026 third-quarter budget amendments, the third-quarter financial report, and a resolution letting the Finance Director distribute late prior-year fire district tax collections to fire departments each year. Commissioners heard an annual update from Vaya Health and Transylvania County Schools' FY 2027 budget request, which offered three operating options ranging from $14.86 million to $16.14 million plus $1.92 million in equipment and capital requests. The Board also received a courthouse design update with an estimated total cost of about $35.7 million, and a budget workshop from the County Manager on debt service, facility assessments, user fees and state-driven cost pressures. The meeting ended with a closed session to consult the County Attorney.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda, including four proclamations, a DSS grant application and three Health Department travel requests",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "The consent agenda approved the minutes of the March 23 and April 13, 2026 meetings and the Tax Administrator's March report, which showed releases of $3,930.79 and refunds of $1,904.27. It adopted proclamations for National Police Week, Older Americans Month, National Historic Preservation Month and Foster Care Awareness Month. It also authorized DSS to apply to Dogwood Health Trust for paid internship funding and approved three grant-funded out-of-state trips for Health Department staff, with no cost to the County.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Received the report and approved the FY 2026 third-quarter budget amendments (Amendments 30–59)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented amendments that require formal Board approval under the budget ordinance and state law. They included a $710,000 Library Foundation donation for the amphitheater, a preliminary $35.2 million courthouse budget, $334,346 in fire department reserve disbursements, a preliminary budget for the $62 million Public School Needs-Based Grant, and $10.3 million in grant-funded water and sewer projects.",
+      "discussion": "",
+      "page": 26
+    },
+    {
+      "description": "Accepted the FY 2026 third-quarter financial report",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "Finance Director Meagan O'Neal presented unaudited third-quarter results. General Fund revenue was $67.5 million and expenditures were $54 million, and the Solid Waste fund showed a net gain of $463,521. She also presented summaries of education capital projects, County capital and infrastructure projects, and FEMA Public Assistance status for Hurricane Helene.",
+      "discussion": "Commissioner Chappell noted the scale of ongoing capital projects relative to the County's size and staffing capacity. Commissioner Chapman asked for an update on the earlier tax increase dedicated to courthouse funding. The Manager said about $1.7 million had been spent and that the remaining funds are in assigned fund balance supporting a combined debt strategy. Ms. O'Neal said the upcoming audit will break down assigned and committed fund balances.",
+      "page": 30
+    },
+    {
+      "description": "Adopted Resolution #23-2026 authorizing annual distribution of prior-year fire district tax collections",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "After the move to a single countywide fire tax rate, the County still receives delinquent taxes tied to the former fire districts. Finance Director Meagan O'Neal asked that the Finance Director be authorized to calculate these collections after each fiscal year and distribute them to the appropriate fire departments. Amounts collected as of 2/28/26 ranged from $201 to $2,162 per district.",
+      "discussion": "",
+      "page": 31
+    },
+    {
+      "description": "Entered closed session to consult with the County Attorney under N.C.G.S. 143-318.11(a)(3)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "The closed session followed a 10-minute recess and was held to preserve attorney-client privilege.",
+      "discussion": "",
+      "page": 34
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "The Board consulted with the County Attorney on privileged matters and directed staff on how to proceed. The minutes list Commissioner McKelvey among those present in closed session, although they record him as absent due to illness at the start of the meeting.",
+      "discussion": "",
+      "page": 34
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "The minutes are sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 34
+    },
+    {
+      "description": "Adjourned the meeting at 9:43 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "mckelvey"
+        ]
+      },
+      "background": "",
+      "discussion": "",
+      "page": 34
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked how Vaya Health Maintenance of Effort funding is determined across counties and how Transylvania County's allocation is calculated.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked how the new mobile opioid treatment van will be publicized and how residents will know how to access it.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked what the property tax impact would be of funding the School System's full Option C request.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether consolidating County offices into the existing courthouse after court operations move could create long-term savings.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Questioned whether declining school enrollment may eventually require broader conversations about consolidation within the School System.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked for an update on the previously approved tax increase dedicated to courthouse construction funding.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Announced a Rotary-sponsored \"4 Chairs\" program at the Mary C. Jenkins Center, at which he will be a presenter.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Announced that he and Commissioner Dalton will travel to Raleigh to advocate for County priorities.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Asked about the timeline of Vaya's rural health transformation RFP and how long contracts would last if awarded.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked whether the School System's $100,000 turf replacement set-aside included prior maintenance costs.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Raised concerns about the budget impact of potential retroactive state pay increases.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Cautioned against creating concern about relocating County offices, noting recent investments in Administration facilities, IT and infrastructure, and warned a move could add cost and disruption without meaningful savings.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted the significant scale of ongoing capital projects relative to the County's size and staffing capacity, and the overall impact on residents.",
+          "categories": [
+            "fiscal",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Invited the public to the Rosman High School Hall of Fame induction and to a National Day of Prayer event at the courthouse gazebo on May 7.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked whether Vaya-funded programs such as Kids at Work and Vocational Directions overlap or compete with Juvenile Crime Prevention Council funding.",
+          "categories": [
+            "health",
+            "safety"
+          ]
+        },
+        {
+          "text": "Referenced South Carolina's use of parcel fees for landfill operations and suggested the Board consider similar approaches for long-term solid waste funding.",
+          "categories": [
+            "environment",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Congratulated the Finance Department on its GFOA Certificate of Achievement for Excellence in Financial Reporting, calling it a significant improvement over prior years.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Asked for clarification on the scope of the Exceptional Children program, emphasizing that it serves a wide range of student needs.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Emphasized that no decisions have been made about future use of the existing courthouse and that any action would require Board discussion and direction.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Stated that fees alone will not solve the County's financial pressures but that reasonable user fees for facility usage and cleanup may warrant further consideration.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed frustration with state-level mandates and funding constraints placed on counties that remain responsible for required services.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Donna Owens Duckworth",
+      "summary": "Presented what she described as an official notice of liability and raised concerns about alleged misuse of funds, environmental impacts and contamination, local infrastructure projects, and historical land claims. She requested an investigation and accountability."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Commended the Board for including faith-based invocations in meetings and spoke about the Declaration of Independence ahead of its 250th anniversary. He discussed unalienable rights as described by the Founders, saying they derive from a higher authority, and encouraged citizens to reflect on these principles."
+    },
+    {
+      "speaker": "Mike Privette",
+      "summary": "Noted that the County has historically supported City projects financially and suggested the County ask the City for relief or a waiver from regulatory requirements on the courthouse project to reduce the burden on taxpayers. He also thanked Commissioner Chapman for his budget-saving suggestions."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-04-27-fu-1",
+      "dateRaised": "2026-04-27",
+      "owner": "Meagan O'Neal",
+      "description": "Include a detailed breakdown of assigned and committed fund balances in the upcoming audit to explain how courthouse and other capital allocations are being used.",
+      "status": "open",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-04-27"
+    },
+    {
+      "id": "2026-04-27-fu-2",
+      "dateRaised": "2026-04-27",
+      "owner": "staff",
+      "description": "Complete the engineer's structural evaluation of the White House (former Elections Building) and bring policy options to the Board on it and the Veterans Museum (former Administration Building).",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-04-27",
+      "lastReferencedMeetingId": "2026-06-22",
+      "resolution": "Staff presented policy options for the Veterans' History Museum building (former Administration Building), and the Board renewed the lease for two years. The White House evaluation was not addressed."
+    },
+    {
+      "id": "2026-04-27-fu-3",
+      "dateRaised": "2026-04-27",
+      "owner": "staff",
+      "description": "Prepare a policy on Parks and Recreation field reservation or usage fees for Board review if the Board directs it.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "community"
+      ],
+      "relatedMeetingId": "2026-04-27",
+      "lastReferencedMeetingId": "2026-06-02",
+      "resolution": "The Manager reported staff is researching how other jurisdictions structure field fees and will work with the Parks and Recreation Commission and partners on recommendations; the Chair confirmed the Board would revisit the topic later in the year."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-04-27%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-04-27%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5890363",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:19:37.276Z",
+    "warnings": [
+      "Check — newFollowUps[1]: The minutes do not record staff committing to bring policy options on the White House and Veterans Museum. They say only that the buildings 'will require policy direction', that future decisions 'will need to be considered', and that a structural evaluation is underway. Describing this as a staff commitment to return with options goes beyond what the minutes record. (minutes: \"The Board was advised that two County-owned buildings not currently used for County operations will require policy direction\" ... \"The White House is currently undergoing a structural evaluation by an engineer\" (p. 21))",
+      "Check — keyVotes[5].absent / keyVotes[6].absent: The two closed-session votes list McKelvey as absent, but the minutes name him among those present in closed session. This contradicts the attendance recorded at the start of the meeting, so a human should confirm his attendance for these votes. The draft notes the conflict only in the background of keyVotes[6], and the roll calls are still marked as known. (minutes: \"Present were Chairwoman McCall, Commissioners Chapman, Chappell, Dalton, and McKelvey\" (p. 34) vs. \"Commissioner Chase McKelvey was absent due to illness\" (p. 1))"
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "id": "2026-03-09",
+  "date": "2026-03-09",
+  "type": "regular",
+  "title": "Commissioners' Meeting 03/09/26",
+  "time": "4:00 PM",
+  "duration": "2 hours 41 minutes",
+  "audienceSize": 30,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board approved $1.6 million in state infrastructure grant funds for the Brevard High School sewer project. Commissioners also discussed splitting the remaining $7.1 million evenly between Brevard's Azalea/Rhododendron sewer extension and Rosman's Calvert Road water and sewer extension; the minutes record no vote on that split. The Board approved reinvesting the roughly $7.8 million landfill closure reserve in a four-year Treasury-backed strategy and heard department reports opening the FY 2027 budget process, along with a Hurricane Helene update. The meeting ended with a closed session on a potential economic development project.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved consent agenda, including February 9 minutes, Transit Employee Appreciation proclamation, Health Department closure, $134 bad debt write-off and Balsam Grove Fire letters of support",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the February 9, 2026 minutes and Proclamation #07-2026 recognizing March 18 as National Transit Employee Appreciation Day. It closed the Health Department on April 9, 2026 for required annual training in the Commissioners' Chambers and wrote off $134 in uncollected Health Department accounts for January–June 2025. The Board also received Vaya Health's FY 2026 Q2 fiscal monitoring report, which showed a net operating gain of about $4.65 million. It approved letters of support for the Balsam Grove Fire Department's application for Congressionally Directed Spending to build a new fire station.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved $1.6 million for the Brevard High School sewer infrastructure project",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Board was considering how to allocate its remaining state infrastructure grant funds. The Manager reported that about $55 million in grants has been secured since 2022 for Brevard and Rosman water and sewer, including $4.6 million the County allocated to Brevard and $6.7 million to Rosman. Staff explained that the existing pump station and force main at Brevard High School pose a potential risk to multiple school buildings; the estimated $1.6 million cost includes a 20% contingency.",
+      "discussion": "Commissioners agreed the project was a priority because of public health and safety concerns and the Board's commitment to preventative maintenance.",
+      "page": 14
+    },
+    {
+      "description": "Approved reinvesting the landfill closure/post-closure portfolio in a four-year strategy with FCB Wealth Management, with quarterly reinvestment authority for the Finance Director",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Finance Director Meagan O'Neal explained that the State requires the County to set aside funds for landfill closure and post-closure costs. The portfolio holds about $7.8 million against an $8.6 million liability; maturing funds had been placed in a money market account in 2024 because of possible Helene debris costs, which were avoided. She recommended a four-year Treasury-backed strategy with quarterly maturities, yielding about 3.51% compared with 3.50% for a three-year term, to lock in rates ahead of anticipated federal rate cuts.",
+      "discussion": "",
+      "page": 15
+    },
+    {
+      "description": "Entered closed session under N.C.G.S. 143-318.11(a)(4) on economic development, following a 10-minute recess",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The closed session concerned the location or expansion of industries or other businesses. In the session, the Board received an update on a potential economic development project from Transylvania Economic Alliance representatives and directed staff on how to proceed.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion to return to open session.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Sealed the closed session minutes until opening them would not frustrate the purpose of the closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion following the closed session on a potential economic development project.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Adjourned the meeting at 6:41 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion to adjourn.",
+      "discussion": "",
+      "page": 17
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Announced an upcoming community showing of a North Carolina Association of County Commissioners documentary on Hurricane Helene recovery and encouraged public attendance.",
+          "categories": [
+            "recovery",
+            "community"
+          ]
+        },
+        {
+          "text": "Emphasized that water and sewer infrastructure remains an ongoing countywide challenge and encouraged discussion of a potential countywide water and sewer authority.",
+          "categories": [
+            "infrastructure",
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said the infrastructure investments approved at the meeting represented years of planning, advocacy and collaboration among staff, local governments and state partners.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Highlighted the funding directed to water and sewer improvements as well as continued investments in school facilities and broadband.",
+          "categories": [
+            "infrastructure",
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Reminded Commissioners to submit questions on the departmental presentations to the County Manager for a consolidated response at a later meeting.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Highlighted partnerships with the City of Brevard and Town of Rosman and acknowledged that not all needs were fully funded, while saying shared investment strengthens the projects.",
+          "categories": [
+            "infrastructure"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Angela Emerson",
+      "summary": "Expressed concerns about alleged Open Meetings Act violations during prior Board of Equalization and Review proceedings. She urged training for staff and appointees, compliance and accountability, including addressing past concerns."
+    },
+    {
+      "speaker": "Kristen Bulpitt & Jenna Shimek",
+      "summary": "Residents of the Azalea/Rhododendron neighborhood who supported sewer improvements, citing failing septic systems and limited repair options due to lot size and soils. They also raised the resulting public health and housing concerns and encouraged County funding and partnerships for the project."
+    },
+    {
+      "speaker": "Meg LeBeck",
+      "summary": "Speaking for Housing Assistance Corporation, expressed appreciation for the County's collaboration on housing, including disaster recovery and new housing development. She acknowledged ongoing work on workforce housing needs."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Highlighted the historical significance of upcoming 250th anniversary events tied to North Carolina's role in the American Revolution and encouraged recognition of these milestones."
+    },
+    {
+      "speaker": "Brian Crosier",
+      "summary": "Azalea Avenue resident who thanked the Board for approving infrastructure funding. He stressed the importance of clean water and of helping long-standing, low- or fixed-income residents remain in their homes."
+    },
+    {
+      "speaker": "Lisa Rodke",
+      "summary": "Asked the Board to consider a recent letter on alleged irregularities in the property tax appeal process. She encouraged fair and consistent scheduling, support for residents in appeals and additional open meetings training."
+    },
+    {
+      "speaker": "Aaron Baker",
+      "summary": "Brevard City Council member who thanked the Board for its partnership on the Azalea Avenue infrastructure project. He noted the long-standing need for sewer there and described the project as an example of County-City collaboration."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-03-09-fu-1",
+      "dateRaised": "2026-03-09",
+      "owner": "Jaime Laughter",
+      "description": "Provide a consolidated response at a later meeting to Commissioners' questions on the semi-annual departmental presentations and supporting materials.",
+      "status": "open",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-03-09"
+    },
+    {
+      "id": "2026-03-09-fu-2",
+      "dateRaised": "2026-03-09",
+      "owner": "staff",
+      "description": "Present the Sheriff's Office semi-annual departmental report at a future meeting.",
+      "status": "resolved",
+      "categories": [
+        "safety",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2026-03-09",
+      "lastReferencedMeetingId": "2026-03-23",
+      "resolvedDate": "2026-03-23",
+      "resolvedMeetingId": "2026-03-23",
+      "resolution": "Sheriff Chuck Owenby presented the Sheriff's Office semi-annual departmental report at this meeting."
+    },
+    {
+      "id": "2026-03-09-fu-3",
+      "dateRaised": "2026-03-09",
+      "owner": "staff",
+      "description": "Assist the City of Brevard and Town of Rosman in identifying and pursuing additional funding sources for the Azalea/Rhododendron sewer extension and Calvert Road water and sewer extension.",
+      "status": "in_progress",
+      "categories": [
+        "infrastructure",
+        "housing"
+      ],
+      "relatedMeetingId": "2026-03-09",
+      "lastReferencedMeetingId": "2026-08-24",
+      "resolution": "The Manager reported that Brevard and Rosman will apply directly for construction funding for the Azalea and Calvert Road sewer projects, with Representative Anna Ferguson in contact with both. The County will continue funding the Azalea design through the Dogwood Grant."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-03-09%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-03-09%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5776577",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:15:26.518Z",
+    "warnings": [
+      "Check — followUpUpdates[2] (2026-02-09-fu-10): The follow-up concerns filling the County Planner position. The minutes mention recruitment only for a 'Land Use Planner' position, and do not say this is the same job. Treating it as progress on this item is an inference. (minutes: \"Vacant Transportation Planning position to be evaluated through upcoming Transit Operations Study; recruitment planned for Land Use Planner position\" (p. 6))",
+      "Check — followUpUpdates[3] (2026-02-09-fu-7): The commitment was a formal FY 2027 budget guidance letter to outside agencies plus monthly budget updates. The minutes record a Finance department semi-annual presentation on debt obligations, but not the guidance letter or a monthly budget update. It is unclear the minutes refer to this item. (minutes: \"The Board received the next round of semi-annual departmental presentations as part of the FY 2027 budget development process.\" (p. 3))",
+      "Check — keyVotes[4].background: The draft says the Economic Alliance representatives gave the update. The minutes list them as present in the closed session but do not say who gave the update. (minutes: \"Transylvania Economic Alliance Executive Director Burton Hodges and Alliance Board Chair Sheila Carland... The Board received an update on a potential economic development project\" (p. 17))"
+    ]
+  }
+}

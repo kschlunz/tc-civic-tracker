@@ -1,0 +1,366 @@
+{
+  "id": "2026-06-02",
+  "date": "2026-06-02",
+  "type": "workshop",
+  "title": "Board of Commissioners - Budget Workshop",
+  "time": "6:00 PM",
+  "duration": "1 hour 53 minutes",
+  "audienceSize": 4,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board held a budget workshop on the FY 2027 recommended budget, which includes an $82.5 million General Fund with no property tax increase. Staff and commissioners discussed County fees (including solid waste and Parks and Recreation field-use fees), possible future tax pressures from SNAP cost shifts, teacher pay and a new employee compensation study, non-mandated services, education funding, and outside agency funding. The only votes were to approve the agenda and to adjourn. The Board indicated it did not need another workshop, so the June 22 public hearing on the budget can be advertised.",
+  "keyVotes": [
+    {
+      "description": "Approved the workshop agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural vote at the start of the June 2, 2026 budget workshop on the FY 2027 recommended budget.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Adjourned the budget workshop at 7:53 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The Manager asked whether the Board wanted to recess and reconvene on June 4 for another workshop or proceed with advertising the June 22 public hearing. The Board indicated no need for an additional workshop.",
+      "discussion": "Commissioners expressed appreciation to the Manager and staff for their preparation and work on the budget.",
+      "page": 21
+    }
+  ],
+  "commissionerActivity": {
+    "chappell": {
+      "topics": [
+        {
+          "text": "Recalled that a 2016 field usage fee recommendation based on individual reservations was not supported, and expressed support for exploring fees for tournaments and other large events that add costs for County facilities.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that the County's projected health insurance cost increase is significantly lower than that of many other local governments, underscoring the employee wellness clinic's value.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed concern that compensation study salary data could become outdated before implementation, citing expected hiring increases in Henderson County (detention center expansion) and Buncombe County (countywide fire service).",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said compensation alone may not be enough and encouraged consideration of longevity incentives, retention programs and benefit enhancements.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said potential new state and federal mandates show the importance of a healthy fund balance, and asked whether the County could absorb significant unforeseen costs.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that prior Board actions, including the FY 2026 tax increase and the long-term debt management strategy, were intended to address future obligations proactively.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Emphasized sharing education funding information with the public, highlighting $4.9 million for 71 locally funded school positions and more than $3.2 million annually for teacher supplements.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Expressed concern that counties are criticized for property tax increases while being expected to absorb costs of unfunded or underfunded state mandates.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that participation in services such as Cooperative Extension and community college funding creates ongoing local funding obligations.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked about the General Fund supplement to the Solid Waste Enterprise Fund.",
+          "categories": [
+            "fiscal",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked about the effectiveness of the employee wellness clinic.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Observed significant uncertainty from state and federal decisions and possible property tax restrictions, raised concerns about fraud in public assistance programs, and asked about oversight of SNAP administration.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Requested information on unfunded mandates imposed on counties for use in upcoming meetings with state legislators.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Said many potential cost pressures remain uncertain and depend on future state and federal decisions.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Emphasized increasing public awareness of County subsidies for non-mandated services such as the Rosman Pool and community centers.",
+          "categories": [
+            "community",
+            "governance"
+          ]
+        },
+        {
+          "text": "Highlighted the roughly $3,000 annual Honor Guard allocation for uniforms supporting representation at military funerals and commemorative services.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Agreed that unfunded mandates should be a focus of discussions with legislators, noting that limits on local revenue options make it hard to meet increasing service demands.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Requested clarification on the North Carolina Forest Service contract.",
+          "categories": [
+            "environment",
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Confirmed the Board would revisit Parks and Recreation fee options later in the year.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted the Board of Health reviewed public health fees about two years ago and found them comparable to surrounding counties.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked what triggers a fire marshal reinspection fee.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked about the previously proposed solid waste parcel fee and suggested sticker fees be revisited every three to five years.",
+          "categories": [
+            "environment",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted solid waste is a mandated service, said the Board will face costly solid waste funding decisions, and noted grant funding avoided a seven-cent tax increase for the new landfill cell.",
+          "categories": [
+            "environment",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about turnover in the Sheriff's Office and the timeline for the compensation study.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said county governments are often constrained by state requirements while being expected to provide essential services.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Commended the Manager and staff for long-term financial planning and said the County compares favorably with neighbors considering larger tax increases.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said non-mandated services such as the DMV license plate agency, Child Development, the Library, Parks and Recreation and the Rosman Pool are widely used and valued, and that some user fees may warrant periodic review.",
+          "categories": [
+            "community",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed concern about the long-term sustainability of increasing local school funding as enrollment declines, saying the County cannot indefinitely replace lost state-funded positions, and encouraged discussion of enrollment trends and efficiencies.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the County has limited control over outside agency funds once allocated, citing Land of Sky Regional Council and practical limits on audit oversight.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked how building inspection fees compare to neighboring counties.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked about EMS billing rates.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Questioned how much fee adjustments could offset property tax reliance, noting a modest solid waste fee increase might yield about $300,000 and a 5% increase on roughly $3.3 million in fees about $160,000.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether a revised solid waste fee structure was anticipated for FY 2028 and noted there is currently no long-term solid waste funding plan.",
+          "categories": [
+            "environment",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether compensation study implementation could exceed the roughly $2 million cost of the 2023 study, and whether such studies evaluate efficiency gains from technology.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted the tax pressure projections did not include solid waste needs, new courthouse staffing or future capital projects.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Questioned whether the Board should take proactive steps now for anticipated financial pressures, expressing concern for future Boards.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [],
+  "followUps": [
+    {
+      "id": "2026-06-02-fu-1",
+      "dateRaised": "2026-06-02",
+      "owner": "staff",
+      "description": "Conduct community meetings during FY 2027 to review the Solid Waste fee study and disposal options and explore alternative fee structures, with a revised fee structure anticipated for the FY 2028 budget.",
+      "status": "in_progress",
+      "categories": [
+        "environment",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2026-06-02",
+      "lastReferencedMeetingId": "2026-06-22",
+      "resolution": "The adopted FY 2027 budget includes the recommendation to hold a series of public meetings during the year on future solid waste funding and disposal options."
+    },
+    {
+      "id": "2026-06-02-fu-2",
+      "dateRaised": "2026-06-02",
+      "owner": "Jaime Laughter",
+      "description": "Issue the request for services for a comprehensive compensation and classification study (including a benefits comparison) in the fall, with recommendations and preliminary implementation estimates expected in early 2028 for the FY 2028 budget.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-06-02",
+      "lastReferencedMeetingId": "2026-08-24",
+      "resolution": "The Board filled the Personnel Board vacancies as preparations begin for the upcoming salary and compensation study, which the Personnel Board will support."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-06-02%20Budget%20Workshop.pdf",
+  "videoUrl": "https://vimeo.com/event/5969916",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:24:51.350Z",
+    "warnings": [
+      "Check — commissionerActivity[mccall].topics[2]: The draft says McCall asked what triggers a fire marshal reinspection fee. The minutes say she asked what causes a reinspection itself. The fee only came up in the Manager's answer, which explained that a fee applies only when a second reinspection is needed. (minutes: \"Chairwoman McCall asked what causes a reinspection from the fire marshal, noting that the Manager had indicated that the implementation of a reinspection fee reduced the number of such requests.\" (p. 8))"
+    ]
+  }
+}

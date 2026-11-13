@@ -797,12 +797,16 @@
       "dateRaised": "2025-08-25",
       "owner": "staff",
       "description": "Return to a future agenda the question of how to handle remaining fire district reserves after the single fire tax district took effect July 1.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "safety",
         "fiscal"
       ],
-      "relatedMeetingId": "2025-08-25"
+      "relatedMeetingId": "2025-08-25",
+      "lastReferencedMeetingId": "2026-01-12",
+      "resolvedDate": "2026-01-12",
+      "resolvedMeetingId": "2026-01-12",
+      "resolution": "The Board took up remaining fire district reserves and unanimously approved requests from Connestee, Lake Toxaway, Little River and North Transylvania Fire Departments to use their reserve funds."
     },
     {
       "id": "2025-08-25-fu-5",

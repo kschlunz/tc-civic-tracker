@@ -1,0 +1,423 @@
+{
+  "id": "2026-05-11",
+  "date": "2026-05-11",
+  "type": "regular",
+  "title": "Commissioners' Meeting 05/11/26",
+  "time": "4:00 PM",
+  "duration": "3 hours 9 minutes",
+  "audienceSize": 25,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board unanimously approved its consent agenda, including EMS Week and Memorial Day proclamations, a Dogwood Health Trust grant letter of intent, and an extension of the FY 2025 audit deadline to June 30. Board members made several advisory board appointments and accepted below-cost bids of $3,750 to $3,950 for three foreclosed Connestee Falls lots. The Board heard Blue Ridge Community College's FY 2027 budget request, a consultant study recommending a solid waste transfer station at the Calvert site and an availability fee, and a Manager's update on cost reduction and long-term capital planning. No decisions were made on solid waste, and the recommended FY 2027 budget is scheduled for May 26.",
+  "keyVotes": [
+    {
+      "description": "Approved the agenda as presented",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda, including EMS Week and Memorial Day proclamations, a Dogwood grant letter of intent (up to $450,000), and an audit contract amendment",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the April 27, 2026 minutes and a proclamation designating May 17-23, 2026 as EMS Week. It included a Memorial Day 2026 proclamation and approval for Transylvania Public Health to submit a letter of intent to Dogwood Health Trust for a two-year regional collaborative grant of up to $450,000. It also extended the FY 2025 audit submission date to the LGC to June 30, 2026 under the Martin Starnes & Associates contract, and approved out-of-state travel for Register of Deeds Beth Landreth to a conference in Buffalo, NY.",
+      "discussion": "Commissioner Chapman read the Memorial Day proclamation aloud and invited the public to the May 25 ceremony at the Courthouse Gazebo.",
+      "page": 1
+    },
+    {
+      "description": "Reappointed Zachary West and waived term limits to reappoint Steve Tabor to a third term on the Agricultural Advisory Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The terms of Dr. John Buford, Steve Tabor and Zachary West expired at the end of April. With no applications on file, Cooperative Extension staff asked the Board to waive Mr. Tabor's term limits. Dr. Buford did not seek another term.",
+      "discussion": "",
+      "page": 12
+    },
+    {
+      "description": "Appointed Mary Shore to fill a vacancy on the County Council on Aging",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Shannon Roberts resigned effective March 17. Council on Aging Chair Kathe Harris recruited Mary Shore, and the membership and staff recommended her appointment. No other applications were on file.",
+      "discussion": "",
+      "page": 13
+    },
+    {
+      "description": "Reappointed Commissioner Chase McKelvey and Amanda Vanderoef to the Personnel Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Terms for James Bailey, Chase McKelvey and Amanda Vanderoef expired at the end of February, and Mr. Bailey was not eligible for reappointment. HR Director Sheila Cozart recommended reappointing DSS Director Amanda Vanderoef to the Department Head seat. Staff noted that Jo Ann McCall was no longer eligible for the Employee seat and said they will continue working to fill the remaining vacancies.",
+      "discussion": "",
+      "page": 13
+    },
+    {
+      "description": "Reappointed William Smith to the Workforce Development Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Mr. Smith's term in the Private Sector Business seat was set to expire at the end of May. Nathan Ramsey of Land of Sky Regional Council and the Mountain Area Workforce Development Board recommended his reappointment.",
+      "discussion": "",
+      "page": 13
+    },
+    {
+      "description": "Accepted GovDeals bids of $3,950, $3,825 and $3,750 for three foreclosed Connestee Falls lots and directed staff to finalize the sales",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The County owned three undeveloped Connestee Falls lots acquired through foreclosure that did not sell at the courthouse auction. The lots were then auctioned on GovDeals, with bidding closing April 22, 2026. Each high bid was below the County's investment in back taxes and legal fees, and staff said the Board could accept the bids or reopen the auction with higher minimums.",
+      "discussion": "Commissioners noted that the likelihood of significantly higher bids in a future auction appeared remote. Commissioner Chappell said he was willing to accept the bids because he did not believe the amounts would increase if the lots were re-advertised.",
+      "page": 14
+    },
+    {
+      "description": "Adjourned the meeting at 7:09 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn after all business was concluded.",
+      "discussion": "",
+      "page": 16
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Noted that a future Blue Ridge Community College campus has remained on the County's legislative and capital priorities, that finding suitable property has been a continuing challenge, and that the County is not currently in a financial position to purchase land for it.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether waste-to-energy and other alternative disposal technologies could become viable on a regional basis in the future.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Clarified that no solid waste decisions were being made and that the Board was only receiving information and asking questions.",
+          "categories": [
+            "environment",
+            "governance"
+          ]
+        },
+        {
+          "text": "Thanked the Manager for detailed information on cost-reduction efforts and said it addressed many public concerns about County spending.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Shared concerns about misinformation and rumors circulating publicly, and expressed disappointment over disparaging comments toward County staff and officials.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Clarified her position that it is not the County's responsibility to independently locate property for the College, but that the County would assist and work collaboratively if requested.",
+          "categories": [
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Read the Memorial Day proclamation aloud and invited the public to the May 25 ceremony at the Courthouse Gazebo.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Said he and Commissioner Dalton discussed the College's facility needs with Senator Corbin, stressing that State funding is needed because the County cannot independently support a project estimated to exceed $50 million.",
+          "categories": [
+            "schools",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Suggested that the future closure of Davidson River School could provide temporary space options for the College.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether legal service contracts were included in the County's 2% budget increase guidance.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether delays in adopting the state budget could significantly affect County budget planning.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Recognized the Clerk to the Board and Tax Administrator Jessica McCall for statewide association leadership roles and commended the County Manager.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Said he would travel to Raleigh for the Chamber of Commerce legislative trip and later attend the NCACC Board of Directors meeting in Cherokee.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Thanked Representative Ferguson for attending and said he wished more legislators spent time in the counties they represent.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said local governments have limited revenue sources and that a future sales tax referendum could fund capital projects while shifting some burden to visitors.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Expressed frustration that the state is not held to the same balanced-budget deadlines as local governments.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Addressed social media claims about the budget, saying the new courthouse was directed by the judicial system and was not a discretionary project.",
+          "categories": [
+            "governance",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said substantial progress had been made on school facility needs since the school bond referendum and praised the working relationship with the Board of Education.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said he found some public comments discouraging and demeaning to County staff and administrators.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Announced a senior basketball fundraiser for Dale Griffith at Rosman High School and the annual Tiger Tussle event.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Reported meeting with Senator Corbin in Raleigh for several hours with Commissioner Chapman on County issues, and expressed hope the discussions would prove beneficial.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": [
+        "Personnel Board"
+      ]
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Doug Powell",
+      "summary": "Spoke about the National Day of Prayer and the historical role of prayer in early American government, including the First Continental Congress in 1774."
+    },
+    {
+      "speaker": "Mike Hawkins",
+      "summary": "Thanked the Board and suggested a coordinated County and College advocacy approach for state and federal funding of a future Blue Ridge Community College campus, including collaboration on finding a site. As a College trustee, he explained that the Trustees did not adopt a resolution on the 2% budget guidance because they lacked knowledge of whether the request would require a tax increase."
+    },
+    {
+      "speaker": "Marlu Guest",
+      "summary": "Commented on possible solid waste changes, explaining that she lives where garbage trucks cannot reach and must keep trash inside because of bears. She asked the Board to consider residents in similar situations."
+    },
+    {
+      "speaker": "Representative Anna Ferguson",
+      "summary": "Praised the County's budget process and cost-reduction work. She discussed her service on the Hurricane Helene recovery funds committee and efforts to redirect unused funds. She said state property tax cap proposals were preliminary and likely would not significantly affect the County, and that she remained optimistic about the delayed state budget."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-05-11-fu-1",
+      "dateRaised": "2026-05-11",
+      "owner": "staff",
+      "description": "Bring additional solid waste recommendations and planning items to the Board over the coming year, with infrastructure decisions needed within six months to stay on schedule for disposal capacity planning.",
+      "status": "in_progress",
+      "categories": [
+        "environment",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2026-05-11",
+      "lastReferencedMeetingId": "2026-06-02",
+      "resolution": "The Manager said staff is refining a solid waste proposal for community engagement sessions, with a revised fee structure anticipated for FY 2028."
+    },
+    {
+      "id": "2026-05-11-fu-2",
+      "dateRaised": "2026-05-11",
+      "owner": "staff",
+      "description": "Continue recruitment to fill the Agricultural Advisory Board vacancy left by Dr. John Buford.",
+      "status": "resolved",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2026-05-11",
+      "lastReferencedMeetingId": "2026-06-08",
+      "resolvedDate": "2026-06-08",
+      "resolvedMeetingId": "2026-06-08",
+      "resolution": "After Cooperative Extension recruitment produced three applications, the Board unanimously appointed Tracie Gant to fill the Agricultural Advisory Board vacancy."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-05-11%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-05-11%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5917390",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:21:03.088Z",
+    "warnings": [
+      "Check — commissionerActivity[chappell].topics[2].text: The draft says the new courthouse itself was directed by the judicial system. The minutes say the County was directed to address courthouse deficiencies, and that a new courthouse was not simply a discretionary project. Suggested rewording: \"directed by the judicial system to address courthouse deficiencies.\" (minutes: \"the County had been directed by the judicial system to address courthouse deficiencies and that construction of a new courthouse was not simply a discretionary project or 'wish list' item\" (p. 15))"
+    ]
+  }
+}
