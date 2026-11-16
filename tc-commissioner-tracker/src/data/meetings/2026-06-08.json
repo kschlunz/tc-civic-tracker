@@ -92,7 +92,7 @@
       "passed": true,
       "consent": false,
       "mover": "dalton",
-      "seconder": null,
+      "seconder": "chapman",
       "votes": {
         "ayes": [
           "chapman",
@@ -345,7 +345,6 @@
     "model": "claude-opus-5-5",
     "extractedAt": "2026-11-13T00:25:53.171Z",
     "warnings": [
-      "Check — keyVotes[3].seconder: Seconder is null, but the minutes name two seconders, Chapman and McKelvey. The background text mentions this, but a null seconder field may be read as the motion having no recorded seconder. Consider recording one of them, or flagging how dual seconds are represented. (minutes: \"seconded by Commissioners Chapman and McKelvey, and the motion was unanimously approved\" (p.4))",
       "Check — newFollowUps[1]: Contractor selection by July 1 and purchase offers this fall are anticipated timelines from the Manager's Helene status update, not a commitment made at this meeting. Treating them as a staff follow-up may overstate them. (minutes: \"released for bid, with contractor selection anticipated by July 1. Several participating property owners are expected to receive purchase offers this fall.\" (p.4))",
       "Check — followUpUpdates[2] (2026-05-11-fu-2): The minutes do not identify the vacancy as the seat left by Dr. John Buford; they describe it only as a vacancy after a member's term expired. Marking the earlier item resolved relies on an inference that it is the same seat. (minutes: \"A vacancy existed on the Agricultural Advisory Board following the expiration of a member's term.\" (p.4))",
       "Check — tldr: Says \"Commissioners\" (plural) responded to public comments on Opportunity Zones, farmland preservation and data centers. The minutes attribute those responses only to Commissioner Dalton. (minutes: \"Commissioner Dalton responded to questions raised during public comment and provided clarification on several topics.\" (p.6))"
