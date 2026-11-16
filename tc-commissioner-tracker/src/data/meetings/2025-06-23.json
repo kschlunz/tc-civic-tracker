@@ -540,14 +540,16 @@
       "dateRaised": "2025-06-23",
       "owner": "Jaime Laughter",
       "description": "Provide the Board with information on available infrastructure grant funds, including expiration dates and eligibility guidelines.",
-      "status": "in_progress",
+      "status": "resolved",
       "categories": [
         "fiscal",
         "infrastructure"
       ],
       "relatedMeetingId": "2025-06-23",
-      "lastReferencedMeetingId": "2025-09-22",
-      "resolution": "The Manager presented infrastructure grant sources and amounts, including the December 2026 NCDEQ ARPA deadline and the December Dogwood extension expiration."
+      "lastReferencedMeetingId": "2026-07-13",
+      "resolvedDate": "2026-07-13",
+      "resolvedMeetingId": "2026-07-13",
+      "resolution": "The Manager presented a detailed overview of the County's infrastructure grant programs, including amounts, expenditure deadlines, eligibility issues and project status."
     },
     {
       "id": "2025-06-23-fu-3",
@@ -587,19 +589,21 @@
         "schools"
       ],
       "relatedMeetingId": "2025-06-23",
-      "lastReferencedMeetingId": "2025-09-22",
-      "resolution": "Mr. Allison reported that 2018 storm line data proved inaccurate and additional utility and stormwater evaluation is underway; information on the retaining wall scope will go to the Joint Committee once evaluations and budget analyses are complete."
+      "lastReferencedMeetingId": "2026-06-22",
+      "resolution": "The Board approved bond scope and budget amendments that incorporate the Rosman High School retaining wall project. The County will manage that project directly."
     },
     {
       "id": "2025-06-23-fu-6",
       "dateRaised": "2025-06-23",
       "owner": "staff",
       "description": "Keep the Board informed of solutions for getting future school capital projects through NCDPI review.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "schools"
       ],
-      "relatedMeetingId": "2025-06-23"
+      "relatedMeetingId": "2025-06-23",
+      "lastReferencedMeetingId": "2026-02-09",
+      "resolution": "The Manager explained that phased CMAR submissions to DPI and the architect's experience should limit review delays. Staff do not anticipate DPI delays on current projects."
     },
     {
       "id": "2025-06-23-fu-7",

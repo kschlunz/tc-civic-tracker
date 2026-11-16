@@ -463,8 +463,8 @@
         "governance"
       ],
       "relatedMeetingId": "2025-09-08",
-      "lastReferencedMeetingId": "2025-09-22",
-      "resolution": "The Manager reviewed UNC School of Government regional system models, the prior Rosman revenue-sharing proposal and the Sylvan Valley Industrial Building reinvestment model as partnership options."
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolution": "Watershed information was presented to the Board by the Manager and High Country Engineering, and the Board authorized pursuing the watershed."
     },
     {
       "id": "2025-09-08-fu-2",
@@ -502,11 +502,15 @@
       "dateRaised": "2025-09-08",
       "owner": "Trisha Hogan",
       "description": "Submit the Board's NCACC Steering Committee nominations (due September 12): Dalton and McCall for Tax & Finance and Chapman for Justice & Public Safety.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "governance"
       ],
-      "relatedMeetingId": "2025-09-08"
+      "relatedMeetingId": "2025-09-08",
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolvedDate": "2025-12-08",
+      "resolvedMeetingId": "2025-12-08",
+      "resolution": "The appointments review lists Chapman on the NCACC Justice and Public Safety Steering Committee and Dalton and McCall on the Tax and Finance Steering Committee."
     },
     {
       "id": "2025-09-08-fu-5",

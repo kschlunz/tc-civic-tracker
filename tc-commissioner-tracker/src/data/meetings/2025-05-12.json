@@ -697,22 +697,24 @@
         "schools"
       ],
       "relatedMeetingId": "2025-05-12",
-      "lastReferencedMeetingId": "2025-06-23",
-      "resolution": "At the Superintendent's request, the Rosman High School retaining wall project became County-led under the Project Manager. He is working with McGill on a more comprehensive solution, with a revised budget targeted by July."
+      "lastReferencedMeetingId": "2026-06-22",
+      "resolution": "The Rosman High School retaining wall was incorporated into the scope modifications. Its work and previously approved funding will shift so the County manages the project directly."
     },
     {
       "id": "2025-05-12-fu-5",
       "dateRaised": "2025-05-12",
       "owner": "David McNeill",
       "description": "Deliver results of the Smith and Gardner solid waste rate study and disposal alternatives study, expected by the end of the calendar year.",
-      "status": "in_progress",
+      "status": "resolved",
       "categories": [
         "infrastructure",
         "fiscal"
       ],
       "relatedMeetingId": "2025-05-12",
-      "lastReferencedMeetingId": "2025-06-17",
-      "resolution": "The Manager and Chairman reported that the solid waste rate study and options analysis are in progress and will guide future decisions."
+      "lastReferencedMeetingId": "2026-05-11",
+      "resolvedDate": "2026-05-11",
+      "resolvedMeetingId": "2026-05-11",
+      "resolution": "Smith Gardner presented the solid waste disposal options study and rate study findings to the Board."
     },
     {
       "id": "2025-05-12-fu-6",
@@ -755,8 +757,8 @@
         "governance"
       ],
       "relatedMeetingId": "2025-05-12",
-      "lastReferencedMeetingId": "2025-09-22",
-      "resolution": "Project Manager Beecher Allison presented the monthly school capital update."
+      "lastReferencedMeetingId": "2026-08-24",
+      "resolution": "Project Manager Beecher Allison gave the monthly update on the Fixing Transylvania County Schools projects."
     }
   ],
   "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-05-12%20reg%20mtg.pdf",

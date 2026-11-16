@@ -516,12 +516,14 @@
       "dateRaised": "2025-07-14",
       "owner": "staff",
       "description": "Review 2050 Comprehensive Plan survey results in August and hold final community engagement events this fall, with adoption expected early next year.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "governance",
         "environment"
       ],
-      "relatedMeetingId": "2025-07-14"
+      "relatedMeetingId": "2025-07-14",
+      "lastReferencedMeetingId": "2025-11-10",
+      "resolution": "Because of staffing shortages, the Board extended the Comprehensive Plan to December 31, 2027 and committed to completing the update by that date rather than early next year."
     }
   ],
   "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-07-14%20reg%20mtg.pdf",

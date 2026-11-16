@@ -492,12 +492,16 @@
       "dateRaised": "2025-02-10",
       "owner": "staff",
       "description": "Advertise the vacant Commissioner Appointee seat on the Juvenile Crime Prevention Council for public appointment.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "safety",
         "governance"
       ],
-      "relatedMeetingId": "2025-02-10"
+      "relatedMeetingId": "2025-02-10",
+      "lastReferencedMeetingId": "2026-02-09",
+      "resolvedDate": "2026-02-09",
+      "resolvedMeetingId": "2026-02-09",
+      "resolution": "After a recent advertisement, the Board appointed Leah Bush to a Commissioner Appointee vacancy on the Juvenile Crime Prevention Council."
     },
     {
       "id": "2025-02-10-fu-3",

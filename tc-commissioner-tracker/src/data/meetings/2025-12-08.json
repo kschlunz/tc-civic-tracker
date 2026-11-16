@@ -1,0 +1,734 @@
+{
+  "id": "2025-12-08",
+  "date": "2025-12-08",
+  "type": "regular",
+  "title": "Commissioners' Meeting 12/08/25",
+  "time": "4:00 PM",
+  "duration": "3 hours 5 minutes",
+  "audienceSize": 60,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "At its annual organizational meeting the Board elected Teresa McCall as Chair and Larry Chapman as Vice-Chair, approved officials' surety bonds and readopted its Code of Ethics. It voted unanimously to pursue a new French Broad River watershed designation to support a future Rosman water intake, approved a revised Memorandum of Understanding with the Town of Rosman on grant-funded water and sewer projects, and accepted a $62 million state school construction grant that commits the County to a $9.3 million match. The Board also adopted a resolution supporting a mobile opioid treatment unit and made several advisory board appointments. It heard the Manager's end-of-year review, a RenewNC Helene housing program presentation, a Helene recovery update, the Veterans Service Office annual report and the monthly capital update.",
+  "keyVotes": [
+    {
+      "description": "Approved minutes of the October 13 and November 10, 2025 regular meetings",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Approving minutes is the first order of business at the December organizational meeting. The October 27 and November 24 meetings had been canceled.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Elected Teresa McCall as Chair of the Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Under N.C.G.S. § 153A-39 the Board elects its officers at the organizational meeting. The Clerk opened nominations and Commissioner Chappell nominated Commissioner McCall; there were no other nominations.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Elected Larry Chapman as Vice-Chair of the Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Chairwoman McCall called for nominations for Vice-Chair and nominated Commissioner Chapman. There were no other nominations.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved public official surety bonds (Resolution #55-2025)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "State law requires certain officials to be bonded to protect the County against wrongdoing. The bonds, all with Liberty Mutual, are $1,000,000 for the Finance Director, $200,000 each for the Tax Administrator and County Manager, $50,000 each for the Register of Deeds, Accountant and Finance Specialist, and $25,000 for the Sheriff.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Readopted the Board of Commissioners' Code of Ethics",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "N.C.G.S. § 160A-86 requires local governing boards to adopt a Code of Ethics. The Board last approved its code on December 9, 2024, and staff requested annual reapproval.",
+      "discussion": "",
+      "page": 3
+    },
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications from the Board or staff.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Approved the consent agenda, including cancellation of the December 22 meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "dalton",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the following items:\n- Canceling the December 22, 2025 meeting.\n- The November 2025 tax discovery, release and settlement report (releases $1,636.32, refunds $789.33).\n- A resolution allowing retiring Sheriff's Office Lieutenant Trevor Queen to buy his service handgun for $1.00.\n- A proclamation naming December 13, 2025 National Wreaths Across America Day.\n- Donating a surplus oak display table to the Veterans History Museum of the Carolinas.\n- Removing former Planning Director Jeffrey Adams as a Review Officer.\n- Receipt of Vaya Health's FY 2026 Q1 fiscal monitoring report.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Appointed Vanessa Cole to the Abandoned Cemeteries Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Longtime member and Chair Jill Chapman is resigning at the end of the year. The Abandoned Cemeteries Board recommended Vanessa Cole to fill the vacancy effective January 1, 2026.",
+      "discussion": "",
+      "page": 18
+    },
+    {
+      "description": "Appointed Vanessa Cole as Chair of the Abandoned Cemeteries Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The board's bylaws provide that the Board of Commissioners appoints its Chair. The Abandoned Cemeteries Board recommended that Ms. Cole serve in that role.",
+      "discussion": "",
+      "page": 18
+    },
+    {
+      "description": "Reappointed Thomas Fuller and Christina Mahoney to the Board of Health",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Four Board of Health terms expire December 31, 2025, and Public Health Director Elaine Russell recommended reappointing Fuller and Mahoney. Ben Lamm is not eligible for reappointment and PJ Boatwright declined; those seats and an existing physician vacancy will be advertised.",
+      "discussion": "",
+      "page": 18
+    },
+    {
+      "description": "Appointed Gilly Pearson to the Brevard Board of Adjustment and Appeal",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Because of the City's extraterritorial jurisdiction, the County appoints two members and one alternate to this board. Only one County seat was filled, and advertising the vacancies drew one application.",
+      "discussion": "",
+      "page": 18
+    },
+    {
+      "description": "Reappointed Alan Mercaldo to the Brevard Planning and Zoning Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Mr. Mercaldo's term expires at year end; he is eligible and willing to serve again. The City of Brevard Planning Department recommended his reappointment.",
+      "discussion": "",
+      "page": 18
+    },
+    {
+      "description": "Authorized High Country Engineering and staff to request a new French Broad River watershed for a future Rosman water intake",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The County Manager and Michael Goforth of High Country Engineering presented a proposed watershed study for Rosman, which plans to move from wells to a surface water supply. The watershed would cover about 43,500 acres north of Rosman, of which more than 65% is state and federal land, and would be classified WS-IV with existing landowners grandfathered. The state process is expected to take three to four years; the estimated withdrawal limit is 6.5–7 million gallons per day, and the Manager said the study is a $300,000 investment.",
+      "discussion": "Commissioners asked about the effect on the area and on the plan:\n- Dalton asked about an existing upstream business on the West Fork and was told it would be grandfathered and outside the critical area.\n- Dalton asked whether tourism, recreation and agriculture would be affected; Mr. Goforth said they would not.\n- Dalton asked how many people a 7 MGD intake could serve; the Manager said the 2014 study showed it would meet demand for 40–50 years.\n- Chapman asked whether a Wild and Scenic River designation would affect the process; Mr. Goforth said it would not.\n- Chappell asked about later reclassification from the WS-V placeholder designation.\n- McCall asked whether a dam could still be built; Mr. Goforth said other laws would likely restrict one.\n- Chapman asked about Rosman's involvement; Mr. Goforth said the Town is aware and interested in partnering.",
+      "page": 23
+    },
+    {
+      "description": "Approved the Memorandum of Understanding with the Town of Rosman on grant-funded water and sewer projects",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The item had been tabled at the prior meeting. The approved version includes a 20-year depreciation schedule: if the Town sells the system to a private entity, it would return the remaining depreciated value to the County. It also requires the Town to adopt the watershed protections or repay County-allocated wastewater funds, covering roughly $3.9 million in wastewater infrastructure in addition to about $5 million already transferred.",
+      "discussion": "Chapman asked whether the Local Government Commission would be involved in a sale to a private entity. The Manager said she was unsure but that multiple state approvals would be required. County Attorney Bill Bulfer stated the agreement adequately protects the County's interests.",
+      "page": 24
+    },
+    {
+      "description": "Accepted $62 million Needs-Based Public School Capital Fund grant and committed $9.3 million County match",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "NCDPI awarded Transylvania County Schools $62 million to replace the Brevard High School CTE wing and EC classrooms and to co-locate Davidson River School on the BHS campus. The Chairman or Manager may sign the grant agreement if its language does not materially change and the Board of Education also approves. The County commits $9.3 million in match, of which $138,169.51 has already been spent on preplanning, funded from Education Capital Fund balances, future bond issuances and project savings.",
+      "discussion": "Chapman asked whether project plans need state approval before funds are released. The Manager said the grant already specifies uses and plans will go to NCDPI for review. McCall asked whether new construction follows different rules than renovation; the Manager said it does and requires significant Board of Education involvement. McCall also asked about the groundbreaking timeline; the Manager said the grant requires a start within two years, with planning assuming up to four years.",
+      "page": 26
+    },
+    {
+      "description": "Allowed Little River Community Center to redirect grant funds to about $3,000 in emergency tree removal",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The center asked to use last year's Community Center Grant 2 funds, originally for playground clean-up, toward emergency removal of an oak uprooted by a windstorm that damaged vehicles. The removal cost about $3,000, with a $500 credit. The minutes record the motion as seconded by Commissioners Chappell and McKelvey.",
+      "discussion": "",
+      "page": 26
+    },
+    {
+      "description": "Adopted resolution supporting a mobile opioid and substance use disorder treatment unit (Resolution #56-2025)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "CARE Coalition Program Coordinator Kristen Gentry presented a mobile treatment unit funded through Vaya Health, which received NCDHHS funding and contracted with Behavioral Health Group. The program uses no County funds or opioid settlement dollars. The unit is expected to deploy in spring 2026 and to provide quarterly local outcome data.",
+      "discussion": "Chappell asked how residents would learn about the service and praised the nontraditional approach. Chapman asked whether the program operates elsewhere and whether opioid issues are rising or falling. Dalton asked whether the 75-mile radius is measured as the crow flies, and confirmed no settlement funds are used. McCall said the Board of Health stressed rotating locations and required data collection provisions, and expressed support.",
+      "page": 28
+    },
+    {
+      "description": "Adjourned the meeting at 7:05 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 30
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Called the end-of-year report impressive and said the grant funding secured was remarkable for a county of about 36,000 residents, commending Superintendent Dr. Fletcher for her leadership on the $62 million school grant.",
+          "categories": [
+            "fiscal",
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether pursuing a Wild and Scenic River designation would affect the proposed watershed process.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked about the Town of Rosman's involvement in the watershed effort.",
+          "categories": [
+            "infrastructure",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked whether the Local Government Commission would be involved if Rosman sold its water and sewer system to a private entity.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether school project plans must be approved by the State before grant funding is released.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked whether the mobile opioid treatment program operates elsewhere.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked whether opioid-related issues in the county are increasing, decreasing or holding steady.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked how close the county is to returning to Tier 3 status.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Encouraged Commissioners to share updates with one another about the meetings they attend.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Brevard/Transylvania County Ecusta Trail Advisory Board",
+        "NCACC Steering Committee (Justice and Public Safety)",
+        "NCACC District 16 Director",
+        "TC Tourism Development Authority"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Said the end-of-year report could be mistaken for a four-year review and encouraged residents to review the highlights.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether a WS-V placeholder watershed would later be reclassified once funding for an intake becomes available.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked how individuals would learn about the mobile treatment service and called the program an exciting opportunity to reach people who need services.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Observed that Henderson and Buncombe counties are now classified as economically distressed.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Thanked the Board for the opportunity to serve as Chair for many years and congratulated the new Chair and Vice-Chair.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Foreign Trade Zone Advisory Team",
+        "Joint School Bond Project Committee",
+        "Land of Sky Regional Council (primary member, Executive Committee)",
+        "Work First Planning Committee"
+      ]
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked how the proposed watershed would affect a long-standing business on the West Fork of the French Broad, and said he did not want the designation to harm a long-standing local employer.",
+          "categories": [
+            "environment",
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked whether tourism, recreation and agricultural uses such as cattle operations would be affected by the watershed classification.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked how many people a 7 million gallons-per-day intake could serve.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether the mobile unit's 75-mile service radius is measured as the crow flies.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Reiterated that no opioid settlement funds are being used for the mobile treatment program.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Juvenile Crime Prevention Council",
+        "NCACC Steering Committee (Tax and Finance)",
+        "Transylvania Economic Alliance Board of Directors"
+      ]
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Supported sharing the end-of-year presentation on the County website, saying it shows the substantial work done by county staff despite claims that little is being accomplished.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the watershed designation or Wild and Scenic status would prevent construction of a dam if one were ever needed.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether new school construction follows different rules than renovation projects.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked about the timeline for breaking ground on the grant-funded school project.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said the Board of Health had stressed rotating mobile unit locations and added data collection requirements, and expressed support for the program because it frees opioid settlement funds for other priorities.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Thanked Commissioner Chappell for his leadership as Chair.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "Board of Health",
+        "NCACC Steering Committee (Tax and Finance)",
+        "Social Services Board",
+        "Vaya Health County Commissioner Advisory Council"
+      ]
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": [
+        "Joint School Bond Project Committee",
+        "Land of Sky Regional Council (secondary member)",
+        "Land of Sky Rural Planning Organization",
+        "Personnel Board",
+        "Transylvania Economic Alliance Board of Directors (alternate)"
+      ]
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "John Koury",
+      "summary": "Speaking for the TC 250 Committee, gave an update on local America 250 activities. These included a $10,000 NC 250 grant, a poetry contest, a historical garden and Constitution Week programs, along with planned events such as July 4th participation, an Edenton Tea Party revival, a flower trail and a \"Patriot Pints\" program."
+    },
+    {
+      "speaker": "John Shoemaker",
+      "summary": "Described the Wreaths Across America program and invited the Board and public to a December 13 noon ceremony at Lake Toxaway Baptist Church recognizing 59 veterans. Rosman ROTC cadets and T.C. Henderson Elementary students will participate."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Spoke about the nation's upcoming 250th anniversary and Christmas, reflecting on the connection between the nation's founding and Christian principles with reference to John Quincy Adams. He wished attendees a Merry Christmas."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-12-08-fu-1",
+      "dateRaised": "2025-12-08",
+      "owner": "Trisha Hogan",
+      "description": "Place the annual review of County Commissioner board and committee appointments on a January agenda for formal action.",
+      "status": "resolved",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-12-08",
+      "lastReferencedMeetingId": "2026-01-12",
+      "resolvedDate": "2026-01-12",
+      "resolvedMeetingId": "2026-01-12",
+      "resolution": "The Board conducted its annual review of Commissioner board and committee appointments; no changes were requested and all Commissioners continue in their existing roles."
+    },
+    {
+      "id": "2025-12-08-fu-2",
+      "dateRaised": "2025-12-08",
+      "owner": "Trisha Hogan",
+      "description": "Advertise the Board of Health vacancies left by Ben Lamm and PJ Boatwright, along with the existing Physician vacancy.",
+      "status": "open",
+      "categories": [
+        "health",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-12-08"
+    },
+    {
+      "id": "2025-12-08-fu-3",
+      "dateRaised": "2025-12-08",
+      "owner": "Jaime Laughter",
+      "description": "Follow up with the Town of Rosman Board of Aldermen on the approved Memorandum of Understanding for grant-funded water and sewer projects.",
+      "status": "in_progress",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-12-08",
+      "lastReferencedMeetingId": "2026-05-26",
+      "resolution": "Staff notified the Town of Rosman that the County has allocated funding for the Calvert Road water and sewer project and is awaiting confirmation of remaining funds before moving forward with the memorandum of understanding."
+    },
+    {
+      "id": "2025-12-08-fu-4",
+      "dateRaised": "2025-12-08",
+      "owner": "staff",
+      "description": "Hold the scoping meeting with NCDEQ on the proposed French Broad watershed in the first quarter of 2026 and provide ongoing updates to the Board throughout the process.",
+      "status": "in_progress",
+      "categories": [
+        "environment",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-12-08",
+      "lastReferencedMeetingId": "2026-07-13",
+      "resolution": "The Manager reported that engineering for the Upper Transylvania Watershed Study is underway and that the next phase is a State scoping meeting."
+    },
+    {
+      "id": "2025-12-08-fu-5",
+      "dateRaised": "2025-12-08",
+      "owner": "Mike Pesant",
+      "description": "Return in 2026 to present details on additional RenewNC Helene recovery programs as they open.",
+      "status": "open",
+      "categories": [
+        "recovery",
+        "housing"
+      ],
+      "relatedMeetingId": "2025-12-08"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-12-08%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-12-08%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5563350",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:07:39.337Z",
+    "warnings": [
+      "Check — followUpUpdates[2025-11-10-fu-2]: Marked resolved, but the commitment also required confirming with the engineer whether the watershed boundaries could avoid the Town-annexed parcel. The minutes show the MOU coming back with the watershed presentation, but they never mention that confirmation or the annexed parcel. Consider in_progress, or a human check that the condition was met. (minutes: \"The Board revisited this item, which had been tabled at the previous meeting, to allow for additional information following the watershed presentation.\" (p. 23); there is no reference to the annexed parcel on pp. 19–24.)",
+      "Check — keyVotes[16].discussion: The draft says Dalton \"confirmed no settlement funds are used\". In the minutes Dalton only reiterated the point; it was staff who confirmed it. Wording such as \"Dalton reiterated that no settlement funds are used, which staff confirmed\" would match the minutes. (minutes: \"Commissioner Dalton reiterated that no opioid settlement funds are being used for this program. Staff confirmed that the program is funded through a separate funding source\" (p. 27))"
+    ]
+  }
+}

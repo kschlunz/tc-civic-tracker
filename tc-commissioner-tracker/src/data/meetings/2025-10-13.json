@@ -480,24 +480,28 @@
       "dateRaised": "2025-10-13",
       "owner": "staff",
       "description": "Bring the final courthouse design back to the Board for review.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "infrastructure",
         "safety"
       ],
-      "relatedMeetingId": "2025-10-13"
+      "relatedMeetingId": "2025-10-13",
+      "lastReferencedMeetingId": "2026-06-22",
+      "resolution": "Sizemore Architects is finalizing courthouse construction drawings and staff review is underway."
     },
     {
       "id": "2025-10-13-fu-2",
       "dateRaised": "2025-10-13",
       "owner": "Jaime Laughter",
       "description": "Begin financing discussions with the Local Government Commission for the new courthouse while design work continues.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "fiscal",
         "infrastructure"
       ],
-      "relatedMeetingId": "2025-10-13"
+      "relatedMeetingId": "2025-10-13",
+      "lastReferencedMeetingId": "2026-08-24",
+      "resolution": "The Finance Director reported the County is preparing for the limited obligation bond process with the Local Government Commission and others, with courthouse financing scheduled for December 1, 2026."
     },
     {
       "id": "2025-10-13-fu-3",
@@ -526,12 +530,14 @@
       "dateRaised": "2025-10-13",
       "owner": "Jaime Laughter",
       "description": "Forward the approved MOU terms to the City of Brevard and the Town of Rosman for adoption, and submit them to the grantor for approval, including the grant amendment for the Brevard housing infrastructure projects.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "infrastructure",
         "housing"
       ],
-      "relatedMeetingId": "2025-10-13"
+      "relatedMeetingId": "2025-10-13",
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolution": "The Board approved a revised Rosman MOU addressing the Town's negotiation points. The Manager will follow up with the Town Board of Aldermen."
     },
     {
       "id": "2025-10-13-fu-6",

@@ -1,0 +1,334 @@
+{
+  "id": "2026-01-12",
+  "date": "2026-01-12",
+  "type": "regular",
+  "title": "Commissioners' Meeting 01/12/26",
+  "time": "4:00 PM",
+  "duration": "1 hour 2 minutes",
+  "audienceSize": 25,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board unanimously approved the consent agenda, which added $50,000 to the donor-funded Library Amphitheater canopy budget and $200,000 for new courthouse surveys and geotechnical work. It also acknowledged the City of Brevard's $1,155,901 fire engine build contract, approved fire department requests to use old fire district reserve funds, agreed to manage the $62 million grant-funded Brevard High School construction project, and approved FY 2025 audit and FY 2026 second-quarter budget amendments. The Manager gave a Hurricane Helene recovery update noting continued FEMA delays, and the Board kept all Commissioner board appointments unchanged. Three residents spoke during public comment, including two candidates for County Commissioner and one resident concerned about property tax appeals.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": null,
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications from Commissioners or staff. The minutes record the motion as seconded by Commissioners Chapman and Chappell simultaneously.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved consent agenda, including $50,000 Library Amphitheater budget increase and $200,000 for courthouse surveys and geotechnical exploration",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda approved the December 8, 2025 minutes and allowed the court system to use the Commissioners' Chambers on several days in February and March while the Election Center is unavailable during the primary election. It also approved a revised Library Amphitheater canopy budget, which is fully funded by the Library Foundation ($710,000 provided) and rose by $50,000 because of finalized construction costs and site testing. It further approved an additional $200,000 from assigned fund balance for an environmental site assessment and geotechnical exploration for the new courthouse.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Acknowledged City of Brevard's $1,155,901 fire engine build contract with Atlantic Coast Fire Trucks to lock in price",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "During the FY 2026 budget process the Board reviewed joint debt service for a new Brevard fire engine estimated at $1 million, with payments starting in 2029. Because the City had not signed a contract earlier in 2025, the manufacturer issued a new price of $1,155,901, and City officials said signing now would avoid a possible increase to $1.2 million. Staff said the County is not a party to the contract but funds Brevard for fire protection in Sylvan Valley II, the engine replaces one already out of service, and existing debt rolling off in 2029 would cover future payments.",
+      "discussion": "",
+      "page": 6
+    },
+    {
+      "description": "Approved fire department requests to use reserve funds from the former fire district tax system",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "A countywide fire tax took effect July 1, 2025, so individual fire districts no longer collect excess fire taxes into separate reserves. Connestee, Lake Toxaway, Little River and North Transylvania Fire Departments formally requested to use existing reserves for items such as physical exams, exercise equipment, building and parking lot repairs, equipment, wildfire response improvements and sleeping quarters upgrades. The Fire Marshal noted that Balsam Grove's balance will be adjusted for previously approved architectural services.",
+      "discussion": "Board members asked which departments had submitted requests and how the funds would be processed. Staff explained that a budget amendment would be prepared to distribute the funds, which are tracked separately from the general fund.",
+      "page": 6
+    },
+    {
+      "description": "Accepted management of $62 million grant-funded Brevard High School construction project and authorized Manager to negotiate contracts",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Under a February 2025 interlocal agreement, the County manages school bond-funded capital projects and the School System may request management of others. The Board of Education asked the County to manage the new Brevard High School construction project funded by a $62 million Needs-Based Public School Capital Fund grant with a required County match. The Manager and Superintendent agreed to amend existing architectural and construction management contracts, as the grant requires the project to move forward within two years.",
+      "discussion": "Commissioners expressed appreciation for the collaboration between the County Manager and the Superintendent. The Manager noted the County is now managing more than $100 million in capital grant-funded projects within an overall $200 million capital program.",
+      "page": 7
+    },
+    {
+      "description": "Received budget changes report through December 31, 2025 and approved FY 2025 audit and FY 2026 2nd quarter budget amendments",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented amendments requiring Board approval. FY 2025 items included recording school bond payments ($2,330,000 principal and $879,953.65 interest), consolidating Helene revenues and expenses in the Disaster Response Fund (only $79,393 in FEMA reimbursements received to date), and year-end transfers including $2,350,110.88 to the Education Capital Fund. FY 2026 items included $239,272 in SAMHSA grant funds for the CARE Coalition STOP Project, $469,363 in Dogwood Health Trust regional health funds, and $140,862.84 from the Sheriff's law enforcement agreement with the City of Brevard.",
+      "discussion": "",
+      "page": 9
+    },
+    {
+      "description": "Adjourned the meeting at 5:04 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Motion to adjourn after all business was completed.",
+      "discussion": "",
+      "page": 10
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Thanked outgoing citizen advisory board volunteers and encouraged residents to watch the County website and local newspaper for board and committee openings.",
+          "categories": [
+            "community",
+            "governance"
+          ]
+        },
+        {
+          "text": "Led the annual review of Commissioner appointments to local, regional and statewide boards, with no changes requested.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Raised concerns about the lack of communication on eligibility for waterway debris removal at his property.",
+          "categories": [
+            "recovery"
+          ]
+        },
+        {
+          "text": "Shared positive feedback from a local business owner and builder praising Building Inspections staff.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Responded to Hannah Bowers' public comment, saying he was unsure what the Tax Office could legally do about her request but was confident the County complied with legal requirements.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Reported from the Council on Aging that the lack of adult daycare services remains a major concern and that options to reestablish them are being explored.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked about the status of the County audit.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that a House Select Committee would meet the next day to gather information on property tax issues without planning to take action.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "County Council on Aging"
+      ]
+    },
+    "chappell": {
+      "topics": [],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "George Sutherland",
+      "summary": "Introduced himself as a candidate for County Commissioner, described his 20 years in the County, his professional background and his volunteer work since retirement, and expressed his hope to serve if elected."
+    },
+    {
+      "speaker": "Hannah Bowers",
+      "summary": "Raised concerns about property taxes and affordable housing, and said her suggestion to County Tax staff that appeal applicants receive comparable sales data before hearings, as done in other North Carolina counties, was dismissed; she asked that her concerns be entered into the record."
+    },
+    {
+      "speaker": "Owen Carson",
+      "summary": "Introduced himself as a Democratic candidate for County Commissioner, described his background in ecology and environmental planning, and spoke about affordability, wages and economic opportunity and the need for collaborative, transparent leadership."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-01-12-fu-1",
+      "dateRaised": "2026-01-12",
+      "owner": "chapman",
+      "description": "Attend the January 13, 2026 Joint Historic Preservation Commission public hearing on the Elizur and Ann Patton House National Register nomination and share a summary with the Board.",
+      "status": "open",
+      "categories": [
+        "community",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-01-12"
+    },
+    {
+      "id": "2026-01-12-fu-2",
+      "dateRaised": "2026-01-12",
+      "owner": "Jaime Laughter",
+      "description": "Present mid-year and end-of-calendar-year financial reports in February and implement changes to the budget process intended to improve transparency.",
+      "status": "in_progress",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-01-12",
+      "lastReferencedMeetingId": "2026-02-09",
+      "resolution": "The Finance Director presented the FY 2026 second quarter financial summary through December 31, 2025. The Manager outlined a FY 2027 budget process with monthly updates intended to increase transparency."
+    },
+    {
+      "id": "2026-01-12-fu-3",
+      "dateRaised": "2026-01-12",
+      "owner": "staff",
+      "description": "Meet with FEMA Community Liaison Traci Metz regarding delays in private property debris removal and waterway cleanup reviews.",
+      "status": "open",
+      "categories": [
+        "recovery"
+      ],
+      "relatedMeetingId": "2026-01-12"
+    },
+    {
+      "id": "2026-01-12-fu-4",
+      "dateRaised": "2026-01-12",
+      "owner": "chapman",
+      "description": "Share more information on efforts by the Council on Aging to reestablish adult daycare services as it becomes available.",
+      "status": "open",
+      "categories": [
+        "health"
+      ],
+      "relatedMeetingId": "2026-01-12"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-01-12%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-01-12%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5644226",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:09:05.600Z",
+    "warnings": [
+      "Check — commissionerActivity[chapman].externalRoles: The minutes say Chapman shared an update from a Council on Aging meeting. They do not say he holds a role on or represents the Council, so listing it as an external role is an inference. (minutes: \"Commissioner Chapman shared an update from the County Council on Aging meeting\" (p. 9))",
+      "Check — newFollowUps[3].owner: The commitment to share more information on adult daycare is stated passively and not attributed to Chapman. It may refer to the Council on Aging, so it is unclear whether Chapman is the owner or whether this is a checkable commitment at all. (minutes: \"This remains a priority, and more information will be shared as it becomes available.\" (p. 10))",
+      "Check — newFollowUps[2].description: The minutes say only that staff plan to meet soon with the FEMA liaison. They do not state the purpose of the meeting, so describing it as about delays in debris removal and waterway reviews is inferred from the surrounding text. (minutes: \"County staff plan to meet soon with FEMA Community Liaison Traci Metz. While communication with FEMA staff has been constructive, delays continue...\" (p. 4))",
+      "Check — newFollowUps[1].owner: The minutes do not say who will present the February reports. The owner \"Jaime Laughter\" is inferred from the passive wording. (minutes: \"Mid-year and end-of-calendar-year reports will be presented in February.\" (p. 9))"
+    ]
+  }
+}

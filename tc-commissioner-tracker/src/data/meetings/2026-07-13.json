@@ -1,0 +1,724 @@
+{
+  "id": "2026-07-13",
+  "date": "2026-07-13",
+  "type": "regular",
+  "title": "Commissioners' Meeting 07/13/26",
+  "time": "4:00 PM",
+  "duration": "2 hours 22 minutes",
+  "audienceSize": 50,
+  "attendees": [
+    "chapman",
+    "chappell",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "Representative Anna Ferguson told the Board that three local water and sewer projects affected by a State funding error will remain fully funded, and the County Manager gave a detailed presentation on the County's infrastructure grants. The Board authorized the Manager to reallocate DEQ At-Risk grant funds among projects and accept new funding. The Board also approved a consent agenda that included a sole-source resolution for courthouse systems and the cancellation of the September 14 meeting, extended the Allies 4 Outcomes child welfare staffing contract through June 30, 2027, approved the FY 2026 audit contract and a multi-year ThreatLocker cybersecurity agreement, accepted the 2025 tax settlement report, and made several board appointments. Staff also gave updates on landfill erosion violations and Hurricane Helene recovery.",
+  "keyVotes": [
+    {
+      "description": "Approve agenda modifications (add Landfill Erosion Control Update; move Helene update)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "The County Manager asked to add a Landfill Erosion Control Update as Item B under Presentations/Recognitions and to move the Hurricane/Tropical Storm Helene update to Item C.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approve the agenda as modified",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Approval of the meeting agenda after the modifications requested by the County Manager.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approve consent agenda, including courthouse sole-source resolution and cancellation of the September 14 meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "The consent agenda approved the June 22, 2026 minutes and the Tax Administrator's Discovery, Release and Monthly Settlement Report for June 23-30, 2026 (releases of $312.16 and refunds of $1,153.69). It adopted Resolution #28-2026 declaring seven vendors, including Johnson Controls, Carrier and Suprema, sole-source providers for courthouse systems. It also approved the Clerk of Superior Court's request to use the Commissioners' Chambers for family court on September 14, 2026, cancelling that regular meeting, and approved out-of-state travel for Health Department staff to a national reentry conference required by the federal COSSUP grant.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Appoint Vice-Chair Larry Chapman as voting delegate to the NCACC Annual Conference",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "The Board needed to name a voting delegate for the NCACC Annual Conference Business Session in Durham County on August 22, 2026.",
+      "discussion": "",
+      "page": 7
+    },
+    {
+      "description": "Appoint Chairwoman Teresa McCall as alternate NCACC voting delegate",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "The Board needed to name an alternate voting delegate for the NCACC Annual Conference Business Session on August 22, 2026.",
+      "discussion": "",
+      "page": 7
+    },
+    {
+      "description": "Appoint Samantha Salyards to the Juvenile Crime Prevention Council",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": null,
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "The Board filled one of two Commissioner-appointed vacancies on the Council to maintain the membership state law requires for continued juvenile justice funding. The minutes record that Commissioners Chapman and McKelvey seconded simultaneously.",
+      "discussion": "",
+      "page": 7
+    },
+    {
+      "description": "Reappoint Dr. Ben Lamm to the Nursing and Adult Care Home Advisory Committee",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Dr. Lamm's term had expired. Regional Ombudsman Donna Case recommended his reappointment.",
+      "discussion": "",
+      "page": 7
+    },
+    {
+      "description": "Appoint Mark Emory to the Personnel Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": null,
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "The appointment fills one of several Personnel Board vacancies as the County prepares for its salary and compensation study. HR Director Sheila Cozart recommended Mr. Emory for a member-at-large seat based on his human resources experience. The minutes record that Commissioners Chapman and Chappell both seconded.",
+      "discussion": "",
+      "page": 8
+    },
+    {
+      "description": "Reappoint Steve Warner to the Transylvania Economic Alliance Board of Directors",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Mr. Warner's term in the public member position had expired. Executive Director Burton Hodges recommended reappointing him for a full three-year term.",
+      "discussion": "",
+      "page": 8
+    },
+    {
+      "description": "Authorize revisions to DEQ At-Risk infrastructure grant allocations and delegate grant acceptance and MOU amendments to the County Manager",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "County Manager Jaime Laughter and engineer Michael Goforth reported that the draft State budget removed the $9.85 million Session Law 2023 allocation for the Brevard High School pump station and the Azalea Avenue and Calvert Road sewer extensions. They recommended removing the Leachate Pretreatment and Morris Road Stormwater projects from the roughly $7 million DEQ At-Risk grant and adding the Pisgah Labs sewer extension and the engineering and initial construction phases of the Brevard High School pump station, which would require two deadline extension requests. The motion also authorized the Manager to accept grant funds, execute grant documents and amend memoranda of understanding for new funding sources.",
+      "discussion": "Commissioner Chapman asked what it would cost if NCDEQ required both the leachate pretreatment facility and the Morris Road project; Mr. Goforth estimated about $750,000 and $450,000 for construction respectively. Chapman also asked whether Rosman could still be unable to treat leachate, and Goforth cited the Town's funded aerated equalization basin. Commissioner Chappell compared the situation to Brevard's improvements for Oskar Blues Brewery wastewater and said the County will have a long-term leachate responsibility regardless of future solid waste decisions.",
+      "page": 14
+    },
+    {
+      "description": "Approve consolidated NCACC legislative goals and Chairwoman McCall's cover letter",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Following discussion at the previous meeting, staff consolidated the goals into guiding principles. These include full State funding of mandated services, avoiding cost shifts to counties, local flexibility, accurate funding formulas, transparency for entities receiving taxpayer dollars, and tools for counties with unique characteristics.",
+      "discussion": "The Board made no modifications or additions.",
+      "page": 15
+    },
+    {
+      "description": "Carry forward $114,515.85 and extend the Allies 4 Outcomes child welfare staffing contract through June 30, 2027",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "DSS Director Amanda Vanderoef said the three-month contract approved in March (not to exceed $135,921) had incurred $16,605.14 through the June 15 invoice, with about $4,000 more expected. Foster Care staffing shortages continue. She asked to carry the remaining balance into FY 2027 and extend the contract so contract staff can be used as needed.",
+      "discussion": "Commissioner Chappell said child welfare recruiting challenges are likely to continue and asked why actual use was far below the authorized amount; Ms. Vanderoef said several of the four vacant positions had since been filled. The Manager noted caseload fluctuations and a 50% reimbursement of eligible state administrative costs. Chairwoman McCall asked about the contract term and the carryforward process. Commissioner McKelvey supported the request, noting less than 20% of the original amount had been used.",
+      "page": 16
+    },
+    {
+      "description": "Accept the 2025 Tax Settlement Report (99.76% county collection rate)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Tax Administrator Jessica McCall reported a 2025 county levy of $47,467,688.44, with $47,352,840.78 collected and $114,847.66 outstanding as of June 30, 2026. She also reported 164 active payment plans and about 10,000 delinquent taxpayer contacts.",
+      "discussion": "Commissioner Chappell commended the Tax Office for its taxpayer contacts and payment plans. Chairwoman McCall commended the collection rate.",
+      "page": 17
+    },
+    {
+      "description": "Approve the 2026 Order to Collect All Real and Personal Property Taxes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Under N.C.G.S. § 105-321, the Board must charge the Tax Collector with collecting the 2026 tax bills, authorizing all legal remedies including forced collection.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Approve FY 2026 audit contract with Martin Starnes & Associates (not to exceed $124,500) and associated budget amendment",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Finance Director Meagan O'Neal presented an $83,000 base audit fee, a 7% increase over FY 2025, plus grant testing and financial statement preparation fees, for a total not to exceed $124,500. She cited statewide cost increases and a shortage of qualified governmental audit firms, and said the firm is priced near the midpoint of comparable contracts.",
+      "discussion": "Commissioner Chapman said the price appeared fair and that delaying to seek new proposals could jeopardize retaining an auditor. Commissioner Chappell valued the firm's rotation of audit partners and said the auditor shortage should be brought to the General Assembly's attention. Ms. O'Neal said continuity is maintained through the firm's audit manager.",
+      "page": 18
+    },
+    {
+      "description": "Approve multi-year cybersecurity agreement with ThreatLocker, Inc.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "IT Director Nathanael Carver said the platform prevents unauthorized software from running on County computers. IT negotiated a 63% discount (about $215,000) from list price, and the agreement locks in pricing and replaces two existing programs. Funding is in the FY 2027 IT budget, and the County Attorney reviewed the agreement.",
+      "discussion": "Commissioner Chappell asked how often the County is attacked; Mr. Carver said there are 20 to 50 brute force attacks on employee email accounts each day. Commissioner McKelvey asked about the implementation timeline; Mr. Carver said onboarding had already begun.",
+      "page": 19
+    },
+    {
+      "description": "Adjourn the meeting at 6:22 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "chappell",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "chappell",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "dalton"
+        ]
+      },
+      "background": "Motion to adjourn after all business was concluded.",
+      "discussion": "",
+      "page": 21
+    }
+  ],
+  "commissionerActivity": {
+    "chapman": {
+      "topics": [
+        {
+          "text": "Reiterated that the State infrastructure funding issue was not the result of any error by Transylvania County.",
+          "categories": [
+            "infrastructure",
+            "governance"
+          ]
+        },
+        {
+          "text": "Noted that landfill Phase 7 will be the final cell at the current site because of environmental constraints and expansion costs, and said the Board will continue discussing long-term solid waste strategy.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Noted that his term on the NCACC Board of Directors expires in August and that nominations from District 16 will soon be sought.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked what it would cost if NCDEQ required both the leachate pretreatment facility and the Morris Road stormwater project.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether there remained a risk that Rosman could be unable to treat landfill leachate without additional improvements.",
+          "categories": [
+            "infrastructure",
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked whether the County had ever experienced grant clawbacks or compliance problems from failing to meet grant requirements.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Supported the audit contract as a fair market price and expressed concern that delaying to seek new proposals could jeopardize retaining an auditor.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Encouraged citizens to rely on factual County information rather than social media commentary, thanked staff and Representative Ferguson, and noted Senator Corbin's engagement.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": [
+        "NCACC Board of Directors"
+      ]
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Requested that staff post information on the County website directing residents to NCDEQ contacts for reporting erosion and sediment concerns.",
+          "categories": [
+            "environment",
+            "governance"
+          ]
+        },
+        {
+          "text": "Compared the Rosman leachate situation to the City of Brevard's improvements for Oskar Blues Brewery wastewater.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Emphasized that the County will have a long-term responsibility for managing landfill leachate regardless of future solid waste decisions.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether grant audits include reviews of drawdown requirements, and observed that outside monitoring adds oversight beyond internal procedures.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Said child welfare staffing shortages are statewide and likely to continue, and questioned the gap between the authorized and actual Allies 4 Outcomes spending.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Requested quarterly reports on the use of Allies 4 Outcomes contract services, including expenditures and utilization.",
+          "categories": [
+            "health",
+            "governance"
+          ]
+        },
+        {
+          "text": "Commended the Tax Office for its volume of taxpayer contacts and its work establishing payment plans.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported the auditor's periodic rotation of partners and said the shortage of governmental auditors should be raised with the General Assembly.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked how frequently the County experiences cyberattacks.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Thanked Representative Ferguson and Senator Corbin for their responsiveness on the infrastructure funding issue.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Encouraged consideration of flash flood notification systems similar to those in neighboring counties, possibly supported by state funding or partnerships.",
+          "categories": [
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mccall": {
+      "topics": [
+        {
+          "text": "Thanked Representative Ferguson for attending and for her assistance to the County.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked for clarification on the Allies 4 Outcomes contract term and the carryforward process.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Commended the Tax Office for its annual collection rate.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the Manager's presentation showed the County's grant management practices and the requirement that grant funds be kept separate from General Fund revenues, and said she believed it would help address misinformation.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Remarked that the County's record of clean audits reflects proper financial management and accountability.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Thanked staff, Representative Ferguson and Senator Corbin, and noted that supporting documentation and the project timeline are publicly available.",
+          "categories": [
+            "governance",
+            "infrastructure"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Supported the Allies 4 Outcomes extension, noting the department had used less than 20% of the authorized amount, and commended DSS staff.",
+          "categories": [
+            "health"
+          ]
+        },
+        {
+          "text": "Asked about the implementation timeline for the ThreatLocker cybersecurity platform.",
+          "categories": [
+            "safety"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Peter Offen",
+      "summary": "Expressed concern about State funding for the Azalea Avenue, Brevard High School pump station and Rosman water and sewer projects. Asked the County to work with Representative Ferguson on a clear public explanation of the $10 million reallocation and $4 million in Helene funding, to act more promptly on major and grant-funded projects, to create a public timeline, and to keep working with Brevard on Azalea Avenue needs."
+    },
+    {
+      "speaker": "Richard Williams",
+      "summary": "Declined to speak when recognized."
+    },
+    {
+      "speaker": "James Swope",
+      "summary": "Criticized what he described as repeated delays on the courthouse, school construction, employee compensation, public records requests and advisory board appointments. Urged more decisive action and said elected officials should be held accountable by voters."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Thanked Commissioners who took part in the July 4 community reading of the Declaration of Independence and spoke about founding principles, including his belief that individual rights come from God and that government's role is to protect them."
+    },
+    {
+      "speaker": "Owen Carson",
+      "summary": "Used a rumble strip analogy to urge proactive leadership on infrastructure funding, housing affordability, future County revenues and changing State policies, and to strengthen communication with legislators, municipalities and the public."
+    },
+    {
+      "speaker": "Owen Carson",
+      "summary": "In the second public comment period, questioned the extent of sediment discharged into Woodruff Branch described in the landfill NOV and referenced white, milky discharges dating to 2023. Suggested investigating upstream sources and strengthening the land disturbance ordinance's enforcement provisions. Also suggested exploring whether Brevard's wastewater plant could accept leachate and strengthening the flood damage prevention ordinance."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-07-13-fu-1",
+      "dateRaised": "2026-07-13",
+      "owner": "staff",
+      "description": "Post information on the County website directing residents to the appropriate NCDEQ contacts for reporting erosion and sediment concerns.",
+      "status": "open",
+      "categories": [
+        "environment",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-07-13"
+    },
+    {
+      "id": "2026-07-13-fu-2",
+      "dateRaised": "2026-07-13",
+      "owner": "Jaime Laughter",
+      "description": "Provide quarterly reports on use of the Allies 4 Outcomes child welfare staffing contract, including expenditures, utilization and number of cases served.",
+      "status": "open",
+      "categories": [
+        "health",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2026-07-13"
+    },
+    {
+      "id": "2026-07-13-fu-3",
+      "dateRaised": "2026-07-13",
+      "owner": "staff",
+      "description": "Submit two DEQ At-Risk grant extension requests beyond the December 31 deadline for the construction phases of the Pisgah Labs sewer extension and Brevard High School pump station projects.",
+      "status": "open",
+      "categories": [
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2026-07-13"
+    },
+    {
+      "id": "2026-07-13-fu-4",
+      "dateRaised": "2026-07-13",
+      "owner": "Jaime Laughter",
+      "description": "Finalize the memorandum of understanding for funding the Pisgah Labs sewer extension through the DEQ At-Risk Infrastructure Grant.",
+      "status": "open",
+      "categories": [
+        "infrastructure",
+        "econ"
+      ],
+      "relatedMeetingId": "2026-07-13"
+    },
+    {
+      "id": "2026-07-13-fu-5",
+      "dateRaised": "2026-07-13",
+      "owner": "staff",
+      "description": "Explore options to safely allow Proton Mail emails currently blocked by Microsoft's email security while maintaining cybersecurity protections.",
+      "status": "open",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2026-07-13"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-07-13%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-07-13%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/6043511",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:32:24.415Z",
+    "warnings": [
+      "Check — followUpUpdates[5] (2025-09-22-fu-4): Marked resolved, but the commitment also covered updating the Board once coordination with the City was complete. The minutes show Dogwood approved the modification, yet City coordination on Azalea Avenue is still ongoing: the MOU cannot be finalized until the funding source is determined. \"in_progress\" may be more accurate. (minutes: \"The agreement cannot be finalized until the final funding source is determined.\" (p. 12); \"Dogwood Health Trust approved a modification allowing those funds to be redirected\" (p. 10))",
+      "Check — followUpUpdates[8] (2026-06-22-fu-5): The item was to present Helene streambank restoration projects to the Board for approval. The minutes only report a grant award for streambank restoration administered by Soil and Water. They do not tie it to Helene or show any project brought to the Board, so the link to this follow-up is not clearly established. (minutes: \"$2.1 million for streambank restoration and debris removal projects to be administered by the Soil and Water Conservation District\" (p. 19))"
+    ]
+  }
+}

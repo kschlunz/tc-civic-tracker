@@ -4,7 +4,7 @@
   "type": "regular",
   "title": "Commissioners' Meeting 02/09/26",
   "time": "4:00 PM",
-  "duration": "3.5 hours",
+  "duration": "3 hours 34 minutes",
   "audienceSize": 30,
   "attendees": [
     "mccall",
@@ -13,14 +13,14 @@
     "dalton",
     "mckelvey"
   ],
-  "tldr": "Massive capital project update (~$200M in development), FY27 budget strategy session emphasizing no tax increase, Hurricane Helene recovery update, bookmobile generator funding, AV system upgrade, and cybersecurity pilot program. Owen Carson announced candidacy for commission and pushed for County Planner hire. Board recognized Clerk Trisha Hogan's Master Municipal Clerk designation.",
+  "tldr": "The Board approved a consent agenda that included a revised purchasing resolution, four-year Tourism Development Authority office and visitor center agreements, and an online GovDeals auction of three county-owned lots in Connestee Falls. It reappointed advisory board members and voted to send a letter seeking more virtual school days for weather-affected schools. It also approved $10,000 to replace the bookmobile generator, a $183,377.33 audiovisual upgrade for the Chambers, a no-cost state cybersecurity pilot, and changes to nonprofit grant funding. Commissioners heard updates on school capital projects, including the closure of the Rosman old gym, early FY 2027 budget guidance (about 2% revenue growth and no tax increase planned by the Manager), Hurricane Helene recovery and state advocacy priorities led by a new courthouse, and then met in closed session on an economic development project.",
   "keyVotes": [
     {
-      "description": "Letter to GA for additional virtual school days",
+      "description": "Approved the revised agenda",
       "result": "Unanimous",
       "passed": true,
       "consent": false,
-      "mover": "chappell",
+      "mover": "dalton",
       "seconder": "mckelvey",
       "votes": {
         "ayes": [
@@ -34,12 +34,35 @@
         "abstained": [],
         "absent": []
       },
-      "background": "Western North Carolina schools lost significant instructional days due to Hurricane Helene and severe weather. Commissioner Chappell presented a draft letter to the NC General Assembly requesting a waiver on virtual instructional day limits for affected WNC districts.",
-      "discussion": "Chappell emphasized the long-term legislative relationships that make this kind of advocacy effective. McKelvey expressed support noting the direct impact on Transylvania County families. No concerns were raised and the motion passed quickly.",
-      "page": null
+      "background": "The Manager asked to make three changes to the agenda. They added a Board presentation, added a letter of support on virtual school days under New Business, and added a closed session under N.C.G.S. § 143-318.11(a)(4) on the location or expansion of industries or businesses.",
+      "discussion": "",
+      "page": 2
     },
     {
-      "description": "$10,000 from contingency for bookmobile generator",
+      "description": "Approved the consent agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the January 12, 2026 minutes and the December 2025 tax release and refund report (releases $5,548.85, refunds $3,076.17). It also included an order to advertise 2025 delinquent tax liens, out-of-state travel to TylerConnect 2026, and a revised purchasing resolution restoring the $10,000 capitalization threshold and removing the expiration date. Other items were a resolution letting retiring officer Brian Barton buy his service sidearm for $1.00, notice of intent to donate an obsolete firearms simulator to Blue Ridge Community College, three four-year TDA office and visitor center agreements with the Chamber of Commerce, and a resolution authorizing a GovDeals electronic auction of three Connestee Falls lots from March 23 to April 22, 2026.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Reappointed James Cruickshank and Jackson Tate to the Board of Equalization and Review",
       "result": "Unanimous",
       "passed": true,
       "consent": false,
@@ -57,58 +80,12 @@
         "abstained": [],
         "absent": []
       },
-      "background": "The county's bookmobile needed a replacement generator to continue mobile library services. Library staff presented the request for $10,000 from the contingency fund to purchase and install the generator.",
-      "discussion": "McCall asked about the bookmobile's remaining lifespan and original funding source, encouraging staff to explore grants for an eventual full replacement. Chappell suggested adding Starlink connectivity to the bookmobile for emergency use during disasters.",
-      "page": null
+      "background": "Both members' terms expired at the end of January, and both were eligible and willing to serve again. One other application was on file. Tax Administrator Jessica McCall recommended reappointing them.",
+      "discussion": "",
+      "page": 16
     },
     {
-      "description": "Encore AV system contract $183,377",
-      "result": "Unanimous",
-      "passed": true,
-      "consent": false,
-      "mover": "chappell",
-      "seconder": "dalton",
-      "votes": {
-        "ayes": [
-          "mccall",
-          "chapman",
-          "chappell",
-          "dalton",
-          "mckelvey"
-        ],
-        "nays": [],
-        "abstained": [],
-        "absent": []
-      },
-      "background": "IT staff presented a proposal to upgrade the audio-visual system in the commissioners' meeting room. The Encore Technology Group contract totaled $183,377 and would modernize recording, streaming, and presentation capabilities.",
-      "discussion": "Chapman asked whether the AV equipment could be relocated to the historic courthouse if the board eventually moves chambers. Staff confirmed the system is designed to be modular. Chapman also asked about cybersecurity implications of the new system.",
-      "page": null
-    },
-    {
-      "description": "SecureNC cybersecurity pilot MOU",
-      "result": "Unanimous",
-      "passed": true,
-      "consent": false,
-      "mover": "chappell",
-      "seconder": "dalton",
-      "votes": {
-        "ayes": [
-          "mccall",
-          "chapman",
-          "chappell",
-          "dalton",
-          "mckelvey"
-        ],
-        "nays": [],
-        "abstained": [],
-        "absent": []
-      },
-      "background": "The NC Department of Information Technology presented the SecureNC pilot program, a state-funded cybersecurity initiative offering enhanced monitoring and incident response for participating counties at no cost during the pilot period.",
-      "discussion": "Chapman asked whether current county IT staffing is sufficient to support the pilot requirements. Staff confirmed the MOU does not require additional hires. Dalton emphasized the importance of regional security coordination and seconded the motion.",
-      "page": null
-    },
-    {
-      "description": "Nonprofit grant funding process changes",
+      "description": "Reappointed Herschel Johnson, Mike Privette and Wendy Warwick to a second term on the Planning Board",
       "result": "Unanimous",
       "passed": true,
       "consent": false,
@@ -126,16 +103,62 @@
         "abstained": [],
         "absent": []
       },
-      "background": "County staff proposed updates to the nonprofit grant funding process to improve accountability and outcome tracking. The changes would require SMART goals in grant applications and standardize reporting requirements.",
-      "discussion": "Chappell supported the SMART goals framework for better outcome tracking. McKelvey appreciated the increased transparency. No opposition was raised.",
-      "page": null
+      "background": "Their terms expired at the end of January, and they were eligible and willing to serve another term. Several other applications were on file.",
+      "discussion": "",
+      "page": 16
     },
     {
-      "description": "GovDeals contract for foreclosed property auction",
+      "description": "Appointed Leah Bush to a Commissioner Appointee vacancy on the Juvenile Crime Prevention Council",
       "result": "Unanimous",
       "passed": true,
-      "consent": true,
-      "mover": null,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "State law requires the Board to appoint JCPC members in order to receive juvenile court services funding. The Clerk received one application for the member-at-large seat after a recent advertisement. The JCPC consultant recommended Leah Bush.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Agreed to send a letter to the County's General Assembly delegation seeking additional virtual instructional days for schools affected by adverse weather",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Commissioner Chappell asked for the item after speaking with Superintendent Dr. Lisa Fletcher about recent winter weather. He said the General Assembly limits the number of virtual instructional days, and several Western North Carolina school systems have already used all of theirs.",
+      "discussion": "Chairwoman McCall agreed a letter was appropriate and said she supported greater local control over school calendars.",
+      "page": 17
+    },
+    {
+      "description": "Received the FY 2026 second quarter financial report",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
       "seconder": null,
       "votes": {
         "ayes": [
@@ -149,148 +172,405 @@
         "abstained": [],
         "absent": []
       },
-      "background": "A contract with GovDeals.com to manage online auctions of county-foreclosed properties. This was included in the consent agenda as a routine procurement item.",
-      "discussion": "No separate discussion — approved as part of the consent agenda.",
-      "page": null
+      "background": "Finance Director Meagan O'Neal reported for the period through December 31, 2025. General Fund revenue was about $41.6 million and expenditures $33.9 million, and the Solid Waste fund showed a net gain of about $243,570. She also said more than $10.9 million has been paid to vendors for school capital projects since August 2024. The minutes list Commissioner Chapman as both mover and seconder, so the seconder is unclear.",
+      "discussion": "Commissioners thanked the Manager, Finance Director and Project Manager for clear and transparent information.",
+      "page": 19
+    },
+    {
+      "description": "Approved changes to the nonprofit grant funding process for FY 2027, including $20,000 designated for housing programs",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented changes to the County's roughly $100,000 annual nonprofit grant program. The changes include an online application and $20,000 set aside for housing-related programs based on the housing study. They also emphasize direct services to residents, give priority to partnership applications, and encourage SMART goals.",
+      "discussion": "Chairwoman McCall said the review process is detailed and time-consuming and supported streamlining it while keeping careful review. Commissioner Chapman asked whether the Community Center grant program was affected and was told it is separate. Commissioner Chappell supported the changes, particularly the SMART goals.",
+      "page": 20
+    },
+    {
+      "description": "Appropriated $10,000 from General Fund contingency to replace the Library bookmobile generator",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Library Director Rishara Finsel said the bookmobile's failed generator cannot be repaired because parts are unavailable, and the vehicle cannot operate without it. A new generator costs slightly more than $16,000 before tax, and the Library can redirect about $6,000. The bookmobile served 3,618 patrons last fiscal year at about 58 stops per month.",
+      "discussion": "Commissioner Chappell supported the request and asked about adding Starlink to improve connectivity. Ms. Finsel said the vehicle uses a hotspot, and the Manager said deployable systems exist and permanent equipment could be explored. Chairwoman McCall asked about the vehicle's lifespan and how it was originally funded, and encouraged staff to explore grants for a future replacement.",
+      "page": 21
+    },
+    {
+      "description": "Approved a $183,377.33 contract with Encore to upgrade the audiovisual system in the Commissioners' Chambers",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "IT Director Nathanael Carver said the current system is 10 years old and has had multiple issues. The upgrade is meant to improve both in-person and online viewing, and the funds were already budgeted.",
+      "discussion": "Commissioner Dalton asked about ADA compliance; Mr. Carver said the system will add Bluetooth hearing assistance because the existing hearing loop suffers radio tower interference. Chairwoman McCall asked whether the contract amount was the final cost, and Mr. Carver confirmed that it was. Commissioner Chappell asked about the timeline; installation is planned between Board meetings. Commissioner Chapman asked whether the system could be moved to the historic courthouse; some components could be reused.",
+      "page": 24
+    },
+    {
+      "description": "Approved an MOU with the NC Department of Information Technology to join the no-cost SecureNC cybersecurity pilot",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "IT Director Nathanael Carver said NCDIT is offering its Tanium cybersecurity monitoring platform to Tier 1 and Tier 2 counties at no cost. The Manager noted that cybersecurity is a growing liability concern for local governments.",
+      "discussion": "Commissioner Chapman asked whether IT has sufficient staff to support the program, and Mr. Carver said it does.",
+      "page": 24
+    },
+    {
+      "description": "Entered closed session on the location or expansion of industries or businesses",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The closed session was held under N.C.G.S. § 143-318.11(a)(4) after a 10-minute recess. The Board received an update on a potential economic development project and directed staff on how to proceed.",
+      "discussion": "",
+      "page": 26
+    },
+    {
+      "description": "Left closed session",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion to return to open session.",
+      "discussion": "",
+      "page": 26
+    },
+    {
+      "description": "Sealed the closed session minutes",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chappell",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The minutes stay sealed until opening them would not frustrate the purpose of the closed session.",
+      "discussion": "",
+      "page": 26
+    },
+    {
+      "description": "Adjourned at 7:34 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Procedural motion to adjourn.",
+      "discussion": "",
+      "page": 26
     }
   ],
   "commissionerActivity": {
     "mccall": {
       "topics": [
         {
-          "text": "Pushed for ¼-cent sales tax referendum timing discussion",
+          "text": "Presented Clerk Trisha Hogan with her Master Municipal Clerk certificate and praised her leadership, organization and dedication.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the Rosman old gym structural issue would affect the retaining wall project.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Asked about the timeline for installing temporary shoring at the Rosman old gym.",
+          "categories": [
+            "schools",
+            "safety"
+          ]
+        },
+        {
+          "text": "Emphasized the need to discuss the timing of a potential sales tax referendum.",
           "categories": [
             "fiscal"
           ]
         },
         {
-          "text": "Asked about bookmobile lifespan and original funding; encouraged grant exploration for replacement",
-          "categories": [
-            "community"
-          ]
-        },
-        {
-          "text": "Confirmed vacant County Planner position will be filled",
-          "categories": [
-            "governance",
-            "housing"
-          ]
-        },
-        {
-          "text": "Supported organizing capital advocacy requests by category",
+          "text": "Praised staff for securing the landfill expansion grant and supported issuing clear budget guidance.",
           "categories": [
             "fiscal",
-            "infrastructure"
+            "environment"
           ]
         },
         {
-          "text": "Shared condolences for retired educator Kathy Haehnel",
+          "text": "Supported sending a letter on virtual school days and expressed support for greater local control over school calendars.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Said she has served on the nonprofit grant review committee and supported streamlining the process while keeping careful review of County funding.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about the bookmobile's expected lifespan and original funding, and encouraged staff to explore grants for a future replacement.",
           "categories": [
             "community"
           ]
         },
         {
-          "text": "Asked whether Rosman old gym issues affect retaining wall project",
+          "text": "Asked whether the advocacy request should be limited to the courthouse, suggested organizing requests by category, and suggested a round $40 million figure for the courthouse.",
           "categories": [
-            "schools"
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the legislature has recently shown interest in funding courthouse construction.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Suggested sharing the County's request list with a state legislator who is a part-time Transylvania County resident.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the Encore audiovisual contract amount was the final cost.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Said County staff are responsible for maintaining accurate information, and confirmed that the County position raised in public comment will be filled.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Shared condolences on the passing of former Pisgah Forest Elementary principal Kathy Haehnel.",
+          "categories": [
+            "community"
           ]
         }
       ],
       "externalRoles": [
-        "NCACC Tax & Finance Subcommittee"
+        "NCACC Tax and Finance Subcommittee"
       ]
     },
     "chapman": {
       "topics": [
         {
-          "text": "Raised concerns about committing to $36M courthouse estimate before final design/bidding",
+          "text": "Congratulated the Clerk on her recognition and reflected on 14 years of working together.",
           "categories": [
-            "fiscal",
-            "infrastructure"
+            "governance"
           ]
         },
         {
-          "text": "Noted property tax reform is growing national topic, cited NCACC meeting with Florida reps",
-          "categories": [
-            "fiscal"
-          ]
-        },
-        {
-          "text": "Asked about NCDPI review timelines for school capital projects",
+          "text": "Asked whether NCDPI was responding in a timely way or causing delays in school project reviews.",
           "categories": [
             "schools"
           ]
         },
         {
-          "text": "Asked if AV system could relocate to historic courthouse",
+          "text": "Observed that property tax reform is a growing national topic and questioned how counties would replace the revenue if states limited local authority.",
           "categories": [
-            "infrastructure",
-            "governance"
+            "fiscal"
           ]
         },
         {
-          "text": "Asked whether cybersecurity staffing is sufficient for SecureNC pilot",
+          "text": "Asked whether the nonprofit grant changes would apply to the Community Center grant program.",
           "categories": [
+            "fiscal",
+            "community"
+          ]
+        },
+        {
+          "text": "Expressed concern about relying on the $36 million courthouse estimate before final design and bidding, and stressed that the facility should meet long-term needs.",
+          "categories": [
+            "fiscal",
             "safety"
           ]
         },
         {
-          "text": "Promoted Veterans History Museum info and Rising Above Helene documentary screening",
+          "text": "Asked whether the new audiovisual system could be moved if meetings relocated to the historic courthouse.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the IT Department has enough staff to support the SecureNC program.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Reported on information from the Veterans History Museum of the Carolinas and announced a March 17 screening of the Rising Above Helene documentary at the Library.",
           "categories": [
             "community",
             "recovery"
           ]
         }
       ],
-      "externalRoles": [
-        "NCACC District Directors"
-      ]
+      "externalRoles": []
     },
     "chappell": {
       "topics": [
         {
-          "text": "Drove letter to GA advocating more virtual school days for weather-affected WNC districts",
+          "text": "Reflected on serving on the Clerk's original interview committee and described her as one of the most dedicated individuals in County government.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Thanked staff for the revised capital report and said showing percentage of completion within budgets improves oversight.",
           "categories": [
             "schools",
             "governance"
           ]
         },
         {
-          "text": "Supported SMART goals in nonprofit grant funding for outcome tracking",
-          "categories": [
-            "governance"
-          ]
-        },
-        {
-          "text": "Suggested adding Starlink to bookmobile for emergency connectivity",
-          "categories": [
-            "community",
-            "recovery"
-          ]
-        },
-        {
-          "text": "Cautioned public about social media misinformation re: county vs NCDOT responsibilities",
-          "categories": [
-            "governance"
-          ]
-        },
-        {
-          "text": "Credited long-term legislative relationships for county's grant success",
+          "text": "Recognized the County's General Assembly delegation for advocacy that has brought unprecedented funding.",
           "categories": [
             "fiscal"
           ]
         },
         {
-          "text": "Recommended prioritizing capital advocacy: courthouse first, then BRCC campus",
+          "text": "Requested the item on virtual school days after speaking with the Superintendent about weather-related challenges.",
           "categories": [
-            "infrastructure"
+            "schools"
           ]
         },
         {
-          "text": "Thanked staff for improved capital project reporting transparency",
+          "text": "Supported the nonprofit grant revisions, particularly the inclusion of SMART goals.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Supported the bookmobile request and asked whether Starlink could be added to improve connectivity during emergencies.",
+          "categories": [
+            "community",
+            "safety"
+          ]
+        },
+        {
+          "text": "Recommended prioritizing the advocacy list, with the courthouse first followed by a Blue Ridge Community College campus.",
+          "categories": [
+            "fiscal",
+            "econ"
+          ]
+        },
+        {
+          "text": "Asked about the expected completion timeline for the audiovisual upgrade.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Cautioned residents to evaluate information sources on social media, explaining that road snow removal falls under NCDOT and County employees cannot work on state roads.",
           "categories": [
             "governance",
-            "schools"
+            "infrastructure"
           ]
         }
       ],
@@ -299,94 +579,112 @@
     "dalton": {
       "topics": [
         {
-          "text": "Advocated differentiated tax rate on vacation/second homes like VA, TN, SC",
+          "text": "Acknowledged the Clerk's extensive behind-the-scenes work supporting the Board.",
           "categories": [
-            "fiscal",
-            "housing"
+            "governance"
           ]
         },
         {
-          "text": "Pushed for increased federal PILT funding — 2/3 of county land doesn't generate property tax",
-          "categories": [
-            "fiscal",
-            "environment"
-          ]
-        },
-        {
-          "text": "Supported parcel fee model for solid waste (like SC) as alternative to tipping fees",
-          "categories": [
-            "fiscal",
-            "environment"
-          ]
-        },
-        {
-          "text": "Asked about Solid Waste Study timeline",
-          "categories": [
-            "environment"
-          ]
-        },
-        {
-          "text": "Asked about structural cause of Rosman old gym issues — drainage + corrosion",
+          "text": "Asked whether the cause of the Rosman old gym structural issues was known and whether drainage was a factor.",
           "categories": [
             "schools"
           ]
         },
         {
-          "text": "Supported including max projects in capital advocacy letter",
+          "text": "Asked about the timeline for completing the Solid Waste Study.",
           "categories": [
-            "infrastructure"
+            "environment"
           ]
         },
         {
-          "text": "Congratulated 911 Center on full staffing after years of shortages",
-          "categories": [
-            "safety"
-          ]
-        },
-        {
-          "text": "Credited county advocacy in Raleigh for $7M landfill grant",
+          "text": "Noted the $7 million state landfill grant and the $2.5 million the Board added, credited advocacy in Raleigh, and thanked Commissioner Chapman for joining him on trips.",
           "categories": [
             "fiscal",
             "environment"
           ]
         },
         {
-          "text": "Supported satellite Fire/EMS facility and Quebec EMS station in advocacy",
+          "text": "Advocated a differentiated property tax rate on vacation and second homes and expressed concern that legislative influence favors more populous regions.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Raised the possibility of a South Carolina-style solid waste parcel fee on tax bills.",
+          "categories": [
+            "fiscal",
+            "environment"
+          ]
+        },
+        {
+          "text": "Advocated increased federal Payment in Lieu of Taxes funding, noting that over two-thirds of County land does not generate property taxes.",
+          "categories": [
+            "fiscal",
+            "environment"
+          ]
+        },
+        {
+          "text": "Supported including as many projects as possible in the advocacy request, including the satellite Fire/EMS facility and Quebec EMS improvements, and supported requesting $36 million for the courthouse.",
+          "categories": [
+            "fiscal",
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked about the status of a federal grant for ambulances.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the audiovisual upgrade would meet ADA requirements.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Recognized 9-1-1 Center staff and said a compensation study helped fully staff the center.",
           "categories": [
             "safety"
           ]
         }
       ],
       "externalRoles": [
-        "NCACC Tax & Finance Subcommittee"
+        "NCACC Tax and Finance Subcommittee"
       ]
     },
     "mckelvey": {
       "topics": [
         {
-          "text": "Asked about putting ¼-cent sales tax back on 2026 ballot",
+          "text": "Commended the Clerk's professionalism and commitment to excellence.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Expressed appreciation for the added detail in the capital report.",
+          "categories": [
+            "schools",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked whether the previously defeated quarter-cent sales tax could return to the ballot in 2026 and requested further discussion of it.",
           "categories": [
             "fiscal"
           ]
         },
         {
-          "text": "Floated that sales tax + fee-based solid waste could cut property taxes ~3 cents",
-          "categories": [
-            "fiscal"
-          ]
-        },
-        {
-          "text": "Asked if solid waste rate study would support full cost recovery through fees",
+          "text": "Asked whether the solid waste rate study would let the Board consider covering operating costs fully through fees.",
           "categories": [
             "fiscal",
             "environment"
           ]
         },
         {
-          "text": "Expressed appreciation for improved capital project reporting detail",
+          "text": "Suggested property taxes could theoretically fall by nearly three cents if landfill operations were fee-funded and a quarter-cent sales tax were approved.",
           "categories": [
-            "governance",
-            "schools"
+            "fiscal"
           ]
         }
       ],
@@ -396,74 +694,170 @@
   "publicComments": [
     {
       "speaker": "Owen Carson",
-      "summary": "Asked about County Planner position status; pushed for hire to implement Housing Plan; requested advisory board minutes be posted online; announced candidacy for Commission"
+      "summary": "Asked about the status of the County Planner position and whether it would be filled. He raised concern about implementation of the November 2025 Housing Plan's high-priority action items and urged hiring a County Planner. He also asked that advisory board minutes be posted online, and announced he is running for County Commission."
     },
     {
       "speaker": "Doug Powell",
-      "summary": "Shared Black History Month remarks on African American contributions during the Revolutionary era"
+      "summary": "Recognized Black History Month and described African Americans who played roles in the Revolutionary era, encouraging the public to learn more about them."
     }
   ],
   "followUps": [
     {
       "id": "2026-02-09-fu-1",
       "dateRaised": "2026-02-09",
-      "owner": "mccall",
-      "description": "County Planner position to be filled — McCall confirmed the vacant position will be posted and filled to implement the Housing Plan",
-      "status": "open",
+      "owner": "staff",
+      "description": "Invite the remaining citizen advisory council members for the July–December 2025 recognition period to a future meeting.",
+      "status": "resolved",
       "categories": [
-        "governance",
-        "housing"
+        "community"
       ],
-      "relatedMeetingId": "2026-02-09"
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-02-23",
+      "resolvedDate": "2026-02-23",
+      "resolvedMeetingId": "2026-02-23",
+      "resolution": "The Board recognized Dee Dee Perkins (TCTDA) and Stephen Matadobra (Transylvania Natural Resources Council), whose advisory council terms ended July–December 2025, with certificates and County mugs."
     },
     {
       "id": "2026-02-09-fu-2",
       "dateRaised": "2026-02-09",
-      "owner": "Jaime Laughter",
-      "description": "Solid Waste rate study to be completed — County Manager to finish study evaluating fee-based solid waste model as alternative to tipping fees",
-      "status": "open",
+      "owner": "staff",
+      "description": "Bring a resolution finalizing the donation of the surplus firearms simulator to Blue Ridge Community College to a future meeting.",
+      "status": "resolved",
       "categories": [
-        "fiscal",
-        "environment"
+        "safety"
       ],
-      "relatedMeetingId": "2026-02-09"
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-02-23",
+      "resolvedDate": "2026-02-23",
+      "resolvedMeetingId": "2026-02-23",
+      "resolution": "The Board adopted Resolution #04-2026 on the consent agenda approving the donation of the surplus firearms simulator to Blue Ridge Community College."
     },
     {
       "id": "2026-02-09-fu-3",
       "dateRaised": "2026-02-09",
-      "owner": "chappell",
-      "description": "Capital advocacy letter to be finalized and sent — prioritizing courthouse first, then BRCC campus, organized by category",
-      "status": "open",
+      "owner": "staff",
+      "description": "Present final bids from the GovDeals auction of three Connestee Falls lots (closing April 22, 2026) to the Board for approval.",
+      "status": "resolved",
       "categories": [
-        "infrastructure",
         "fiscal"
       ],
-      "relatedMeetingId": "2026-02-09"
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-05-11",
+      "resolvedDate": "2026-05-11",
+      "resolvedMeetingId": "2026-05-11",
+      "resolution": "Staff presented the highest GovDeals bids for the three Connestee Falls lots, and the Board accepted them."
     },
     {
       "id": "2026-02-09-fu-4",
       "dateRaised": "2026-02-09",
-      "owner": "mccall",
-      "description": "Sales tax referendum timing discussion to be scheduled — board to determine when to place ¼-cent sales tax on ballot",
-      "status": "open",
+      "owner": "staff",
+      "description": "Post the updated five-year education capital report on the County website.",
+      "status": "resolved",
       "categories": [
-        "fiscal"
+        "schools",
+        "governance"
       ],
-      "relatedMeetingId": "2026-02-09"
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-03-23",
+      "resolvedDate": "2026-03-23",
+      "resolvedMeetingId": "2026-03-23",
+      "resolution": "The Manager directed the public to the Updated Five-Year Education Capital Funding Plan, which is posted on the County website under Special Projects."
     },
     {
       "id": "2026-02-09-fu-5",
       "dateRaised": "2026-02-09",
-      "owner": "Jaime Laughter",
-      "description": "Advisory board minutes to be posted online — requested by Owen Carson during public comment, acknowledged by County Manager",
+      "owner": "Beecher Allison",
+      "description": "Confirm with the architect whether NCDPI reviews of school project drawings are timely.",
       "status": "open",
       "categories": [
-        "governance"
+        "schools"
       ],
       "relatedMeetingId": "2026-02-09"
+    },
+    {
+      "id": "2026-02-09-fu-6",
+      "dateRaised": "2026-02-09",
+      "owner": "Beecher Allison",
+      "description": "Complete temporary shoring at the Rosman old gym once shoring and interim life-safety drawings are approved, allowing limited reoccupancy.",
+      "status": "resolved",
+      "categories": [
+        "schools",
+        "safety"
+      ],
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-03-23",
+      "resolvedDate": "2026-03-23",
+      "resolvedMeetingId": "2026-03-23",
+      "resolution": "The capital update reported that temporary structural shoring at the Rosman facilities is complete and the buildings have returned to full operational use."
+    },
+    {
+      "id": "2026-02-09-fu-7",
+      "dateRaised": "2026-02-09",
+      "owner": "Jaime Laughter",
+      "description": "Issue a formal FY 2027 budget guidance letter to outside agencies (revenue growth at or below 2%, no tax increase intended), and provide monthly budget updates including analysis of mandated services and debt and capital planning.",
+      "status": "resolved",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-05-26",
+      "resolvedDate": "2026-05-26",
+      "resolvedMeetingId": "2026-05-26",
+      "resolution": "The Manager presented the FY 2027 recommended budget, summarizing the February–May monthly budget discussions and the earlier communication with outside agencies on revenue growth."
+    },
+    {
+      "id": "2026-02-09-fu-8",
+      "dateRaised": "2026-02-09",
+      "owner": "Rishara Finsel",
+      "description": "Confirm how the current bookmobile was originally funded, and provide information on bookmobile services and future options in the Library's semiannual report.",
+      "status": "in_progress",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-03-09",
+      "resolution": "The Library's semi-annual report listed a goal to advance a sustainable vision for bookmobile and outreach services. The minutes do not record how the current bookmobile was funded."
+    },
+    {
+      "id": "2026-02-09-fu-9",
+      "dateRaised": "2026-02-09",
+      "owner": "Jaime Laughter",
+      "description": "Compile a draft 2026 capital advocacy list with updated estimates. Invite the municipalities and the school system to submit priorities, and bring the finalized list to the Board for approval before the April legislative session.",
+      "status": "resolved",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-03-23",
+      "resolvedDate": "2026-03-23",
+      "resolvedMeetingId": "2026-03-23",
+      "resolution": "The Manager brought the finalized 2026 capital advocacy letter, including municipal and school system priorities and the SNAP funding concern, and the Board approved it unanimously."
+    },
+    {
+      "id": "2026-02-09-fu-10",
+      "dateRaised": "2026-02-09",
+      "owner": "staff",
+      "description": "Fill the County Planner position, as Chairwoman McCall confirmed it will be filled.",
+      "status": "in_progress",
+      "categories": [
+        "housing",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-02-09",
+      "lastReferencedMeetingId": "2026-03-09",
+      "resolution": "The Planning Director's semi-annual report stated that recruitment is planned for the Land Use Planner position."
     }
   ],
   "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-02-09%20reg%20mtg.pdf",
   "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-02-09%20BOC%20Agenda.pdf",
-  "videoUrl": "https://vimeo.com/event/5710563"
+  "videoUrl": "https://vimeo.com/event/5710563",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:12:56.840Z",
+    "warnings": [
+      "Check — followUpUpdates[11] (2025-02-10-fu-2): The draft marks this item resolved, but the minutes do not clearly tie this appointment to the follow-up raised on 2025-02-10. The minutes mention only a 'recent advertisement' and a vacant member-at-large seat. It is unclear whether this is the same vacancy the earlier follow-up committed to advertise a year ago, or a later one. Consider marking it in_progress, or leaving it out. (minutes: \"She received an application for a Commissioner Appointee (member-at-large) position following a recent advertisement.\" (p. 16))"
+    ]
+  }
 }

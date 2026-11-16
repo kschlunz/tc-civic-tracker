@@ -654,19 +654,23 @@
         "schools"
       ],
       "relatedMeetingId": "2025-01-27",
-      "lastReferencedMeetingId": "2025-08-25",
-      "resolution": "The Manager said the Board will hold an infrastructure workshop soon, followed later by a general capital planning workshop."
+      "lastReferencedMeetingId": "2026-04-27",
+      "resolution": "The Manager led a workshop-style discussion on long-term capital planning and multi-year debt service modeling for the school bonds, courthouse, EMS base and elections building."
     },
     {
       "id": "2025-01-27-fu-4",
       "dateRaised": "2025-01-27",
       "owner": "Jaime Laughter",
       "description": "Present alternatives for the Brevard High School old gym based on cost, timelines and facility needs, with engineers reassessing whether partial use is possible.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "schools"
       ],
-      "relatedMeetingId": "2025-01-27"
+      "relatedMeetingId": "2025-01-27",
+      "lastReferencedMeetingId": "2026-05-26",
+      "resolvedDate": "2026-05-26",
+      "resolvedMeetingId": "2026-05-26",
+      "resolution": "Chairwoman McCall noted that the Brevard High School old gym renovation has been completed."
     },
     {
       "id": "2025-01-27-fu-5",

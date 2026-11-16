@@ -1,0 +1,680 @@
+{
+  "id": "2025-11-10",
+  "date": "2025-11-10",
+  "type": "regular",
+  "title": "Commissioners' Meeting 11/10/25",
+  "time": "4:00 PM",
+  "duration": "2 hours 17 minutes",
+  "audienceSize": 20,
+  "attendees": [
+    "mccall",
+    "chapman",
+    "chappell",
+    "dalton",
+    "mckelvey"
+  ],
+  "tldr": "The Board received the FY 2024 audit, which had a clean opinion with four findings that staff said are already corrected. It approved a one-year FY 2025 audit contract with Martin Starnes & Associates for up to $99,450, a multi-year Axon body camera and taser contract, first-quarter budget amendments, up to $20,000 from Balsam Grove Fire Rescue's reserve for station design work, a transit operational study by Land of Sky for up to $220,000, and a two-year extension of the Comprehensive Plan to the end of 2027. It tabled the Rosman wastewater MOU until December 8. Commissioners also heard updates on school and county capital projects, Helene recovery, Brevard College, and the effects of the federal shutdown on food assistance programs.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Approved the consent agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The consent agenda included the September 22 minutes and the September and October tax discovery, release and settlement reports. It also included cancellation of the November 24 meeting, a two-hour DSS office closure on December 11, use of the Commissioners' Chambers for court, notice to donate a surplus table to the Veterans History Museum, a $51.60 Health Department bad debt write-off, and a $2,800 Delta Dental Foundation grant submission. Further items were an updated statewide mutual aid agreement, a fish stocking permit, Resolution 47-2025 on $7 million in NCDEQ ARP water/sewer funds, Resolution 48-2025 making Security Camera Warehouse a sole source vendor (up to $500,000 annually), and an MOU with Land of Sky for Jacob Compher to serve as Interim Planning Director, with Resolution 46-2025 appointing him Review Officer.",
+      "discussion": "",
+      "page": 1
+    },
+    {
+      "description": "Received the FY 2024 audit",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Kelly Gooderham of Martin Starnes & Associates reported a clean, unmodified opinion and a General Fund balance of $49.9 million, with unassigned fund balance at 23.2% of expenditures. The audit had two significant deficiencies (the escheat process and a late federal data collection form) and two material weaknesses (late audit submission and ledger reconciliation delays). Finance Director Meagan O'Neal said staff have corrected these issues.",
+      "discussion": "Commissioner McCall asked for clarification of the findings, observed that late audits are increasingly common statewide, and asked about DSS staffing funded by the State. Commissioner Chapman asked whether any findings posed significant concerns; Ms. O'Neal said they did not.",
+      "page": 8
+    },
+    {
+      "description": "Reappointed Madeline Magin, appointed Emrie Carlton-Jackson and reappointed Jessica Whitmire as 2026 chair of the Tourism Development Authority",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "Dee Dee Perkins completed two terms and was ineligible for reappointment, and the TCTDA recommended Emrie Carlton-Jackson for her seat. The Town of Rosman reappointed Jessica Whitmire and recommended her as chair for 2026. All appointments are effective January 1, 2026.",
+      "discussion": "Commissioner McCall noted that another applicant did not meet the eligibility requirements for the open position and encouraged that applicant to keep applying for County boards.",
+      "page": 13
+    },
+    {
+      "description": "Tabled the Rosman wastewater infrastructure MOU until December 8",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chapman",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": []
+      },
+      "background": "The MOU covers $3.9 million in County-managed improvements to Rosman's wastewater system. Rosman's Board of Aldermen requested two changes: no County first option if a private purchase offer is made, and return of the system to Rosman after any temporary State takeover. The Manager recommended adding a requirement that the Town adopt the watershed ordinance and raised concerns that a private purchase could trigger grant claw-backs.",
+      "discussion": "Chairman Chappell asked whether watershed boundaries could avoid the annexed parcel and said he might support giving the County first right of refusal on any private offer. Commissioner McCall opposed the private-purchase provision and accepted the second provision only if return of the system depended on an LGC recommendation. Commissioner Dalton explained the Town's request stemmed from what-if scenarios and past experience, including the Burlingame system purchase.",
+      "page": 14
+    },
+    {
+      "description": "Approved staff assistance and up to $20,000 from Balsam Grove Fire Rescue's reserve for station design professionals",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Fire Marshal Scott Justus said the station lacks space for 24-hour staff and two apparatus, and has mold and flood damage. The department's Service District Reserve Fund holds $57,304. The station must stay within a half mile of its current location to keep its ISO rating, and the property is still owned by the Balsam Grove Community Center, which supports deeding it to the department.",
+      "discussion": "Commissioner Dalton raised concerns about mold and asked whether the site had room to expand. Commissioner McCall asked about expansion options and reiterated the need for long-term fire department capital planning.",
+      "page": 15
+    },
+    {
+      "description": "Received the first-quarter report and approved FY 2026 first-quarter budget amendments",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Budget and Management Analyst Jennifer Wright presented 18 amendments through September 30, 2025. They included $812,690 in Education Capital Fund projects, $80,000 in USDA Forest Service patrol funding, $3,252,143 in fire department budgets, $4,403,212.50 in school bond payments, and $2,231,211.15 in carry-forward funds.",
+      "discussion": "",
+      "page": 17
+    },
+    {
+      "description": "Received the FY 2026 first-quarter financial summary",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Finance Director Meagan O'Neal reported General Fund revenue of $19.5 million and expenditures of $18.2 million through September 30, with all departments within budget. The Solid Waste Fund had a first-quarter net gain of $213,522. The Manager noted uncertainty about the effect of the State's continuing budget and inconsistent federal guidance on programs such as SNAP and WIC.",
+      "discussion": "",
+      "page": 18
+    },
+    {
+      "description": "Approved FY 2025 audit contract with Martin Starnes & Associates (up to $99,450) and an $18,750 budget amendment",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "Ms. O'Neal requested a one-year extension after the firm's three-year agreement ended with FY 2024. The fee is a $78,000 base, $4,250 per additional major program and $8,700 for financial statement preparation, which she said is below the state average for similar counties. She said a new RFP now would delay the audit; the $18,750 amendment comes from fund balance.",
+      "discussion": "Chairman Chappell said he has supported rotating auditors but appreciated the firm's internal partner rotation and the limited availability of other firms. Commissioner McCall said she typically favors a firm search but agreed that extending with the firm was the most practical choice this year.",
+      "page": 19
+    },
+    {
+      "description": "Approved multi-year Axon contract for Sheriff's Office body cameras and tasers",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The FY 2026 Sheriff's Office budget includes replacing body cameras and tasers. Axon is the only provider whose system meets the District Attorney's digital evidence requirements. IT Director Nathanael Carver said the additional licensing in the amendment is needed to maintain chain-of-custody standards.",
+      "discussion": "",
+      "page": 20
+    },
+    {
+      "description": "Authorized a Land of Sky transit operational study (up to $200,000 plus $20,000 administration) from unassigned fund balance",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The Transportation Advisory Board recommended ending the fixed-route bus because of low ridership. The Manager instead recommended keeping it for at least six months while a comprehensive study is done. She cited the loss of out-of-county medical trips and the vacant Planner/Transportation Director position, and said any service change would require a public hearing.",
+      "discussion": "Commissioner Dalton asked whether the study could affect transit grant funding, relayed a constituent request to resume out-of-county medical trips, and asked whether Uber and Lyft are restricted. Commissioner McCall noted that Vaya Health and DSS provide Medicaid transportation and supported identifying broader needs. Chairman Chappell said the study could strengthen grant applications and asked that it examine combining the Transportation Advisory Board and the Transportation Advisory Committee.",
+      "page": 21
+    },
+    {
+      "description": "Extended the 2050 Comprehensive Plan to December 31, 2027 (Resolution 49-2025)",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mccall",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The plan was set to expire December 31, 2025. The Manager cited staffing shortages in Planning and Community Development and said rushing an update would not produce a quality document. The resolution commits to completing the update by December 31, 2027.",
+      "discussion": "Chairman Chappell asked whether the delay could harm grant applications; the Manager said there would be no adverse impacts.",
+      "page": 21
+    },
+    {
+      "description": "Adjourned the meeting",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mccall",
+      "votes": {
+        "ayes": [
+          "mccall",
+          "chappell",
+          "dalton",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chapman"
+        ]
+      },
+      "background": "The meeting adjourned at 6:17 p.m.",
+      "discussion": "",
+      "page": 23
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Requested clarification of the FY 2024 audit findings and observed that late audits are becoming increasingly common statewide.",
+          "categories": [
+            "fiscal",
+            "governance"
+          ]
+        },
+        {
+          "text": "Asked about DSS staffing levels tied to State Medicaid expansion funding.",
+          "categories": [
+            "health",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Asked whether the new HVAC system for the BHS EC Wing could operate independently of the school's main system.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Noted that if the needs-based grant is awarded, the School System would still own the Davidson River School building and decisions about its future use would be needed.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Noted that a TCTDA applicant did not meet eligibility requirements and encouraged the applicant to keep applying for County boards.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Said she does not support Rosman's proposed private-purchase exception in the MOU.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said she could accept returning the Rosman system to the Town after a State takeover only if the LGC recommended it.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked about Balsam Grove Fire Rescue expansion options and reiterated the need for long-term fire department capital planning.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Said she typically favors an auditor search but agreed that extending with Martin Starnes was the most practical choice this year.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that Vaya Health and DSS programs provide Medicaid transportation and supported the transit study to identify broader community needs.",
+          "categories": [
+            "infrastructure",
+            "health"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Asked whether any of the audit findings posed significant concerns.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Reminded the Board that it still needs to decide the future use of the old courthouse.",
+          "categories": [
+            "governance"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chappell": {
+      "topics": [
+        {
+          "text": "Asked for an update on the County's review of future landfill and solid waste options.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Asked whether watershed boundaries could be drawn to avoid the Town-annexed parcel.",
+          "categories": [
+            "environment",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said he might support a compromise giving the County first right of refusal if any private offer were made for Rosman's system.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Said he has supported rotating auditors over time but supported continuing with Martin Starnes given its internal partner rotation and limited firm availability.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Said the transit study could strengthen annual grant applications and that this is an ideal time to evaluate the transit structure.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Requested that the transit study examine combining the Transportation Advisory Board and the Transportation Advisory Committee.",
+          "categories": [
+            "governance",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether extending the Comprehensive Plan could negatively affect grant applications.",
+          "categories": [
+            "environment",
+            "governance"
+          ]
+        },
+        {
+          "text": "Expressed condolences to the family of former Board of Education Chair Tawny McCoy and thanked veteran employees and Commissioner Chapman for their service.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Asked how school renovation plans might change if a needs-based grant to consolidate Davidson River School into Brevard High School is awarded.",
+          "categories": [
+            "schools"
+          ]
+        },
+        {
+          "text": "Noted that the Davidson River School building is historic, so future changes would come with restrictions.",
+          "categories": [
+            "schools",
+            "community"
+          ]
+        },
+        {
+          "text": "Explained that Rosman's private-purchase request stems from a what-if scenario and past experiences, including the Burlingame system purchase.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Raised concerns about mold at the Balsam Grove fire station and asked whether the site had room to expand.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Asked whether the transit study could affect existing transit grant funding.",
+          "categories": [
+            "infrastructure",
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Relayed a constituent request to resume out-of-county medical trips.",
+          "categories": [
+            "health",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Asked whether Uber and Lyft are restricted in the County.",
+          "categories": [
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Congratulated the Brevard High School football team on its undefeated season and Rosman High School on its first playoff win in nine years.",
+          "categories": [
+            "community"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [
+        {
+          "text": "Asked about reported leaking in the old BHS gym roof and whether it caused damage or delays.",
+          "categories": [
+            "schools"
+          ]
+        }
+      ],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Doug Powell",
+      "summary": "Recognized the upcoming observances of the establishment of the U.S. Supreme Court and Veterans Day, and thanked Commissioner Chapman and all veterans for their service. He spoke about early American history and faith in the nation's founding, and said the phrase \"separation of church and state\" is often misunderstood and does not appear in the founding documents. He suggested some beliefs about the founding may need clarification ahead of the 250th anniversary."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2025-11-10-fu-1",
+      "dateRaised": "2025-11-10",
+      "owner": "Meagan O'Neal",
+      "description": "Present the required response letter to the LGC on the FY 2024 audit findings for Board approval at the next meeting.",
+      "status": "open",
+      "categories": [
+        "fiscal",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-11-10"
+    },
+    {
+      "id": "2025-11-10-fu-2",
+      "dateRaised": "2025-11-10",
+      "owner": "Jaime Laughter",
+      "description": "Bring the tabled Rosman wastewater MOU back on December 8 with the watershed study presentation, after confirming with the engineer whether watershed boundaries could avoid the Town-annexed parcel.",
+      "status": "resolved",
+      "categories": [
+        "infrastructure",
+        "environment"
+      ],
+      "relatedMeetingId": "2025-11-10",
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolvedDate": "2025-12-08",
+      "resolvedMeetingId": "2025-12-08",
+      "resolution": "The Rosman MOU was brought back after the watershed study presentation. It was approved with a 20-year depreciation schedule and a watershed approval provision."
+    },
+    {
+      "id": "2025-11-10-fu-3",
+      "dateRaised": "2025-11-10",
+      "owner": "staff",
+      "description": "Present the solid waste options study to the Board once staff review of the draft is complete; a related rate study is expected next spring.",
+      "status": "resolved",
+      "categories": [
+        "environment",
+        "fiscal"
+      ],
+      "relatedMeetingId": "2025-11-10",
+      "lastReferencedMeetingId": "2026-05-11",
+      "resolvedDate": "2026-05-11",
+      "resolvedMeetingId": "2026-05-11",
+      "resolution": "The solid waste options study and rate study were presented to the Board by Smith Gardner Engineers."
+    },
+    {
+      "id": "2025-11-10-fu-4",
+      "dateRaised": "2025-11-10",
+      "owner": "staff",
+      "description": "Present design concepts and cost estimates for the Balsam Grove Fire Rescue station expansion or relocation to the Board.",
+      "status": "in_progress",
+      "categories": [
+        "safety"
+      ],
+      "relatedMeetingId": "2025-11-10",
+      "lastReferencedMeetingId": "2026-03-23",
+      "resolution": "The Fire Marshal reported that the architect found expansion of the Balsam Grove station not recommended, and the Board approved $320,000 to buy a 2.90-acre site for a new station."
+    },
+    {
+      "id": "2025-11-10-fu-5",
+      "dateRaised": "2025-11-10",
+      "owner": "Jaime Laughter",
+      "description": "Include in the Land of Sky transit operational study an analysis of whether the Transportation Advisory Board and the Transportation Advisory Committee could be combined.",
+      "status": "open",
+      "categories": [
+        "governance",
+        "infrastructure"
+      ],
+      "relatedMeetingId": "2025-11-10"
+    },
+    {
+      "id": "2025-11-10-fu-6",
+      "dateRaised": "2025-11-10",
+      "owner": "staff",
+      "description": "Complete the Comprehensive Plan update, including public input and a final public hearing, no later than December 31, 2027.",
+      "status": "open",
+      "categories": [
+        "environment",
+        "governance"
+      ],
+      "relatedMeetingId": "2025-11-10"
+    },
+    {
+      "id": "2025-11-10-fu-7",
+      "dateRaised": "2025-11-10",
+      "owner": "staff",
+      "description": "Bring a resolution to a future meeting to donate the surplus oak display table to the Veterans History Museum after the required notice is posted.",
+      "status": "resolved",
+      "categories": [
+        "community"
+      ],
+      "relatedMeetingId": "2025-11-10",
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolvedDate": "2025-12-08",
+      "resolvedMeetingId": "2025-12-08",
+      "resolution": "The Board approved Resolution #52-2025 on the consent agenda, donating the surplus display table to the Veterans History Museum of the Carolinas."
+    },
+    {
+      "id": "2025-11-10-fu-8",
+      "dateRaised": "2025-11-10",
+      "owner": "staff",
+      "description": "Schedule a ribbon cutting for the completed old BHS gym (Brevard Area Scope #1).",
+      "status": "resolved",
+      "categories": [
+        "schools"
+      ],
+      "relatedMeetingId": "2025-11-10",
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolvedDate": "2025-12-08",
+      "resolvedMeetingId": "2025-12-08",
+      "resolution": "A ribbon cutting for the Brevard High School Old Gym was scheduled for 12:30 p.m. The capital update gave the date as December 10, while the Manager's report gave it as Tuesday, December 9."
+    },
+    {
+      "id": "2025-11-10-fu-9",
+      "dateRaised": "2025-11-10",
+      "owner": "staff",
+      "description": "Announce the successor to retiring Building Inspections Director Mike Owen.",
+      "status": "resolved",
+      "categories": [
+        "governance"
+      ],
+      "relatedMeetingId": "2025-11-10",
+      "lastReferencedMeetingId": "2025-12-08",
+      "resolvedDate": "2025-12-08",
+      "resolvedMeetingId": "2025-12-08",
+      "resolution": "The Manager announced that Jason Massey became Building Inspections Director on December 1 following Mike Owen's retirement."
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2025-11-10%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2025-11-10%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5502870",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:05:26.062Z",
+    "warnings": [
+      "Check — newFollowUps[7].description: The follow-up calls the old BHS gym (Brevard Area Scope #1) 'completed', but the minutes say completion was still expected in late November or early December. The ribbon cutting is to be scheduled after that completion. (minutes: \"Timeline: Completion expected by late November/early December, with a ribbon cutting to be scheduled soon thereafter.\" (p. 10))"
+    ]
+  }
+}

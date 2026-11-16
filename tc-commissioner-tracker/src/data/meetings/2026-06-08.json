@@ -1,0 +1,354 @@
+{
+  "id": "2026-06-08",
+  "date": "2026-06-08",
+  "type": "regular",
+  "title": "Commissioners' Meeting 06/08/26",
+  "time": "4:00 PM",
+  "duration": "57 minutes",
+  "audienceSize": 15,
+  "attendees": [
+    "chapman",
+    "dalton",
+    "mccall",
+    "mckelvey"
+  ],
+  "tldr": "With Commissioner Chappell absent, the Board unanimously approved the agenda and a consent agenda that included a proclamation for the nation's 250th anniversary and cancellation of the July 27 and August 10 meetings. It made unanimous appointments to the Agricultural Advisory Board, Library Board of Trustees, Regional Council on Aging and Social Services Board, and tabled a Library Board vacancy. The Board discussed possible NCACC legislative goals without taking action and heard a Hurricane Helene recovery update. Commissioners also responded to public comments on Opportunity Zones, farmland preservation and data centers.",
+  "keyVotes": [
+    {
+      "description": "Approved the meeting agenda",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "There were no agenda modifications.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Approved the consent agenda, including the 250th anniversary proclamation and cancellation of the July 27 and August 10 meetings",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": true,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "The consent agenda included the May 26, 2026 minutes, Proclamation #26-2026 honoring the 250th anniversary of the United States, an out-of-state travel request for Communications staff, and cancellation of the July 27 and August 10 regular meetings. It also included procurement policy updates for transit services required by the NCDOT Integrated Mobility Division, and acknowledgment that the Commissioner review requirement had been satisfied for the Tourism Development Authority's FY 2026-2027 contracts with Market Connections and Media One. Chairwoman McCall read the proclamation aloud.",
+      "discussion": "",
+      "page": 2
+    },
+    {
+      "description": "Appointed Tracie Gant to the Agricultural Advisory Board",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "A vacancy existed after a member's term expired, and Cooperative Extension recruitment produced three applications. The Agricultural Advisory Board expressed a preference for Farm Bureau representation and recommended Tracie Gant.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Reappointed Sarah Justice to the Library Board of Trustees and tabled the remaining vacancy",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": null,
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Sarah Justice's term was expiring and she was eligible and willing to serve again. Karen Cole was term-limited, and the one application received for her seat did not yet meet the Board's eligibility requirements, so the vacancy was tabled until that applicant qualifies or another application is received. The minutes record the motion as seconded by both Commissioners Chapman and McKelvey.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Reappointed Kathe Harris and appointed Woodie Dyches to the Regional Council on Aging",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "chapman",
+      "seconder": "dalton",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Kathe Harris's term was set to expire June 30. The Area Agency on Aging Director recommended her reappointment and the appointment of Woodie Dyches to fill an existing community member vacancy.",
+      "discussion": "",
+      "page": 4
+    },
+    {
+      "description": "Appointed Kathy Klepfer to the Social Services Board effective July 1, 2026",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "mckelvey",
+      "seconder": "chapman",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "Jessica Shanor's term was expiring June 30 and she was term-limited. Recruitment produced one application, and the Social Services Board recommended Kathy Klepfer.",
+      "discussion": "",
+      "page": 5
+    },
+    {
+      "description": "Adjourned the meeting at 4:57 p.m.",
+      "result": "Unanimous",
+      "passed": true,
+      "consent": false,
+      "mover": "dalton",
+      "seconder": "mckelvey",
+      "votes": {
+        "ayes": [
+          "chapman",
+          "dalton",
+          "mccall",
+          "mckelvey"
+        ],
+        "nays": [],
+        "abstained": [],
+        "absent": [
+          "chappell"
+        ]
+      },
+      "background": "There was no further business before the Board.",
+      "discussion": "",
+      "page": 7
+    }
+  ],
+  "commissionerActivity": {
+    "mccall": {
+      "topics": [
+        {
+          "text": "Read aloud the proclamation honoring the 250th anniversary of the United States and noted the significance of the anniversary.",
+          "categories": [
+            "community"
+          ]
+        },
+        {
+          "text": "Reviewed the NCACC legislative goals process, which takes place every two years ahead of the General Assembly's long session.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Announced that she, Commissioner Chapman and Commissioner Dalton would travel to Raleigh the next day to meet with state legislators.",
+          "categories": [
+            "governance"
+          ]
+        },
+        {
+          "text": "Thanked the County Manager and staff for their work on the budget process and long-term planning.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that multiple Western North Carolina counties and municipalities are considering or implementing significant tax and fee increases, and said the County's budget approach is intended to remain fiscally responsible.",
+          "categories": [
+            "fiscal"
+          ]
+        },
+        {
+          "text": "Noted that the Board will hold its budget public hearing and vote at the next meeting, and indicated continued financial challenges ahead.",
+          "categories": [
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "chapman": {
+      "topics": [
+        {
+          "text": "Raised concerns about trash on roads, describing a Rosman Highway incident in which an elderly resident removing a trash bag was nearly struck and broke a wrist.",
+          "categories": [
+            "safety",
+            "environment"
+          ]
+        },
+        {
+          "text": "Urged residents to report road debris to the Sheriff's Office or Highway Patrol and noted that a County ordinance requires trash on vehicles to be tarped.",
+          "categories": [
+            "safety"
+          ]
+        },
+        {
+          "text": "Raised concern about regional competition for public safety staff, citing Henderson County's proposed 18% law enforcement pay raise, and warned of pressure to retain deputies and of future budget challenges.",
+          "categories": [
+            "safety",
+            "fiscal"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "dalton": {
+      "topics": [
+        {
+          "text": "Explained that Opportunity Zones are state-designated, that the County can only recommend and not choose them, and that past efforts to relocate a zone placed in undevelopable national forest were unsuccessful.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Said the Pisgah Forest option is more viable for an Opportunity Zone and cited the County's prior investment of tens of millions of dollars in water and sewer infrastructure along the U.S. 64 corridor.",
+          "categories": [
+            "econ",
+            "infrastructure"
+          ]
+        },
+        {
+          "text": "Referenced the County's targeted industries list and noted it does not guarantee that those businesses will locate in the County.",
+          "categories": [
+            "econ"
+          ]
+        },
+        {
+          "text": "Noted that the County previously shared a state grant of just over $2 million with Henderson County for farmland preservation.",
+          "categories": [
+            "environment"
+          ]
+        },
+        {
+          "text": "Stated that claims about large AI data center projects in the County are unfounded, citing utility capacity and terrain limits at the former Ecusta property, and distinguished such projects from existing smaller data facilities.",
+          "categories": [
+            "econ"
+          ]
+        }
+      ],
+      "externalRoles": []
+    },
+    "mckelvey": {
+      "topics": [],
+      "externalRoles": []
+    }
+  },
+  "publicComments": [
+    {
+      "speaker": "Owen Carson",
+      "summary": "Spoke about the Opportunity Zone nominations recently approved by the Board and encouraged continued public engagement and clear communication of goals for those areas. He discussed farmland preservation and potential updates to the Farmland Protection Plan, thanked the Board for its support of agriculture and the recent Agricultural Advisory Board appointment, and asked the Board to state its position on potential data center development."
+    },
+    {
+      "speaker": "Doug Powell",
+      "summary": "Spoke about the upcoming 250th anniversary of the Declaration of Independence and encouraged citizens to remember the founders' contributions and to preserve freedom for future generations."
+    },
+    {
+      "speaker": "Daniel Carey",
+      "summary": "Representing Pisgah Legal Services, he invited Commissioners and the public to an open house at the Brevard office. He thanked the County for its support and described the organization's services and impact in the County."
+    },
+    {
+      "speaker": "Owen Carson",
+      "summary": "Speaking in the second public comment period, he asked how the Board developed its list of 21 legislative priorities and whether the public had input. He disagreed with a proposal to cap land held in conservation easements or limit conservation incentives, and encouraged continued or increased support for Blue Ridge Community College's workforce programs."
+    },
+    {
+      "speaker": "Clark Lovelace",
+      "summary": "As Executive Director of the Tourism Development Authority, he gave background on North Carolina occupancy tax rules, including 1997 changes, and said the interpretation of 'tourism-related expenditures' is under state review. He also offered condolences on the passing of community member Tim Gafnea."
+    }
+  ],
+  "followUps": [
+    {
+      "id": "2026-06-08-fu-1",
+      "dateRaised": "2026-06-08",
+      "owner": "staff",
+      "description": "Fill the tabled Library Board of Trustees vacancy left by Karen Cole once the current applicant meets eligibility requirements or another application is received.",
+      "status": "open",
+      "categories": [
+        "community",
+        "governance"
+      ],
+      "relatedMeetingId": "2026-06-08"
+    },
+    {
+      "id": "2026-06-08-fu-2",
+      "dateRaised": "2026-06-08",
+      "owner": "staff",
+      "description": "Select contractors for the first group of hazard mitigation property acquisition projects by July 1, with purchase offers to several participating property owners expected this fall.",
+      "status": "open",
+      "categories": [
+        "recovery"
+      ],
+      "relatedMeetingId": "2026-06-08"
+    }
+  ],
+  "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-06-08%20reg%20mtg.pdf",
+  "agendaUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/agendas/2026-06-08%20BOC%20Agenda.pdf",
+  "videoUrl": "https://vimeo.com/event/5977272",
+  "extraction": {
+    "model": "claude-opus-5-5",
+    "extractedAt": "2026-11-13T00:25:53.171Z",
+    "warnings": [
+      "Check — keyVotes[3].seconder: Seconder is null, but the minutes name two seconders, Chapman and McKelvey. The background text mentions this, but a null seconder field may be read as the motion having no recorded seconder. Consider recording one of them, or flagging how dual seconds are represented. (minutes: \"seconded by Commissioners Chapman and McKelvey, and the motion was unanimously approved\" (p.4))",
+      "Check — newFollowUps[1]: Contractor selection by July 1 and purchase offers this fall are anticipated timelines from the Manager's Helene status update, not a commitment made at this meeting. Treating them as a staff follow-up may overstate them. (minutes: \"released for bid, with contractor selection anticipated by July 1. Several participating property owners are expected to receive purchase offers this fall.\" (p.4))",
+      "Check — followUpUpdates[2] (2026-05-11-fu-2): The minutes do not identify the vacancy as the seat left by Dr. John Buford; they describe it only as a vacancy after a member's term expired. Marking the earlier item resolved relies on an inference that it is the same seat. (minutes: \"A vacancy existed on the Agricultural Advisory Board following the expiration of a member's term.\" (p.4))",
+      "Check — tldr: Says \"Commissioners\" (plural) responded to public comments on Opportunity Zones, farmland preservation and data centers. The minutes attribute those responses only to Commissioner Dalton. (minutes: \"Commissioner Dalton responded to questions raised during public comment and provided clarification on several topics.\" (p.6))"
+    ]
+  }
+}
