@@ -100,10 +100,11 @@
           "mckelvey"
         ],
         "nays": [],
-        "abstained": [],
-        "absent": [
-          "chappell",
+        "abstained": [
           "dalton"
+        ],
+        "absent": [
+          "chappell"
         ]
       },
       "background": "Eleven community centers requested $119,334.99. Planning Department errors had oversubscribed the awards to $101,419.99, exceeding the $85,000 budget, so staff rescinded the award letters and re-evaluated the applications. The recommended awards were $30,500 for Wi-Fi grants, $15,594.51 for Grant 2 capital projects and $38,453 for Grant 3 capital projects, a total of $84,547.51, within budget.",
@@ -390,8 +391,6 @@
   "extraction": {
     "model": "claude-opus-5-5",
     "extractedAt": "2026-11-12T20:30:34.535Z",
-    "warnings": [
-      "Possible error — keyVotes[3].absent: Vice-Chairman Dalton is listed as absent for the community center grant vote. He was present and recused himself, as the Board had just approved, so he should not be recorded as absent. Recording him under abstained, or noting the recusal, would match the minutes. (minutes: \"The motion was approved unanimously by a 3-0 vote, with Vice-Chairman Dalton recused.\" (p. 15))"
-    ]
+    "warnings": []
   }
 }
