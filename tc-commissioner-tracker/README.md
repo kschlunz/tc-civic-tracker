@@ -67,7 +67,7 @@ Then run **Ingest minutes** by hand once with "Rebuild" ticked to load every mee
 - **A correction to a meeting**: edit its file in `src/data/meetings/` and open a pull request. CI validates it.
 - **A follow-up's status**: edit `status` (and `resolution`, `resolvedMeetingId`, `resolvedDate` when closing it) on the item in the file of the meeting that raised it.
 - **A change of board**: edit `src/data/commissioners.json`. Give a departing commissioner an `end` date on their term and add the new commissioner with a `start` date; update `roles` when the board elects a chair. Pages, filters and the extraction prompt all follow from this file.
-- **Election card**: `src/data/election.json`. Fill in `winners` once results are certified.
+- **Election card**: `src/data/election.json`. Fill in `winners` once results are reported (the card shows them as unofficial), then set `certified` to `true` after the county canvass.
 
 ## Project layout
 

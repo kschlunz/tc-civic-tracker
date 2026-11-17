@@ -38,7 +38,7 @@ export interface Meeting extends Omit<StoredMeeting, "commissionerActivity"> {
 export interface Commissioner {
   id: string;
   name: string;
-  /** Current leadership role, "Commissioner", or "Former Commissioner". */
+  /** Current leadership role, "Commissioner", "Commissioner-elect" or "Former Commissioner". */
   role: string;
   since: string;
   color: string;

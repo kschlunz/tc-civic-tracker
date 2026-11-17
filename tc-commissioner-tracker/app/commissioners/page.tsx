@@ -32,6 +32,8 @@ function getRoleBadge(role: string) {
       return { label: "Chairperson", bg: "bg-secondary-fixed", text: "text-on-secondary-fixed" };
     case "Vice-Chair":
       return { label: "Vice-Chair", bg: "bg-tertiary-fixed-dim/30", text: "text-on-tertiary-container" };
+    case "Commissioner-elect":
+      return { label: "Commissioner-elect", bg: "bg-tertiary-fixed", text: "text-on-tertiary-fixed-variant" };
     case "Former Commissioner":
       return { label: "Former member", bg: "bg-surface-container-high", text: "text-on-surface-variant" };
     default:
