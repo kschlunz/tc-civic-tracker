@@ -90,3 +90,26 @@ test("flags malformed follow-ups and dangling references", () => {
 test("the committed data files are valid", () => {
   assert.deepEqual(checkStoredMeetings(loadMeetings(), loadRoster()), []);
 });
+
+test("a commissioner whose term has not started is a commissioner-elect", () => {
+  const elect = { id: "carson", name: "Owen Carson", color: "#000", since: "2026", terms: [{ start: "2026-12-07" }], roles: [] };
+  const records = [...ROSTER, elect];
+  assert.equal(roleOn(elect, "2026-11-17"), "Commissioner-elect");
+  assert.equal(seatedOn(elect, "2026-11-17"), false);
+  assert.equal(roleOn(elect, "2026-12-07"), "Commissioner");
+
+  const before = buildRoster(records, "2026-11-17");
+  assert.deepEqual(before.map((c) => [c.id, c.current, c.role]), [
+    ["mccall", true, "Chair"],
+    ["chapman", true, "Commissioner"],
+    ["dalton", true, "Commissioner"],
+    ["carson", false, "Commissioner-elect"],
+  ]);
+  const after = buildRoster(records, "2026-12-07");
+  assert.deepEqual(after.map((c) => [c.id, c.current, c.role]), [
+    ["mccall", true, "Chair"],
+    ["chapman", true, "Commissioner"],
+    ["carson", true, "Commissioner"],
+    ["dalton", false, "Former Commissioner"],
+  ]);
+});

@@ -166,10 +166,22 @@ function DashboardContent() {
   const remainingTopics = topicCounts.slice(6);
 
   const electionHeld = todayISO() >= ELECTION.date;
-  const electionStatus =
-    ELECTION.winners.length > 0 ? "Results certified" : electionHeld ? "Election held — results pending certification" : `Election day: ${formatDate(ELECTION.date)}`;
+  const hasResults = ELECTION.winners.length > 0;
+  const electionStatus = hasResults
+    ? ELECTION.certified
+      ? "Results certified"
+      : "Unofficial results — pending certification"
+    : electionHeld
+      ? "Election held — results pending"
+      : `Election day: ${formatDate(ELECTION.date)}`;
   const candidatesByParty: Record<string, string[]> = {};
   for (const c of ELECTION.candidates) (candidatesByParty[c.party] ??= []).push(c.name);
+  const withParty = (name: string) => {
+    const party = ELECTION.candidates.find((c) => c.name === name)?.party;
+    return party ? `${name} (${party})` : name;
+  };
+  const elected = ELECTION.winners.map(withParty);
+  const notElected = ELECTION.candidates.filter((c) => !ELECTION.winners.includes(c.name)).map((c) => withParty(c.name));
 
   const stats = [
     { label: "Activity Monitor", sublabel: "Meetings Tracked", value: meetings.length, barWidth: `${Math.min(100, (meetings.length / Math.max(allMeetings.length, 1)) * 100)}%` },
@@ -223,8 +235,13 @@ function DashboardContent() {
                   {ELECTION.note}
                 </p>
                 <div className="space-y-2 text-sm text-primary-fixed-dim mb-8">
-                  {ELECTION.winners.length > 0 ? (
-                    <p><span className="font-bold text-primary-fixed">Elected:</span> {ELECTION.winners.join(", ")}</p>
+                  {hasResults ? (
+                    <>
+                      <p><span className="font-bold text-primary-fixed">Elected:</span> {elected.join(", ")}</p>
+                      {notElected.length > 0 && (
+                        <p><span className="font-bold text-primary-fixed">Also ran:</span> {notElected.join(", ")}</p>
+                      )}
+                    </>
                   ) : (
                     Object.entries(candidatesByParty).map(([party, names]) => (
                       <p key={party}><span className="font-bold text-primary-fixed">{party}:</span> {names.join(", ")}</p>

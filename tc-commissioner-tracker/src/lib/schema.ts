@@ -132,8 +132,10 @@ export const ElectionSchema = z.object({
   openSeats: z.number().int().nonnegative(),
   note: z.string(),
   candidates: z.array(z.object({ name: z.string(), party: z.string() })),
-  /** Names of the certified winners. Empty until results are official. */
+  /** Names of the winners, as written in `candidates`. Empty until results are reported. */
   winners: z.array(z.string()),
+  /** True once the county canvass has certified the results; until then `winners` are unofficial. */
+  certified: z.boolean(),
   resultsUrl: z.string().url().optional(),
 });
 

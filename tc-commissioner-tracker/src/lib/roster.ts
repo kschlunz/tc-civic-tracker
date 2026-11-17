@@ -14,8 +14,14 @@ export function seatedOn(record: CommissionerRecord, date: string): boolean {
   return record.terms.some((t) => inPeriod(t, date));
 }
 
-/** Leadership role held on the given date, or "Commissioner". */
+/** Elected but not yet sworn in: no term has started by the given date. */
+export function electOn(record: CommissionerRecord, date: string): boolean {
+  return record.terms.every((t) => t.start > date);
+}
+
+/** Leadership role held on the given date, "Commissioner", "Commissioner-elect" or "Former Commissioner". */
 export function roleOn(record: CommissionerRecord, date: string): string {
+  if (electOn(record, date)) return "Commissioner-elect";
   if (!seatedOn(record, date)) return "Former Commissioner";
   return record.roles.find((r) => inPeriod(r, date))?.role ?? "Commissioner";
 }
@@ -33,8 +39,11 @@ export function toCommissioner(record: CommissionerRecord, date: string): Commis
   };
 }
 
-/** Everyone in the roster, sitting members first, in roster order. */
+/** Everyone in the roster in roster order: sitting members, then commissioners-elect, then former members. */
 export function buildRoster(records: CommissionerRecord[], date: string): Commissioner[] {
-  const all = records.map((r) => toCommissioner(r, date));
-  return [...all.filter((c) => c.current), ...all.filter((c) => !c.current)];
+  const rank = (r: CommissionerRecord) => (seatedOn(r, date) ? 0 : electOn(r, date) ? 1 : 2);
+  return [...records]
+    .map((r, i) => ({ r, i }))
+    .sort((a, b) => rank(a.r) - rank(b.r) || a.i - b.i)
+    .map(({ r }) => toCommissioner(r, date));
 }

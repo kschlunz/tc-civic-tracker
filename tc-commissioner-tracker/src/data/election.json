@@ -2,13 +2,29 @@
   "date": "2026-11-03",
   "label": "November 2026 General Election",
   "openSeats": 2,
-  "note": "Dalton and McKelvey did not seek re-election. Their successors take office at the organizational meeting on December 7, 2026.",
+  "note": "Democrats Owen Carson and Bryan O'Neill won the two seats left open by Jake Dalton and Chase McKelvey, who did not seek re-election. They take office at the organizational meeting on December 7, 2026.",
   "candidates": [
-    { "name": "Kevin Howell", "party": "R" },
-    { "name": "George Sutherland", "party": "R" },
-    { "name": "Owen Carson", "party": "D" },
-    { "name": "Bryan O'Neill", "party": "D" }
+    {
+      "name": "Kevin Howell",
+      "party": "R"
+    },
+    {
+      "name": "George Sutherland",
+      "party": "R"
+    },
+    {
+      "name": "Owen Carson",
+      "party": "D"
+    },
+    {
+      "name": "Bryan O'Neill",
+      "party": "D"
+    }
   ],
-  "winners": [],
+  "winners": [
+    "Owen Carson",
+    "Bryan O'Neill"
+  ],
+  "certified": false,
   "resultsUrl": "https://transylvaniaelections.org/"
 }
