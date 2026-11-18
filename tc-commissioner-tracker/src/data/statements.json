@@ -1,6 +1,50 @@
 [
   {
     "commissionerId": "chapman",
+    "date": "2026-11-03",
+    "source": "The Transylvania Times",
+    "type": "news",
+    "text": "Chapman joined other school and county officials at an event with ceremonial groundbreakings celebrating renovation work at Rosman-area schools that began in the summer.",
+    "url": "https://www.transylvaniatimes.com/news/event-celebrates-improvements-to-schools/article_49af19f2-e26c-4686-8c9a-f450fde10856.html",
+    "categories": [
+      "schools"
+    ]
+  },
+  {
+    "commissionerId": "mccall",
+    "date": "2026-11-03",
+    "source": "The Transylvania Times",
+    "type": "news",
+    "text": "Commission Chair McCall appeared at an event at T.C. Henderson Elementary celebrating renovation work at Rosman-area schools.",
+    "url": "https://www.transylvaniatimes.com/news/event-celebrates-improvements-to-schools/article_49af19f2-e26c-4686-8c9a-f450fde10856.html",
+    "categories": [
+      "schools"
+    ]
+  },
+  {
+    "commissionerId": "dalton",
+    "date": "2026-09-29",
+    "source": "Yahoo News",
+    "type": "news",
+    "text": "A candidate guide for the November 3 election notes that Dalton is not running for re-election, leaving one of two open commission seats.",
+    "url": "https://www.yahoo.com/news/politics/articles/whos-running-transylvania-county-board-184635850.html",
+    "categories": [
+      "governance"
+    ]
+  },
+  {
+    "commissionerId": "mckelvey",
+    "date": "2026-09-29",
+    "source": "Yahoo News",
+    "type": "news",
+    "text": "A candidate guide for the November 3 election notes that McKelvey is not running for re-election, leaving one of two open commission seats.",
+    "url": "https://www.yahoo.com/news/politics/articles/whos-running-transylvania-county-board-184635850.html",
+    "categories": [
+      "governance"
+    ]
+  },
+  {
+    "commissionerId": "chapman",
     "date": "2026-02-09",
     "source": "Meeting — Commissioners' Comments",
     "type": "statement",
