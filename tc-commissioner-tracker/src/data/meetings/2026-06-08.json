@@ -331,11 +331,13 @@
       "dateRaised": "2026-06-08",
       "owner": "staff",
       "description": "Select contractors for the first group of hazard mitigation property acquisition projects by July 1, with purchase offers to several participating property owners expected this fall.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "recovery"
       ],
-      "relatedMeetingId": "2026-06-08"
+      "relatedMeetingId": "2026-06-08",
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolution": "Mr. Shook reported 11 eligible buyout applicants; acquisition proposals are being prepared for nine, and at least two have received packages."
     }
   ],
   "sourceUrl": "https://www.transylvaniacounty.org/sites/default/files/departments/administration/minutes/2026-06-08%20reg%20mtg.pdf",

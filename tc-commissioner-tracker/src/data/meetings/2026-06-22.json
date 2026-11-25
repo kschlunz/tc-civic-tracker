@@ -720,14 +720,16 @@
       "dateRaised": "2026-06-22",
       "owner": "John Kubis",
       "description": "Send a certified letter to Connestee Fire Rescue's Chief, Board Chair and Board Members about answering audit questions, for the purpose of negotiating a contract revision and/or a 90-day termination.",
-      "status": "in_progress",
+      "status": "resolved",
       "categories": [
         "safety",
         "governance"
       ],
       "relatedMeetingId": "2026-06-22",
-      "lastReferencedMeetingId": "2026-08-24",
-      "resolution": "Staff met twice with Connestee Fire Rescue to work out fiscal controls and revised payment terms. The Board approved parameters for a contract amendment requiring monthly documented reimbursement, with the formal amendment due back September 28, 2026."
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolvedDate": "2026-09-28",
+      "resolvedMeetingId": "2026-09-28",
+      "resolution": "Negotiations with Connestee Fire Rescue produced a revised contract payment amendment, which the department signed and the Board approved."
     },
     {
       "id": "2026-06-22-fu-4",
@@ -740,8 +742,8 @@
         "infrastructure"
       ],
       "relatedMeetingId": "2026-06-22",
-      "lastReferencedMeetingId": "2026-08-24",
-      "resolution": "The County Manager reported that the landfill cell expansion remains on schedule for completion by the end of September. Staff is working with DEQ, the contractor and the engineer on several stormwater-related issues."
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolution": "The Manager reported substantial completion of the landfill cell expansion, but the County had stormwater concerns and met with DEQ and its engineer of record that day."
     },
     {
       "id": "2026-06-22-fu-5",
@@ -754,8 +756,8 @@
         "environment"
       ],
       "relatedMeetingId": "2026-06-22",
-      "lastReferencedMeetingId": "2026-08-24",
-      "resolution": "On the consent agenda, the Board approved using up to $25,000 in Soil & Water special project funds to supplement EWP engineering costs for four Helene streambank restoration projects."
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolution": "The Manager reported streambank restoration work underway through the Emergency Watershed Protection program, with four Helene projects confirmed."
     },
     {
       "id": "2026-06-22-fu-6",
