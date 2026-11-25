@@ -704,46 +704,58 @@
       "dateRaised": "2026-08-24",
       "owner": "staff",
       "description": "Prepare the formal Connestee Fire Rescue contract amendment from the approved parameters and return it to the Board for approval on September 28, 2026.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "safety",
         "governance"
       ],
-      "relatedMeetingId": "2026-08-24"
+      "relatedMeetingId": "2026-08-24",
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolvedDate": "2026-09-28",
+      "resolvedMeetingId": "2026-09-28",
+      "resolution": "The formal Connestee Fire Rescue contract amendment was presented on September 28 and unanimously approved."
     },
     {
       "id": "2026-08-24-fu-5",
       "dateRaised": "2026-08-24",
       "owner": "Meagan O'Neal",
       "description": "Conduct a full review of Connestee Fire Rescue's new fiscal policies before the contract amendment is executed, and monitor compliance monthly.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "safety",
         "fiscal"
       ],
-      "relatedMeetingId": "2026-08-24"
+      "relatedMeetingId": "2026-08-24",
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolution": "Ms. O'Neal reported four meetings with the department, a review of its July reimbursement packet, and receipt of updated policies; monthly reimbursement-based monitoring was approved."
     },
     {
       "id": "2026-08-24-fu-6",
       "dateRaised": "2026-08-24",
       "owner": "staff",
       "description": "Bring a resolution approving the donation of surplus audiovisual equipment to Transylvania County Schools to the September 28, 2026 meeting.",
-      "status": "open",
+      "status": "resolved",
       "categories": [
         "schools"
       ],
-      "relatedMeetingId": "2026-08-24"
+      "relatedMeetingId": "2026-08-24",
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolvedDate": "2026-09-28",
+      "resolvedMeetingId": "2026-09-28",
+      "resolution": "The resolution approving donation of surplus audio-visual equipment to Transylvania County Schools was adopted on the consent agenda."
     },
     {
       "id": "2026-08-24-fu-7",
       "dateRaised": "2026-08-24",
       "owner": "Cameron Sexton",
       "description": "Provide the Board with the exact communication tower locations and project updates once site agreements and permitting are finalized.",
-      "status": "open",
+      "status": "in_progress",
       "categories": [
         "safety"
       ],
-      "relatedMeetingId": "2026-08-24"
+      "relatedMeetingId": "2026-08-24",
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolution": "The Manager reported the County was still working to secure sites for the two grant-funded communication towers."
     },
     {
       "id": "2026-08-24-fu-8",

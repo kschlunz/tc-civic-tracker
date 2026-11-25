@@ -494,14 +494,16 @@
       "dateRaised": "2025-10-13",
       "owner": "Jaime Laughter",
       "description": "Begin financing discussions with the Local Government Commission for the new courthouse while design work continues.",
-      "status": "in_progress",
+      "status": "resolved",
       "categories": [
         "fiscal",
         "infrastructure"
       ],
       "relatedMeetingId": "2025-10-13",
-      "lastReferencedMeetingId": "2026-08-24",
-      "resolution": "The Finance Director reported the County is preparing for the limited obligation bond process with the Local Government Commission and others, with courthouse financing scheduled for December 1, 2026."
+      "lastReferencedMeetingId": "2026-09-28",
+      "resolvedDate": "2026-09-28",
+      "resolvedMeetingId": "2026-09-28",
+      "resolution": "The Board adopted a preliminary resolution authorizing negotiation of up to $40 million in limited obligation bonds and an application to the LGC for the courthouse."
     },
     {
       "id": "2025-10-13-fu-3",
